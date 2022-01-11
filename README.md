@@ -1,6 +1,6 @@
 # PGDBDA-Project
 ## Stock Market analysis project done for DBDA course at CDAC ACTS PUNE For the academic Year Sep-2021-22
-### Under the Guidance for Prof.Abhay Dandekar.
+### Under the Guidance of Prof.Abhay Dandekar.
 ### Group Members:
                 1. Shubham Kumar  - 210940125043
                 2. Akash Hajnale  - 210940125003
