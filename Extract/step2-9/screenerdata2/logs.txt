@@ -1,0 +1,3101 @@
+Monday 10 January 2022 08:17:37 PM IST
+['20MICRONS', '20 Microns Limited']
+gathered: 1.20MICRONS
+['21STCENMGM', '21st Century Management Services Limited']
+gathered: 2.21STCENMGM
+['3IINFOLTD', '3i Infotech Limited']
+gathered: 3.3IINFOLTD
+['3MINDIA', '3M India Limited']
+gathered: 4.3MINDIA
+['3PLAND', '3P Land Holdings Limited']
+gathered: 5.3PLAND
+['5PAISA', '5Paisa Capital Limited']
+gathered: 6.5PAISA
+['63MOONS', '63 moons technologies limited']
+gathered: 7.63MOONS
+['AAKASH', 'Aakash Exploration Services Limited']
+gathered: 8.AAKASH
+['AAREYDRUGS', 'Aarey Drugs & Pharmaceuticals Limited']
+gathered: 9.AAREYDRUGS
+['AARON', 'Aaron Industries Limited']
+gathered: 10.AARON
+['AARTIDRUGS', 'Aarti Drugs Limited']
+gathered: 11.AARTIDRUGS
+['AARTIIND', 'Aarti Industries Limited']
+gathered: 12.AARTIIND
+['AARTISURF', 'Aarti Surfactants Limited']
+gathered: 13.AARTISURF
+['AARVEEDEN', 'Aarvee Denims & Exports Limited']
+gathered: 14.AARVEEDEN
+['AARVI', 'Aarvi Encon Limited']
+gathered: 15.AARVI
+['AAVAS', 'Aavas Financiers Limited']
+gathered: 16.AAVAS
+['ABB', 'ABB India Limited']
+gathered: 17.ABB
+['ABBOTINDIA', 'Abbott India Limited']
+gathered: 18.ABBOTINDIA
+['ABCAPITAL', 'Aditya Birla Capital Limited']
+gathered: 19.ABCAPITAL
+['ABFRL', 'Aditya Birla Fashion and Retail Limited']
+gathered: 20.ABFRL
+['ABMINTLLTD', 'ABM International Limited']
+gathered: 21.ABMINTLLTD
+['ABSLAMC', 'Aditya Birla Sun Life AMC Limited']
+gathered: 22.ABSLAMC
+['ACC', 'ACC Limited']
+gathered: 23.ACC
+['ACCELYA', 'Accelya Solutions India Limited']
+gathered: 24.ACCELYA
+['ACCURACY', 'Accuracy Shipping Limited']
+gathered: 25.ACCURACY
+['ACE', 'Action Construction Equipment Limited']
+gathered: 26.ACE
+['ACRYSIL', 'Acrysil Limited']
+gathered: 27.ACRYSIL
+['ADANIENT', 'Adani Enterprises Limited']
+gathered: 28.ADANIENT
+['ADANIGREEN', 'Adani Green Energy Limited']
+gathered: 29.ADANIGREEN
+['ADANIPORTS', 'Adani Ports and Special Economic Zone Limited']
+gathered: 30.ADANIPORTS
+['ADANIPOWER', 'Adani Power Limited']
+gathered: 31.ADANIPOWER
+['ADFFOODS', 'ADF Foods Limited']
+gathered: 32.ADFFOODS
+['ADORWELD', 'Ador Welding Limited']
+gathered: 33.ADORWELD
+['ADSL', 'Allied Digital Services Limited']
+gathered: 34.ADSL
+['ADVANIHOTR', 'Advani Hotels & Resorts (India) Limited']
+gathered: 35.ADVANIHOTR
+['ADVENZYMES', 'Advanced Enzyme Technologies Limited']
+gathered: 36.ADVENZYMES
+['AEGISCHEM', 'Aegis Logistics Limited']
+gathered: 37.AEGISCHEM
+['AFFLE', 'Affle (India) Limited']
+gathered: 38.AFFLE
+['AGARIND', 'Agarwal Industrial Corporation Limited']
+gathered: 39.AGARIND
+['AGROPHOS', 'Agro Phos India Limited']
+gathered: 40.AGROPHOS
+['AHLADA', 'Ahlada Engineers Limited']
+gathered: 41.AHLADA
+['AHLEAST', 'Asian Hotels (East) Limited']
+gathered: 42.AHLEAST
+['AHLUCONT', 'Ahluwalia Contracts (India) Limited']
+gathered: 43.AHLUCONT
+['AIAENG', 'AIA Engineering Limited']
+gathered: 44.AIAENG
+['AIRAN', 'Airan Limited']
+gathered: 45.AIRAN
+['AIROLAM', 'Airo Lam limited']
+gathered: 46.AIROLAM
+['AJANTPHARM', 'Ajanta Pharma Limited']
+gathered: 47.AJANTPHARM
+['AJMERA', 'Ajmera Realty & Infra India Limited']
+gathered: 48.AJMERA
+['AJOONI', 'Ajooni Biotech Limited']
+gathered: 49.AJOONI
+['AJRINFRA', 'AJR INFRA AND TOLLING LIMITED']
+gathered: 50.AJRINFRA
+['AKG', 'Akg Exim Limited']
+gathered: 51.AKG
+['AKSHARCHEM', 'AksharChem India Limited']
+gathered: 52.AKSHARCHEM
+['AKSHOPTFBR', 'Aksh Optifibre Limited']
+gathered: 53.AKSHOPTFBR
+['AKZOINDIA', 'Akzo Nobel India Limited']
+gathered: 54.AKZOINDIA
+['ALANKIT', 'Alankit Limited']
+gathered: 55.ALANKIT
+['ALBERTDAVD', 'Albert David Limited']
+gathered: 56.ALBERTDAVD
+['ALEMBICLTD', 'Alembic Limited']
+gathered: 57.ALEMBICLTD
+['ALICON', 'Alicon Castalloy Limited']
+gathered: 58.ALICON
+['ALKALI', 'Alkali Metals Limited']
+gathered: 59.ALKALI
+['ALKEM', 'Alkem Laboratories Limited']
+gathered: 60.ALKEM
+['ALKYLAMINE', 'Alkyl Amines Chemicals Limited']
+gathered: 61.ALKYLAMINE
+['ALLCARGO', 'Allcargo Logistics Limited']
+gathered: 62.ALLCARGO
+['ALLSEC', 'Allsec Technologies Limited']
+gathered: 63.ALLSEC
+['ALMONDZ', 'Almondz Global Securities Limited']
+gathered: 64.ALMONDZ
+['ALOKINDS', 'Alok Industries Limited']
+gathered: 65.ALOKINDS
+['ALPA', 'Alpa Laboratories Limited']
+gathered: 66.ALPA
+['ALPHAGEO', 'Alphageo (India) Limited']
+gathered: 67.ALPHAGEO
+['AMARAJABAT', 'Amara Raja Batteries Limited']
+gathered: 68.AMARAJABAT
+['AMBER', 'Amber Enterprises India Limited']
+gathered: 69.AMBER
+['AMBICAAGAR', 'Ambica Agarbathies & Aroma industries Limited']
+gathered: 70.AMBICAAGAR
+['AMBIKCO', 'Ambika Cotton Mills Limited']
+gathered: 71.AMBIKCO
+['AMBUJACEM', 'Ambuja Cements Limited']
+gathered: 72.AMBUJACEM
+['AMDIND', 'AMD Industries Limited']
+gathered: 73.AMDIND
+['AMIORG', 'Ami Organics Limited']
+gathered: 74.AMIORG
+['AMJLAND', 'Amj Land Holdings Limited']
+gathered: 75.AMJLAND
+['AMRUTANJAN', 'Amrutanjan Health Care Limited']
+gathered: 76.AMRUTANJAN
+['ANANDRATHI', 'Anand Rathi Wealth Limited']
+gathered: 77.ANANDRATHI
+['ANANTRAJ', 'Anant Raj Limited']
+gathered: 78.ANANTRAJ
+['ANDHRACEMT', 'Andhra Cements Limited']
+gathered: 79.ANDHRACEMT
+['ANDHRAPAP', 'ANDHRA PAPER LIMITED']
+gathered: 80.ANDHRAPAP
+['ANDHRSUGAR', 'The Andhra Sugars Limited']
+gathered: 81.ANDHRSUGAR
+['ANDREWYU', 'Andrew Yule & Company Limited']
+gathered: 82.ANDREWYU
+['ANGELONE', 'Angel One Limited']
+gathered: 83.ANGELONE
+['ANIKINDS', 'Anik Industries Limited']
+gathered: 84.ANIKINDS
+['ANMOL', 'Anmol India Limited']
+gathered: 85.ANMOL
+['ANUP', 'The Anup Engineering Limited']
+gathered: 86.ANUP
+['ANURAS', 'Anupam Rasayan India Limited']
+gathered: 87.ANURAS
+['APARINDS', 'Apar Industries Limited']
+gathered: 88.APARINDS
+['APCL', 'Anjani Portland Cement Limited']
+gathered: 89.APCL
+['APCOTEXIND', 'Apcotex Industries Limited']
+gathered: 90.APCOTEXIND
+['APEX', 'Apex Frozen Foods Limited']
+gathered: 91.APEX
+['APLAPOLLO', 'APL Apollo Tubes Limited']
+gathered: 92.APLAPOLLO
+['APLLTD', 'Alembic Pharmaceuticals Limited']
+gathered: 93.APLLTD
+['APOLLO', 'Apollo Micro Systems Limited']
+gathered: 94.APOLLO
+['APOLLOHOSP', 'Apollo Hospitals Enterprise Limited']
+gathered: 95.APOLLOHOSP
+['APOLLOPIPE', 'Apollo Pipes Limited']
+gathered: 96.APOLLOPIPE
+['APOLLOTYRE', 'Apollo Tyres Limited']
+gathered: 97.APOLLOTYRE
+['APOLSINHOT', 'Apollo Sindoori Hotels Limited']
+gathered: 98.APOLSINHOT
+['APTECHT', 'Aptech Limited']
+gathered: 99.APTECHT
+['APTUS', 'Aptus Value Housing Finance India Limited']
+gathered: 100.APTUS
+['ARCHIDPLY', 'Archidply Industries Limited']
+gathered: 101.ARCHIDPLY
+['ARCHIES', 'Archies Limited']
+gathered: 102.ARCHIES
+['ARENTERP', 'Rajdarshan Industries Limited']
+gathered: 103.ARENTERP
+['ARIES', 'Aries Agro Limited']
+gathered: 104.ARIES
+['ARIHANTCAP', 'Arihant Capital Markets Limited']
+gathered: 105.ARIHANTCAP
+['ARIHANTSUP', 'Arihant Superstructures Limited']
+gathered: 106.ARIHANTSUP
+['ARMANFIN', 'Arman Financial Services Limited']
+gathered: 107.ARMANFIN
+['AROGRANITE', 'Aro Granite Industries Limited']
+gathered: 108.AROGRANITE
+['ARROWGREEN', 'Arrow Greentech Limited']
+gathered: 109.ARROWGREEN
+['ARSHIYA', 'Arshiya Limited']
+gathered: 110.ARSHIYA
+['ARSSINFRA', 'ARSS Infrastructure Projects Limited']
+gathered: 111.ARSSINFRA
+['ARTEMISMED', 'Artemis Medicare Services Limited']
+gathered: 112.ARTEMISMED
+['ARVEE', 'Arvee Laboratories (India) Limited']
+gathered: 113.ARVEE
+['ARVIND', 'Arvind Limited']
+gathered: 114.ARVIND
+['ARVINDFASN', 'Arvind Fashions Limited']
+gathered: 115.ARVINDFASN
+['ASAHIINDIA', 'Asahi India Glass Limited']
+gathered: 116.ASAHIINDIA
+['ASAHISONG', 'Asahi Songwon Colors Limited']
+gathered: 117.ASAHISONG
+['ASALCBR', '.Associated Alcohols & Breweries Ltd...']
+gathered: 118.ASALCBR
+['ASHAPURMIN', 'Ashapura Minechem Limited']
+gathered: 119.ASHAPURMIN
+['ASHIANA', 'Ashiana Housing Limited']
+gathered: 120.ASHIANA
+['ASHIMASYN', 'Ashima Limited']
+gathered: 121.ASHIMASYN
+['ASHOKA', 'Ashoka Buildcon Limited']
+gathered: 122.ASHOKA
+['ASHOKLEY', 'Ashok Leyland Limited']
+gathered: 123.ASHOKLEY
+['ASIANENE', 'Asian Energy Services Limited']
+gathered: 124.ASIANENE
+['ASIANHOTNR', 'Asian Hotels (North) Limited']
+gathered: 125.ASIANHOTNR
+['ASIANPAINT', 'Asian Paints Limited']
+gathered: 126.ASIANPAINT
+['ASIANTILES', 'Asian Granito India Limited']
+gathered: 127.ASIANTILES
+['ASPINWALL', 'Aspinwall and Company Limited']
+gathered: 128.ASPINWALL
+['ASTEC', 'Astec LifeSciences Limited']
+gathered: 129.ASTEC
+['ASTERDM', 'Aster DM Healthcare Limited']
+gathered: 130.ASTERDM
+['ASTRAL', 'Astral Limited']
+gathered: 131.ASTRAL
+['ASTRAMICRO', 'Astra Microwave Products Limited']
+gathered: 132.ASTRAMICRO
+['ASTRAZEN', 'AstraZeneca Pharma India Limited']
+gathered: 133.ASTRAZEN
+['ASTRON', 'Astron Paper & Board Mill Limited']
+gathered: 134.ASTRON
+['ATFL', 'Agro Tech Foods Limited']
+gathered: 135.ATFL
+['ATULAUTO', 'Atul Auto Limited']
+gathered: 136.ATULAUTO
+['ATUL', 'Atul Limited']
+gathered: 137.ATUL
+['AUBANK', 'AU Small Finance Bank Limited']
+gathered: 138.AUBANK
+['AURIONPRO', 'Aurionpro Solutions Limited']
+gathered: 139.AURIONPRO
+['AUROPHARMA', 'Aurobindo Pharma Limited']
+gathered: 140.AUROPHARMA
+['AURUM', 'Aurum PropTech Limited']
+gathered: 141.AURUM
+['AUSOMENT', 'Ausom Enterprise Limited']
+gathered: 142.AUSOMENT
+['AUTOAXLES', 'Automotive Axles Limited']
+gathered: 143.AUTOAXLES
+['AUTOIND', 'Autoline Industries Limited']
+gathered: 144.AUTOIND
+['AVADHSUGAR', 'Avadh Sugar & Energy Limited']
+gathered: 145.AVADHSUGAR
+['AVANTIFEED', 'Avanti Feeds Limited']
+gathered: 146.AVANTIFEED
+['AVTNPL', 'AVT Natural Products Limited']
+gathered: 147.AVTNPL
+['AWHCL', 'Antony Waste Handling Cell Limited']
+gathered: 148.AWHCL
+['AXISBANK', 'Axis Bank Limited']
+gathered: 149.AXISBANK
+['AXISCADES', 'AXISCADES Technologies Limited']
+gathered: 150.AXISCADES
+['AYMSYNTEX', 'AYM Syntex Limited']
+gathered: 151.AYMSYNTEX
+['BAFNAPH', 'Bafna Pharmaceuticals Limited']
+gathered: 152.BAFNAPH
+['BAJAJ-AUTO', 'Bajaj Auto Limited']
+gathered: 153.BAJAJ-AUTO
+['BAJAJCON', 'Bajaj Consumer Care Limited']
+gathered: 154.BAJAJCON
+['BAJAJELEC', 'Bajaj Electricals Limited']
+gathered: 155.BAJAJELEC
+['BAJAJFINSV', 'Bajaj Finserv Limited']
+gathered: 156.BAJAJFINSV
+['BAJAJHCARE', 'Bajaj Healthcare Limited']
+gathered: 157.BAJAJHCARE
+['BAJAJHIND', 'Bajaj Hindusthan Sugar Limited']
+gathered: 158.BAJAJHIND
+['BAJAJHLDNG', 'Bajaj Holdings & Investment Limited']
+gathered: 159.BAJAJHLDNG
+['BAJFINANCE', 'Bajaj Finance Limited']
+gathered: 160.BAJFINANCE
+['BALAJITELE', 'Balaji Telefilms Limited']
+gathered: 161.BALAJITELE
+['BALAMINES', 'Balaji Amines Limited']
+gathered: 162.BALAMINES
+['BALAXI', 'BALAXI PHARMACEUTICALS LIMITED']
+gathered: 163.BALAXI
+['BALKRISHNA', 'Balkrishna Paper Mills Limited']
+gathered: 164.BALKRISHNA
+['BALKRISIND', 'Balkrishna Industries Limited']
+gathered: 165.BALKRISIND
+['BALMLAWRIE', 'Balmer Lawrie & Company Limited']
+gathered: 166.BALMLAWRIE
+['BALPHARMA', 'Bal Pharma Limited']
+gathered: 167.BALPHARMA
+['BALRAMCHIN', 'Balrampur Chini Mills Limited']
+gathered: 168.BALRAMCHIN
+['BANARBEADS', 'Banaras Beads Limited']
+gathered: 169.BANARBEADS
+['BANARISUG', 'Bannari Amman Sugars Limited']
+gathered: 170.BANARISUG
+['BANCOINDIA', 'Banco Products (I) Limited']
+gathered: 171.BANCOINDIA
+['BANDHANBNK', 'Bandhan Bank Limited']
+gathered: 172.BANDHANBNK
+['BANG', 'Bang Overseas Limited']
+gathered: 173.BANG
+['BANKA', 'Banka BioLoo Limited']
+gathered: 174.BANKA
+['BANKBARODA', 'Bank of Baroda']
+gathered: 175.BANKBARODA
+['BANKINDIA', 'Bank of India']
+gathered: 176.BANKINDIA
+['BANSWRAS', 'Banswara Syntex Limited']
+gathered: 177.BANSWRAS
+['BARBEQUE', 'Barbeque Nation Hospitality Limited']
+gathered: 178.BARBEQUE
+['BASF', 'BASF India Limited']
+gathered: 179.BASF
+['BASML', 'Bannari Amman Spinning Mills Limited']
+gathered: 180.BASML
+['BATAINDIA', 'Bata India Limited']
+gathered: 181.BATAINDIA
+['BAYERCROP', 'Bayer Cropscience Limited']
+gathered: 182.BAYERCROP
+['BBL', 'Bharat Bijlee Limited']
+gathered: 183.BBL
+['BBOX', 'Black Box Limited']
+FAILED TO GATHER 183BBOX
+['BBTC', 'Bombay Burmah Trading Corporation Limited']
+gathered: 184.BBTC
+['BCLIND', 'Bcl Industries Limited']
+gathered: 185.BCLIND
+['BCP', '.B..C.. Power Controls Ltd.']
+gathered: 186.BCP
+['BDL', 'Bharat Dynamics Limited']
+gathered: 187.BDL
+['BEARDSELL', 'Beardsell Limited']
+gathered: 188.BEARDSELL
+['BECTORFOOD', '.Mrs.. Bectors Food Specialities Limited.']
+gathered: 189.BECTORFOOD
+['BEDMUTHA', 'Bedmutha Industries Limited']
+gathered: 190.BEDMUTHA
+['BEL', 'Bharat Electronics Limited']
+gathered: 191.BEL
+['BEML', 'BEML Limited']
+gathered: 192.BEML
+['BEPL', 'Bhansali Engineering Polymers Limited']
+gathered: 193.BEPL
+['BERGEPAINT', 'Berger Paints (I) Limited']
+gathered: 194.BERGEPAINT
+['BESTAGRO', 'Best Agrolife Limited']
+gathered: 195.BESTAGRO
+['BFINVEST', 'BF Investment Limited']
+gathered: 196.BFINVEST
+['BFUTILITIE', 'BF Utilities Limited']
+gathered: 197.BFUTILITIE
+['BGRENERGY', 'BGR Energy Systems Limited']
+gathered: 198.BGRENERGY
+['BHAGCHEM', 'Bhagiradha Chemicals & Industries Limited']
+gathered: 199.BHAGCHEM
+['BHAGERIA', 'Bhageria Industries Limited']
+gathered: 200.BHAGERIA
+['BHAGYANGR', 'Bhagyanagar India Limited']
+gathered: 201.BHAGYANGR
+['BHAGYAPROP', 'Bhagyanagar Properties Limited']
+gathered: 202.BHAGYAPROP
+['BHANDARI', 'Bhandari Hosiery Exports Limited']
+gathered: 203.BHANDARI
+['BHARATFORG', 'Bharat Forge Limited']
+gathered: 204.BHARATFORG
+['BHARATGEAR', 'Bharat Gears Limited']
+gathered: 205.BHARATGEAR
+['BHARATRAS', 'Bharat Rasayan Limited']
+gathered: 206.BHARATRAS
+['BHARATWIRE', 'Bharat Wire Ropes Limited']
+gathered: 207.BHARATWIRE
+['BHARTIARTL', 'Bharti Airtel Limited']
+gathered: 208.BHARTIARTL
+['BHEL', 'Bharat Heavy Electricals Limited']
+gathered: 209.BHEL
+['BIGBLOC', 'Bigbloc Construction Limited']
+gathered: 210.BIGBLOC
+['BIL', 'Bhartiya International Limited']
+gathered: 211.BIL
+['BINDALAGRO', 'Oswal Chemicals & Fertilizers Limited']
+gathered: 212.BINDALAGRO
+['BIOCON', 'Biocon Limited']
+gathered: 213.BIOCON
+['BIOFILCHEM', 'Biofil Chemicals & Pharmaceuticals Limited']
+gathered: 214.BIOFILCHEM
+['BIRLACABLE', 'Birla Cable Limited']
+gathered: 215.BIRLACABLE
+['BIRLACORPN', 'Birla Corporation Limited']
+gathered: 216.BIRLACORPN
+['BIRLAMONEY', 'Aditya Birla Money Limited']
+gathered: 217.BIRLAMONEY
+['BIRLATYRE', 'Birla Tyres Limited']
+gathered: 218.BIRLATYRE
+['BLBLIMITED', 'BLB Limited']
+gathered: 219.BLBLIMITED
+['BLISSGVS', 'Bliss GVS Pharma Limited']
+gathered: 220.BLISSGVS
+['BLKASHYAP', '.B.. L.. Kashyap and Sons Limited.']
+gathered: 221.BLKASHYAP
+['BLUEDART', 'Blue Dart Express Limited']
+gathered: 222.BLUEDART
+['BLUESTARCO', 'Blue Star Limited']
+gathered: 223.BLUESTARCO
+['BODALCHEM', 'Bodal Chemicals Limited']
+gathered: 224.BODALCHEM
+['BOMDYEING', 'Bombay Dyeing & Mfg Company Limited']
+gathered: 225.BOMDYEING
+['BOROLTD', 'Borosil Limited']
+gathered: 226.BOROLTD
+['BORORENEW', 'BOROSIL RENEWABLES LIMITED']
+gathered: 227.BORORENEW
+['BOSCHLTD', 'Bosch Limited']
+gathered: 228.BOSCHLTD
+['BPCL', 'Bharat Petroleum Corporation Limited']
+gathered: 229.BPCL
+['BRIGADE', 'Brigade Enterprises Limited']
+gathered: 230.BRIGADE
+['BRITANNIA', 'Britannia Industries Limited']
+gathered: 231.BRITANNIA
+['BRNL', 'Bharat Road Network Limited']
+gathered: 232.BRNL
+['BROOKS', 'Brooks Laboratories Limited']
+gathered: 233.BROOKS
+['BSE', 'BSE Limited']
+gathered: 234.BSE
+['BSHSL', 'Bombay Super Hybrid Seeds Limited']
+gathered: 235.BSHSL
+['BSL', 'BSL Limited']
+gathered: 236.BSL
+['BSOFT', 'BIRLASOFT LIMITED']
+gathered: 237.BSOFT
+['BURGERKING', 'Burger King India Limited']
+gathered: 238.BURGERKING
+['BURNPUR', 'Burnpur Cement Limited']
+gathered: 239.BURNPUR
+['BYKE', 'The Byke Hospitality Ltd']
+gathered: 240.BYKE
+['CADILAHC', 'Cadila Healthcare Limited']
+gathered: 241.CADILAHC
+['CAMLINFINE', 'Camlin Fine Sciences Limited']
+gathered: 242.CAMLINFINE
+['CAMS', 'Computer Age Management Services Limited']
+gathered: 243.CAMS
+['CANBK', 'Canara Bank']
+gathered: 244.CANBK
+['CANFINHOME', 'Can Fin Homes Limited']
+gathered: 245.CANFINHOME
+['CAPACITE', "Capacit'e Infraprojects Limited"]
+gathered: 246.CAPACITE
+['CAPLIPOINT', 'Caplin Point Laboratories Limited']
+gathered: 247.CAPLIPOINT
+['CAPTRUST', 'Capital Trust Limited']
+gathered: 248.CAPTRUST
+['CARBORUNIV', 'Carborundum Universal Limited']
+gathered: 249.CARBORUNIV
+['CAREERP', 'Career Point Limited']
+gathered: 250.CAREERP
+['CARERATING', 'CARE Ratings Limited']
+gathered: 251.CARERATING
+['CARTRADE', 'Cartrade Tech Limited']
+gathered: 252.CARTRADE
+['CASTROLIND', 'Castrol India Limited']
+gathered: 253.CASTROLIND
+['CCHHL', 'Country Club Hospitality & Holidays Limited']
+gathered: 254.CCHHL
+['CCL', 'CCL Products (India) Limited']
+gathered: 255.CCL
+['CDSL', 'Central Depository Services (India) Limited']
+gathered: 256.CDSL
+['CEATLTD', 'CEAT Limited']
+gathered: 257.CEATLTD
+['CEBBCO', 'Commercial Engineers & Body Builders Co Limited']
+gathered: 258.CEBBCO
+['CELEBRITY', 'Celebrity Fashions Limited']
+gathered: 259.CELEBRITY
+['CENTENKA', 'Century Enka Limited']
+gathered: 260.CENTENKA
+['CENTEXT', 'Century Extrusions Limited']
+gathered: 261.CENTEXT
+['CENTRALBK', 'Central Bank of India']
+gathered: 262.CENTRALBK
+['CENTRUM', 'Centrum Capital Limited']
+gathered: 263.CENTRUM
+['CENTUM', 'Centum Electronics Limited']
+gathered: 264.CENTUM
+['CENTURYPLY', 'Century Plyboards (India) Limited']
+gathered: 265.CENTURYPLY
+['CENTURYTEX', 'Century Textiles & Industries Limited']
+gathered: 266.CENTURYTEX
+['CERA', 'Cera Sanitaryware Limited']
+gathered: 267.CERA
+['CEREBRAINT', 'Cerebra Integrated Technologies Limited']
+gathered: 268.CEREBRAINT
+['CESC', 'CESC Limited']
+gathered: 269.CESC
+['CGCL', 'Capri Global Capital Limited']
+gathered: 270.CGCL
+['CHALET', 'Chalet Hotels Limited']
+gathered: 271.CHALET
+['CHAMBLFERT', 'Chambal Fertilizers & Chemicals Limited']
+gathered: 272.CHAMBLFERT
+['CHEMBOND', 'Chembond Chemicals Ltd']
+gathered: 273.CHEMBOND
+['CHEMCON', 'Chemcon Speciality Chemicals Limited']
+gathered: 274.CHEMCON
+['CHEMFAB', 'Chemfab Alkalis Limited']
+gathered: 275.CHEMFAB
+['CHEMPLASTS', 'Chemplast Sanmar Limited']
+gathered: 276.CHEMPLASTS
+['CHENNPETRO', 'Chennai Petroleum Corporation Limited']
+gathered: 277.CHENNPETRO
+['CHOLAFIN', 'Cholamandalam Investment and Finance Company Limited']
+gathered: 278.CHOLAFIN
+['CHOLAHLDNG', 'Cholamandalam Financial Holdings Limited']
+gathered: 279.CHOLAHLDNG
+['CIGNITITEC', 'Cigniti Technologies Limited']
+gathered: 280.CIGNITITEC
+['CINELINE', 'Cineline India Limited']
+gathered: 281.CINELINE
+['CIPLA', 'Cipla Limited']
+gathered: 282.CIPLA
+['CLEAN', 'Clean Science and Technology Limited']
+gathered: 283.CLEAN
+['CLNINDIA', 'Clariant Chemicals (India) Limited']
+gathered: 284.CLNINDIA
+['CLSEL', 'Chaman Lal Setia Exports Limited']
+gathered: 285.CLSEL
+['CMICABLES', 'CMI Limited']
+gathered: 286.CMICABLES
+['COALINDIA', 'Coal India Limited']
+gathered: 287.COALINDIA
+['COASTCORP', 'Coastal Corporation Limited']
+gathered: 288.COASTCORP
+['COCHINSHIP', 'Cochin Shipyard Limited']
+gathered: 289.COCHINSHIP
+['COFFEEDAY', 'Coffee Day Enterprises Limited']
+gathered: 290.COFFEEDAY
+['COFORGE', 'Coforge Limited']
+gathered: 291.COFORGE
+['COLPAL', 'Colgate Palmolive (India) Limited']
+gathered: 292.COLPAL
+['COMPINFO', 'Compuage Infocom Limited']
+gathered: 293.COMPINFO
+['COMPUSOFT', 'Compucom Software Limited']
+gathered: 294.COMPUSOFT
+['CONCOR', 'Container Corporation of India Limited']
+gathered: 295.CONCOR
+['CONFIPET', 'Confidence Petroleum India Limited']
+gathered: 296.CONFIPET
+['CONSOFINVT', 'Consolidated Finvest & Holdings Limited']
+gathered: 297.CONSOFINVT
+['CONTROLPR', 'Control Print Limited']
+gathered: 298.CONTROLPR
+['CORALFINAC', 'Coral India Finance & Housing Limited']
+gathered: 299.CORALFINAC
+['CORDSCABLE', 'Cords Cable Industries Limited']
+gathered: 300.CORDSCABLE
+['COROMANDEL', 'Coromandel International Limited']
+gathered: 301.COROMANDEL
+['COSMOFILMS', 'Cosmo Films Limited']
+gathered: 302.COSMOFILMS
+['COUNCODOS', "Country Condo's Limited"]
+gathered: 303.COUNCODOS
+['CRAFTSMAN', 'Craftsman Automation Limited']
+gathered: 304.CRAFTSMAN
+['CREDITACC', 'CREDITACCESS GRAMEEN LIMITED']
+gathered: 305.CREDITACC
+['CRISIL', 'CRISIL Limited']
+gathered: 306.CRISIL
+['CROMPTON', 'Crompton Greaves Consumer Electricals Limited']
+gathered: 307.CROMPTON
+['CSBBANK', 'CSB Bank Limited']
+gathered: 308.CSBBANK
+['CTE', 'Cambridge Technology Enterprises Limited']
+gathered: 309.CTE
+['CUB', 'City Union Bank Limited']
+gathered: 310.CUB
+['CUBEXTUB', 'Cubex Tubings Limited']
+gathered: 311.CUBEXTUB
+['CUMMINSIND', 'Cummins India Limited']
+gathered: 312.CUMMINSIND
+['CUPID', 'Cupid Limited']
+gathered: 313.CUPID
+['CYBERMEDIA', 'Cyber Media (India) Limited']
+gathered: 314.CYBERMEDIA
+['CYBERTECH', 'Cybertech Systems And Software Limited']
+gathered: 315.CYBERTECH
+['CYIENT', 'Cyient Limited']
+gathered: 316.CYIENT
+['DAAWAT', 'LT Foods Limited']
+gathered: 317.DAAWAT
+['DABUR', 'Dabur India Limited']
+gathered: 318.DABUR
+['DALBHARAT', 'Dalmia Bharat Limited']
+gathered: 319.DALBHARAT
+['DALMIASUG', 'Dalmia Bharat Sugar and Industries Limited']
+gathered: 320.DALMIASUG
+['DAMODARIND', 'Damodar Industries Limited']
+gathered: 321.DAMODARIND
+['DANGEE', 'Dangee Dums Limited']
+gathered: 322.DANGEE
+['DATAMATICS', 'Datamatics Global Services Limited']
+gathered: 323.DATAMATICS
+['DATAPATTNS', 'Data Patterns (India) Limited']
+gathered: 324.DATAPATTNS
+['DBCORP', '.D..B..Corp Limited.']
+gathered: 325.DBCORP
+['DBL', 'Dilip Buildcon Limited']
+gathered: 326.DBL
+['DBSTOCKBRO', 'DB (International) Stock Brokers Limited']
+gathered: 327.DBSTOCKBRO
+['DCAL', 'Dishman Carbogen Amcis Limited']
+gathered: 328.DCAL
+['DCBBANK', 'DCB Bank Limited']
+gathered: 329.DCBBANK
+['DCMNVL', 'DCM Nouvelle Limited']
+gathered: 330.DCMNVL
+['DCMSHRIRAM', 'DCM Shriram Limited']
+gathered: 331.DCMSHRIRAM
+['DCMSRIND', 'DCM Shriram Industries Limited']
+gathered: 332.DCMSRIND
+['DECCANCE', 'Deccan Cements Limited']
+gathered: 333.DECCANCE
+['DEEPAKFERT', 'Deepak Fertilizers and Petrochemicals Corporation Limited']
+gathered: 334.DEEPAKFERT
+['DEEPAKNTR', 'Deepak Nitrite Limited']
+gathered: 335.DEEPAKNTR
+['DEEPENR', 'DEEP ENERGY RESOURCES LIMITED']
+gathered: 336.DEEPENR
+['DEEPINDS', 'Deep Industries Limited']
+gathered: 337.DEEPINDS
+['DELPHIFX', 'DELPHI WORLD MONEY LIMITED']
+gathered: 338.DELPHIFX
+['DELTACORP', 'Delta Corp Limited']
+gathered: 339.DELTACORP
+['DELTAMAGNT', 'Delta Manufacturing Limited']
+gathered: 340.DELTAMAGNT
+['DEN', 'Den Networks Limited']
+gathered: 341.DEN
+['DEVYANI', 'Devyani International Limited']
+gathered: 342.DEVYANI
+['DFMFOODS', 'DFM Foods Limited']
+FAILED TO GATHER 342DFMFOODS
+['DHAMPURSUG', 'Dhampur Sugar Mills Limited']
+gathered: 343.DHAMPURSUG
+['DHANBANK', 'Dhanlaxmi Bank Limited']
+gathered: 344.DHANBANK
+['DHANI', 'Dhani Services Limited']
+gathered: 345.DHANI
+['DHANUKA', 'Dhanuka Agritech Limited']
+gathered: 346.DHANUKA
+['DHARAMSI', 'The Dharamsi Morarji Chemical Company Limited']
+gathered: 347.DHARAMSI
+['DHARSUGAR', 'Dharani Sugars & Chemicals Limited']
+gathered: 348.DHARSUGAR
+['DHRUV', 'Dhruv Consultancy Services Limited']
+FAILED TO GATHER 348DHRUV
+['DHUNINV', 'Dhunseri Investments Limited']
+gathered: 349.DHUNINV
+['DIAMONDYD', 'Prataap Snacks Limited']
+gathered: 350.DIAMONDYD
+['DICIND', 'DIC India Limited']
+gathered: 351.DICIND
+['DIGISPICE', 'DiGiSPICE Technologies Limited']
+gathered: 352.DIGISPICE
+['DIGJAMLMTD', 'Digjam Limited']
+gathered: 353.DIGJAMLMTD
+['DIVISLAB', "Divi's Laboratories Limited"]
+gathered: 354.DIVISLAB
+['DIXON', 'Dixon Technologies (India) Limited']
+gathered: 355.DIXON
+['DLF', 'DLF Limited']
+gathered: 356.DLF
+['DLINKINDIA', 'D-Link (India) Limited']
+gathered: 357.DLINKINDIA
+['DMART', 'Avenue Supermarts Limited']
+gathered: 358.DMART
+['DODLA', 'Dodla Dairy Limited']
+gathered: 359.DODLA
+['DOLATALGO', 'Dolat Algotech Limited']
+FAILED TO GATHER 359DOLATALGO
+['DOLLAR', 'Dollar Industries Limited']
+gathered: 360.DOLLAR
+['DPABHUSHAN', '.D.. P.. Abhushan Limited.']
+gathered: 361.DPABHUSHAN
+['DPSCLTD', 'DPSC Limited']
+gathered: 362.DPSCLTD
+['DPWIRES', 'D P Wires Limited']
+gathered: 363.DPWIRES
+['DREDGECORP', 'Dredging Corporation of India Limited']
+gathered: 364.DREDGECORP
+['DRREDDY', ".Dr.. Reddy's Laboratories Limited."]
+gathered: 365.DRREDDY
+['DSSL', 'Dynacons Systems & Solutions Limited']
+gathered: 366.DSSL
+['DTIL', 'Dhunseri Tea & Industries Limited']
+gathered: 367.DTIL
+['DVL', 'Dhunseri Ventures Limited']
+gathered: 368.DVL
+['DWARKESH', 'Dwarikesh Sugar Industries Limited']
+gathered: 369.DWARKESH
+['DYNPRO', 'Dynemic Products Limited']
+gathered: 370.DYNPRO
+['EASTSILK', 'Eastern Silk Industries Limited']
+gathered: 371.EASTSILK
+['ECLERX', 'eClerx Services Limited']
+gathered: 372.ECLERX
+['EDELWEISS', 'Edelweiss Financial Services Limited']
+gathered: 373.EDELWEISS
+['EICHERMOT', 'Eicher Motors Limited']
+gathered: 374.EICHERMOT
+['EIDPARRY', 'EID Parry India Limited']
+gathered: 375.EIDPARRY
+['EIFFL', 'Euro India Fresh Foods Limited']
+gathered: 376.EIFFL
+['EIHAHOTELS', 'EIH Associated Hotels Limited']
+gathered: 377.EIHAHOTELS
+['EIHOTEL', 'EIH Limited']
+gathered: 378.EIHOTEL
+['EIMCOELECO', 'Eimco Elecon (India) Limited']
+gathered: 379.EIMCOELECO
+['EKC', 'Everest Kanto Cylinder Limited']
+gathered: 380.EKC
+['ELECON', 'Elecon Engineering Company Limited']
+gathered: 381.ELECON
+['ELECTCAST', 'Electrosteel Castings Limited']
+gathered: 382.ELECTCAST
+['ELECTHERM', 'Electrotherm (India) Limited']
+gathered: 383.ELECTHERM
+['ELGIEQUIP', 'Elgi Equipments Limited']
+gathered: 384.ELGIEQUIP
+['ELGIRUBCO', 'Elgi Rubber Company Limited']
+gathered: 385.ELGIRUBCO
+['EMAMILTD', 'Emami Limited']
+gathered: 386.EMAMILTD
+['EMAMIPAP', 'Emami Paper Mills Limited']
+gathered: 387.EMAMIPAP
+['EMAMIREAL', 'Emami Realty Limited']
+gathered: 388.EMAMIREAL
+['EMKAY', 'Emkay Global Financial Services Limited']
+gathered: 389.EMKAY
+['EMMBI', 'Emmbi Industries Limited']
+gathered: 390.EMMBI
+['ENDURANCE', 'Endurance Technologies Limited']
+gathered: 391.ENDURANCE
+['ENERGYDEV', 'Energy Development Company Limited']
+gathered: 392.ENERGYDEV
+['ENGINERSIN', 'Engineers India Limited']
+gathered: 393.ENGINERSIN
+['ENIL', 'Entertainment Network (India) Limited']
+gathered: 394.ENIL
+['EPL', 'EPL Limited']
+gathered: 395.EPL
+['EQUIPPP', 'Equippp Social Impact Technologies Limited']
+gathered: 396.EQUIPPP
+['EQUITASBNK', 'Equitas Small Finance Bank Limited']
+gathered: 397.EQUITASBNK
+['EQUITAS', 'Equitas Holdings Limited']
+gathered: 398.EQUITAS
+['ERIS', 'Eris Lifesciences Limited']
+gathered: 399.ERIS
+['EROSMEDIA', 'Eros International Media Limited']
+gathered: 400.EROSMEDIA
+['ESABINDIA', 'Esab India Limited']
+gathered: 401.ESABINDIA
+['ESCORTS', 'Escorts Limited']
+gathered: 402.ESCORTS
+['ESSARSHPNG', 'Essar Shipping Limited']
+gathered: 403.ESSARSHPNG
+['ESTER', 'Ester Industries Limited']
+gathered: 404.ESTER
+['EVEREADY', 'Eveready Industries India Limited']
+gathered: 405.EVEREADY
+['EVERESTIND', 'Everest Industries Limited']
+gathered: 406.EVERESTIND
+['EXCELINDUS', 'Excel Industries Limited']
+gathered: 407.EXCELINDUS
+['EXIDEIND', 'Exide Industries Limited']
+gathered: 408.EXIDEIND
+['EXPLEOSOL', 'Expleo Solutions Limited']
+gathered: 409.EXPLEOSOL
+['EXXARO', 'Exxaro Tiles Limited']
+gathered: 410.EXXARO
+['FACT', 'Fertilizers and Chemicals Travancore Limited']
+gathered: 411.FACT
+['FAIRCHEMOR', 'Fairchem Organics Limited']
+gathered: 412.FAIRCHEMOR
+['FCL', 'Fineotex Chemical Limited']
+gathered: 413.FCL
+['FCONSUMER', 'Future Consumer Limited']
+gathered: 414.FCONSUMER
+['FDC', 'FDC Limited']
+gathered: 415.FDC
+['FEDERALBNK', 'The Federal Bank  Limited']
+gathered: 416.FEDERALBNK
+['FEL', 'Future Enterprises Limited']
+gathered: 417.FEL
+['FELDVR', 'Future Enterprises Limited']
+gathered: 418.FELDVR
+['FIEMIND', 'Fiem Industries Limited']
+gathered: 419.FIEMIND
+['FILATEX', 'Filatex India Limited']
+gathered: 420.FILATEX
+['FINCABLES', 'Finolex Cables Limited']
+gathered: 421.FINCABLES
+['FINEORG', 'Fine Organic Industries Limited']
+gathered: 422.FINEORG
+['FINOPB', 'Fino Payments Bank Limited']
+gathered: 423.FINOPB
+['FINPIPE', 'Finolex Industries Limited']
+gathered: 424.FINPIPE
+['FLEXITUFF', 'Flexituff Ventures International Limited']
+gathered: 425.FLEXITUFF
+['FLFL', 'Future Lifestyle Fashions Limited']
+gathered: 426.FLFL
+['FLUOROCHEM', 'Gujarat Fluorochemicals Limited']
+gathered: 427.FLUOROCHEM
+['FMGOETZE', '.Federal-Mogul Goetze (India) Limited...']
+gathered: 428.FMGOETZE
+['FMNL', 'Future Market Networks Limited']
+gathered: 429.FMNL
+['FOCUS', 'Focus Lighting and Fixtures Limited']
+gathered: 430.FOCUS
+['FOODSIN', 'Foods & Inns Limited']
+gathered: 431.FOODSIN
+['FORCEMOT', 'FORCE MOTORS LTD']
+gathered: 432.FORCEMOT
+['FORTIS', 'Fortis Healthcare Limited']
+gathered: 433.FORTIS
+['FOSECOIND', 'Foseco India Limited']
+gathered: 434.FOSECOIND
+['FRETAIL', 'Future Retail Limited']
+gathered: 435.FRETAIL
+['FSC', 'Future Supply Chain Solutions Limited']
+gathered: 436.FSC
+['FSL', 'Firstsource Solutions Limited']
+gathered: 437.FSL
+['GABRIEL', 'Gabriel India Limited']
+gathered: 438.GABRIEL
+['GAEL', 'Gujarat Ambuja Exports Limited']
+gathered: 439.GAEL
+['GAIL', 'GAIL (India) Limited']
+gathered: 440.GAIL
+['GALAXYSURF', 'Galaxy Surfactants Limited']
+gathered: 441.GALAXYSURF
+['GAL', 'Gyscoal Alloys Limited']
+gathered: 442.GAL
+['GALLANTT', 'Gallantt Metal Limited']
+gathered: 443.GALLANTT
+['GALLISPAT', 'Gallantt Ispat Limited']
+gathered: 444.GALLISPAT
+['GANDHITUBE', 'Gandhi Special Tubes Limited']
+gathered: 445.GANDHITUBE
+['GANECOS', 'Ganesha Ecosphere Limited']
+gathered: 446.GANECOS
+['GANESHBE', 'Ganesh Benzoplast Limited']
+gathered: 447.GANESHBE
+['GANESHHOUC', 'Ganesh Housing Corporation Limited']
+gathered: 448.GANESHHOUC
+['GANGAFORGE', 'Ganga Forging Limited']
+gathered: 449.GANGAFORGE
+['GANGESSECU', 'Ganges Securities Limited']
+gathered: 450.GANGESSECU
+['GARFIBRES', 'Garware Technical Fibres Limited']
+gathered: 451.GARFIBRES
+['GATI', 'GATI Limited']
+gathered: 452.GATI
+['GAYAPROJ', 'Gayatri Projects Limited']
+gathered: 453.GAYAPROJ
+['GDL', 'Gateway Distriparks Limited']
+gathered: 454.GDL
+['GEECEE', 'GeeCee Ventures Limited']
+gathered: 455.GEECEE
+['GEEKAYWIRE', 'Geekay Wires Limited']
+gathered: 456.GEEKAYWIRE
+['GENCON', 'Generic Engineering Construction and Projects Limited']
+gathered: 457.GENCON
+['GENESYS', 'Genesys International Corporation Limited']
+gathered: 458.GENESYS
+['GENUSPAPER', 'Genus Paper & Boards Limited']
+gathered: 459.GENUSPAPER
+['GENUSPOWER', 'Genus Power Infrastructures Limited']
+gathered: 460.GENUSPOWER
+['GEOJITFSL', 'Geojit Financial Services Limited']
+gathered: 461.GEOJITFSL
+['GEPIL', 'GE Power India Limited']
+gathered: 462.GEPIL
+['GESHIP', 'The Great Eastern Shipping Company Limited']
+gathered: 463.GESHIP
+['GET&D', 'GE T&D India Limited']
+gathered: 464.GET&D
+['GFLLIMITED', 'GFL Limited']
+gathered: 465.GFLLIMITED
+['GHCL', 'GHCL Limited']
+gathered: 466.GHCL
+['GICHSGFIN', 'GIC Housing Finance Limited']
+gathered: 467.GICHSGFIN
+['GICRE', 'General Insurance Corporation of India']
+gathered: 468.GICRE
+['GILLANDERS', 'Gillanders Arbuthnot & Company Limited']
+gathered: 469.GILLANDERS
+['GILLETTE', 'Gillette India Limited']
+gathered: 470.GILLETTE
+['GINNIFILA', 'Ginni Filaments Limited']
+gathered: 471.GINNIFILA
+['GIPCL', 'Gujarat Industries Power Company Limited']
+gathered: 472.GIPCL
+['GKWLIMITED', 'GKW Limited']
+gathered: 473.GKWLIMITED
+['GLAND', 'Gland Pharma Limited']
+gathered: 474.GLAND
+['GLAXO', 'GlaxoSmithKline Pharmaceuticals Limited']
+gathered: 475.GLAXO
+['GLENMARK', 'Glenmark Pharmaceuticals Limited']
+gathered: 476.GLENMARK
+['GLOBAL', 'Global Education Limited']
+gathered: 477.GLOBAL
+['GLOBALVECT', 'Global Vectra Helicorp Limited']
+gathered: 478.GLOBALVECT
+['GLOBE', 'Globe Textiles (India) Limited']
+gathered: 479.GLOBE
+['GLOBUSSPR', 'Globus Spirits Limited']
+gathered: 480.GLOBUSSPR
+['GLS', 'Glenmark Life Sciences Limited']
+gathered: 481.GLS
+['GMBREW', 'GM Breweries Limited']
+gathered: 482.GMBREW
+['GMDCLTD', 'Gujarat Mineral Development Corporation Limited']
+gathered: 483.GMDCLTD
+['GMMPFAUDLR', 'GMM Pfaudler Limited']
+gathered: 484.GMMPFAUDLR
+['GMRINFRA', 'GMR Infrastructure Limited']
+gathered: 485.GMRINFRA
+['GNA', 'GNA Axles Limited']
+gathered: 486.GNA
+['GNFC', 'Gujarat Narmada Valley Fertilizers and Chemicals Limited']
+gathered: 487.GNFC
+['GOACARBON', 'Goa Carbon Limited']
+gathered: 488.GOACARBON
+['GOCLCORP', 'GOCL Corporation Limited']
+gathered: 489.GOCLCORP
+['GOCOLORS', 'Go Fashion (India) Limited']
+gathered: 490.GOCOLORS
+['GODFRYPHLP', 'Godfrey Phillips India Limited']
+gathered: 491.GODFRYPHLP
+['GODREJAGRO', 'Godrej Agrovet Limited']
+gathered: 492.GODREJAGRO
+['GODREJCP', 'Godrej Consumer Products Limited']
+gathered: 493.GODREJCP
+['GODREJIND', 'Godrej Industries Limited']
+gathered: 494.GODREJIND
+['GODREJPROP', 'Godrej Properties Limited']
+gathered: 495.GODREJPROP
+['GOKEX', 'Gokaldas Exports Limited']
+gathered: 496.GOKEX
+['GOKULAGRO', 'Gokul Agro Resources Limited']
+gathered: 497.GOKULAGRO
+['GOKUL', 'Gokul Refoils and Solvent Limited']
+gathered: 498.GOKUL
+['GOLDIAM', 'Goldiam International Limited']
+gathered: 499.GOLDIAM
+['GOODLUCK', 'Goodluck India Limited']
+gathered: 500.GOODLUCK
+['GOODYEAR', 'Goodyear India Limited']
+gathered: 501.GOODYEAR
+['GPIL', 'Godawari Power And Ispat limited']
+gathered: 502.GPIL
+['GPPL', 'Gujarat Pipavav Port Limited']
+gathered: 503.GPPL
+['GPTINFRA', 'GPT Infraprojects Limited']
+gathered: 504.GPTINFRA
+['GRANULES', 'Granules India Limited']
+gathered: 505.GRANULES
+['GRAPHITE', 'Graphite India Limited']
+gathered: 506.GRAPHITE
+['GRASIM', 'Grasim Industries Limited']
+gathered: 507.GRASIM
+['GRAUWEIL', 'Grauer & Weil (India) Limited']
+gathered: 508.GRAUWEIL
+['GRAVITA', 'Gravita India Limited']
+gathered: 509.GRAVITA
+['GREAVESCOT', 'Greaves Cotton Limited']
+gathered: 510.GREAVESCOT
+['GREENLAM', 'Greenlam Industries Limited']
+gathered: 511.GREENLAM
+['GREENPANEL', 'Greenpanel Industries Limited']
+gathered: 512.GREENPANEL
+['GREENPLY', 'Greenply Industries Limited']
+gathered: 513.GREENPLY
+['GRINDWELL', 'Grindwell Norton Limited']
+gathered: 514.GRINDWELL
+['GRINFRA', 'G R Infraprojects Limited']
+gathered: 515.GRINFRA
+['GROBTEA', 'The Grob Tea Company Limited']
+gathered: 516.GROBTEA
+['GRPLTD', 'GRP Limited']
+gathered: 517.GRPLTD
+['GRSE', 'Garden Reach Shipbuilders & Engineers Limited']
+gathered: 518.GRSE
+['GSCLCEMENT', 'Gujarat Sidhee Cement Limited']
+gathered: 519.GSCLCEMENT
+['GSFC', 'Gujarat State Fertilizers & Chemicals Limited']
+gathered: 520.GSFC
+['GSPL', 'Gujarat State Petronet Limited']
+gathered: 521.GSPL
+['GTL', 'GTL Limited']
+gathered: 522.GTL
+['GTNTEX', 'GTN Textiles Limited']
+gathered: 523.GTNTEX
+['GTPL', 'GTPL Hathway Limited']
+gathered: 524.GTPL
+['GUFICBIO', 'Gufic Biosciences Limited']
+gathered: 525.GUFICBIO
+['GUJALKALI', 'Gujarat Alkalies and Chemicals Limited']
+gathered: 526.GUJALKALI
+['GUJAPOLLO', 'Gujarat Apollo Industries Limited']
+gathered: 527.GUJAPOLLO
+['GUJGASLTD', 'Gujarat Gas Limited']
+gathered: 528.GUJGASLTD
+['GULFOILLUB', 'Gulf Oil Lubricants India Limited']
+gathered: 529.GULFOILLUB
+['GULFPETRO', 'GP Petroleums Limited']
+gathered: 530.GULFPETRO
+['GULPOLY', 'Gulshan Polyols Limited']
+gathered: 531.GULPOLY
+['HAL', 'Hindustan Aeronautics Limited']
+gathered: 532.HAL
+['HAPPSTMNDS', 'Happiest Minds Technologies Limited']
+gathered: 533.HAPPSTMNDS
+['HARRMALAYA', 'Harrisons  Malayalam Limited']
+gathered: 534.HARRMALAYA
+['HATHWAY', 'Hathway Cable & Datacom Limited']
+gathered: 535.HATHWAY
+['HATSUN', 'Hatsun Agro Product Limited']
+gathered: 536.HATSUN
+['HAVELLS', 'Havells India Limited']
+gathered: 537.HAVELLS
+['HBLPOWER', 'HBL Power Systems Limited']
+gathered: 538.HBLPOWER
+['HBSL', 'HB Stockholdings Limited']
+gathered: 539.HBSL
+['HCC', 'Hindustan Construction Company Limited']
+gathered: 540.HCC
+['HCG', 'Healthcare Global Enterprises Limited']
+gathered: 541.HCG
+['HCL-INSYS', 'HCL Infosystems Limited']
+gathered: 542.HCL-INSYS
+['HCLTECH', 'HCL Technologies Limited']
+gathered: 543.HCLTECH
+['HDFCAMC', 'HDFC Asset Management Company Limited']
+gathered: 544.HDFCAMC
+['HDFCBANK', 'HDFC Bank Limited']
+gathered: 545.HDFCBANK
+['HDFC', 'Housing Development Finance Corporation Limited']
+gathered: 546.HDFC
+['HDFCLIFE', 'HDFC Life Insurance Company Limited']
+gathered: 547.HDFCLIFE
+['HECPROJECT', 'HEC Infra Projects Limited']
+gathered: 548.HECPROJECT
+['HEG', 'HEG Limited']
+gathered: 549.HEG
+['HEIDELBERG', 'HeidelbergCement India Limited']
+gathered: 550.HEIDELBERG
+['HEMIPROP', 'Hemisphere Properties India Limited']
+gathered: 551.HEMIPROP
+['HERANBA', 'Heranba Industries Limited']
+gathered: 552.HERANBA
+['HERCULES', 'Hercules Hoists Limited']
+gathered: 553.HERCULES
+['HERITGFOOD', 'Heritage Foods Limited']
+gathered: 554.HERITGFOOD
+['HEROMOTOCO', 'Hero MotoCorp Limited']
+gathered: 555.HEROMOTOCO
+['HESTERBIO', 'Hester Biosciences Limited']
+gathered: 556.HESTERBIO
+['HEXATRADEX', 'Hexa Tradex Limited']
+gathered: 557.HEXATRADEX
+['HFCL', 'HFCL Limited']
+gathered: 558.HFCL
+['HGINFRA', '.H..G.. Infra Engineering Limited.']
+gathered: 559.HGINFRA
+['HGS', 'Hinduja Global Solutions Limited']
+gathered: 560.HGS
+['HIKAL', 'Hikal Limited']
+gathered: 561.HIKAL
+['HIL', 'HIL Limited']
+gathered: 562.HIL
+['HIMATSEIDE', 'Himatsingka Seide Limited']
+gathered: 563.HIMATSEIDE
+['HINDALCO', 'Hindalco Industries Limited']
+gathered: 564.HINDALCO
+['HINDCOMPOS', 'Hindustan Composites Limited']
+gathered: 565.HINDCOMPOS
+['HINDCON', 'Hindcon Chemicals Limited']
+gathered: 566.HINDCON
+['HINDCOPPER', 'Hindustan Copper Limited']
+gathered: 567.HINDCOPPER
+['HINDNATGLS', 'Hindusthan National Glass & Industries Limited']
+gathered: 568.HINDNATGLS
+['HINDOILEXP', 'Hindustan Oil Exploration Company Limited']
+gathered: 569.HINDOILEXP
+['HINDPETRO', 'Hindustan Petroleum Corporation Limited']
+gathered: 570.HINDPETRO
+['HINDUNILVR', 'Hindustan Unilever Limited']
+gathered: 571.HINDUNILVR
+['HINDZINC', 'Hindustan Zinc Limited']
+gathered: 572.HINDZINC
+['HIRECT', 'Hind Rectifiers Limited']
+gathered: 573.HIRECT
+['HISARMETAL', 'Hisar Metal Industries Limited']
+gathered: 574.HISARMETAL
+['HITECHCORP', 'Hitech Corporation Limited']
+gathered: 575.HITECHCORP
+['HITECH', 'Hi-Tech Pipes Limited']
+gathered: 576.HITECH
+['HITECHGEAR', 'The Hi-Tech Gears Limited']
+gathered: 577.HITECHGEAR
+['HLEGLAS', 'HLE Glascoat Limited']
+gathered: 578.HLEGLAS
+['HMVL', 'Hindustan Media Ventures Limited']
+gathered: 579.HMVL
+['HNDFDS', 'Hindustan Foods Limited']
+gathered: 580.HNDFDS
+['HOMEFIRST', 'Home First Finance Company India Limited']
+gathered: 581.HOMEFIRST
+['HONAUT', 'Honeywell Automation India Limited']
+gathered: 582.HONAUT
+['HONDAPOWER', 'Honda India Power Products Limited']
+gathered: 583.HONDAPOWER
+['HOVS', 'HOV Services Limited']
+gathered: 584.HOVS
+['HPL', 'HPL Electric & Power Limited']
+gathered: 585.HPL
+['HSCL', 'Himadri Speciality Chemical Limited']
+gathered: 586.HSCL
+['HSIL', 'HSIL Limited']
+gathered: 587.HSIL
+['HTMEDIA', 'HT Media Limited']
+gathered: 588.HTMEDIA
+['HUBTOWN', 'Hubtown Limited']
+gathered: 589.HUBTOWN
+['HUDCO', 'Housing & Urban Development Corporation Limited']
+gathered: 590.HUDCO
+['HUHTAMAKI', 'Huhtamaki India Limited']
+gathered: 591.HUHTAMAKI
+['IBREALEST', 'Indiabulls Real Estate Limited']
+gathered: 592.IBREALEST
+['IBULHSGFIN', 'Indiabulls Housing Finance Limited']
+gathered: 593.IBULHSGFIN
+['ICEMAKE', 'Ice Make Refrigeration Limited']
+gathered: 594.ICEMAKE
+['ICICIBANK', 'ICICI Bank Limited']
+gathered: 595.ICICIBANK
+['ICICIGI', 'ICICI Lombard General Insurance Company Limited']
+gathered: 596.ICICIGI
+['ICICIPRULI', 'ICICI Prudential Life Insurance Company Limited']
+gathered: 597.ICICIPRULI
+['ICIL', 'Indo Count Industries Limited']
+gathered: 598.ICIL
+['ICRA', 'ICRA Limited']
+gathered: 599.ICRA
+['IDBI', 'IDBI Bank Limited']
+gathered: 600.IDBI
+['IDEA', 'Vodafone Idea Limited']
+gathered: 601.IDEA
+['IDFC', 'IDFC Limited']
+gathered: 602.IDFC
+['IDFCFIRSTB', 'IDFC First Bank Limited']
+gathered: 603.IDFCFIRSTB
+['IEX', 'Indian Energy Exchange Limited']
+gathered: 604.IEX
+['IFBAGRO', 'IFB Agro Industries Limited']
+gathered: 605.IFBAGRO
+['IFBIND', 'IFB Industries Limited']
+gathered: 606.IFBIND
+['IFCI', 'IFCI Limited']
+gathered: 607.IFCI
+['IFGLEXPOR', 'IFGL Refractories Limited']
+gathered: 608.IFGLEXPOR
+['IGARASHI', 'Igarashi Motors India Limited']
+gathered: 609.IGARASHI
+['IGL', 'Indraprastha Gas Limited']
+gathered: 610.IGL
+['IGPL', 'IG Petrochemicals Limited']
+gathered: 611.IGPL
+['IIFL', 'IIFL Finance Limited']
+gathered: 612.IIFL
+['IIFLSEC', 'IIFL Securities Limited']
+gathered: 613.IIFLSEC
+['IIFLWAM', 'Iifl Wealth Management Limited']
+gathered: 614.IIFLWAM
+['IMFA', 'Indian Metals & Ferro Alloys Limited']
+gathered: 615.IMFA
+['IMPAL', 'India Motor Parts and Accessories Limited']
+gathered: 616.IMPAL
+['INCREDIBLE', 'INCREDIBLE INDUSTRIES LIMITED']
+gathered: 617.INCREDIBLE
+['INDBANK', 'Indbank Merchant Banking Services Limited']
+gathered: 618.INDBANK
+['INDHOTEL', 'The Indian Hotels Company Limited']
+gathered: 619.INDHOTEL
+['INDIACEM', 'The India Cements Limited']
+gathered: 620.INDIACEM
+['INDIAGLYCO', 'India Glycols Limited']
+gathered: 621.INDIAGLYCO
+['INDIAMART', 'Indiamart Intermesh Limited']
+gathered: 622.INDIAMART
+['INDIANB', 'Indian Bank']
+gathered: 623.INDIANB
+['INDIANCARD', 'Indian Card Clothing Company Limited']
+gathered: 624.INDIANCARD
+['INDIANHUME', 'Indian Hume Pipe Company Limited']
+gathered: 625.INDIANHUME
+['INDIGO', 'InterGlobe Aviation Limited']
+gathered: 626.INDIGO
+['INDIGOPNTS', 'Indigo Paints Limited']
+gathered: 627.INDIGOPNTS
+['INDLMETER', 'IMP Powers Limited']
+gathered: 628.INDLMETER
+['INDNIPPON', 'India Nippon Electricals Limited']
+gathered: 629.INDNIPPON
+['INDOCO', 'Indoco Remedies Limited']
+gathered: 630.INDOCO
+['INDORAMA', 'Indo Rama Synthetics (India) Limited']
+gathered: 631.INDORAMA
+['INDOSTAR', 'IndoStar Capital Finance Limited']
+gathered: 632.INDOSTAR
+['INDOTECH', 'Indo Tech Transformers Limited']
+gathered: 633.INDOTECH
+['INDOTHAI', 'Indo Thai Securities Limited']
+gathered: 634.INDOTHAI
+['INDRAMEDCO', 'Indraprastha Medical Corporation Limited']
+gathered: 635.INDRAMEDCO
+['INDSWFTLAB', 'Ind-Swift Laboratories Limited']
+gathered: 636.INDSWFTLAB
+['INDSWFTLTD', 'Ind-Swift Limited']
+gathered: 637.INDSWFTLTD
+['INDTERRAIN', 'Indian Terrain Fashions Limited']
+gathered: 638.INDTERRAIN
+['INDUSINDBK', 'IndusInd Bank Limited']
+gathered: 639.INDUSINDBK
+['INDUSTOWER', 'Indus Towers Limited']
+gathered: 640.INDUSTOWER
+['INEOSSTYRO', 'INEOS Styrolution India Limited']
+gathered: 641.INEOSSTYRO
+['INFIBEAM', 'Infibeam Avenues Limited']
+gathered: 642.INFIBEAM
+['INFOBEAN', 'InfoBeans Technologies Limited']
+gathered: 643.INFOBEAN
+['INFY', 'Infosys Limited']
+gathered: 644.INFY
+['INGERRAND', 'Ingersoll Rand (India) Limited']
+gathered: 645.INGERRAND
+['INOXLEISUR', 'INOX Leisure Limited']
+gathered: 646.INOXLEISUR
+['INOXWIND', 'Inox Wind Limited']
+gathered: 647.INOXWIND
+['INSECTICID', 'Insecticides (India) Limited']
+gathered: 648.INSECTICID
+['INTELLECT', 'Intellect Design Arena Limited']
+gathered: 649.INTELLECT
+['INTENTECH', 'Intense Technologies Limited']
+gathered: 650.INTENTECH
+['INTLCONV', 'International Conveyors Limited']
+gathered: 651.INTLCONV
+['INVENTURE', 'Inventure Growth & Securities Limited']
+gathered: 652.INVENTURE
+['IOB', 'Indian Overseas Bank']
+gathered: 653.IOB
+['IOC', 'Indian Oil Corporation Limited']
+gathered: 654.IOC
+['IOLCP', 'IOL Chemicals and Pharmaceuticals Limited']
+gathered: 655.IOLCP
+['IPCALAB', 'IPCA Laboratories Limited']
+gathered: 656.IPCALAB
+['IPL', 'India Pesticides Limited']
+gathered: 657.IPL
+['IRB', 'IRB Infrastructure Developers Limited']
+gathered: 658.IRB
+['IRCON', 'Ircon International Limited']
+gathered: 659.IRCON
+['IRCTC', 'Indian Railway Catering And Tourism Corporation Limited']
+gathered: 660.IRCTC
+['IRFC', 'Indian Railway Finance Corporation Limited']
+gathered: 661.IRFC
+['IRIS', 'Iris Business Services Limited']
+gathered: 662.IRIS
+['IRISDOREME', 'Iris Clothings Limited']
+gathered: 663.IRISDOREME
+['ISEC', 'ICICI Securities Limited']
+gathered: 664.ISEC
+['ISFT', 'Intrasoft Technologies Limited']
+gathered: 665.ISFT
+['ISGEC', 'Isgec Heavy Engineering Limited']
+gathered: 666.ISGEC
+['ITC', 'ITC Limited']
+gathered: 667.ITC
+['ITDC', 'India Tourism Development Corporation Limited']
+gathered: 668.ITDC
+['ITDCEM', 'ITD Cementation India Limited']
+gathered: 669.ITDCEM
+['ITI', 'ITI Limited']
+gathered: 670.ITI
+['IVC', 'IL&FS Investment Managers Limited']
+gathered: 671.IVC
+['IVP', 'IVP Limited']
+gathered: 672.IVP
+['IZMO', 'IZMO Limited']
+gathered: 673.IZMO
+['JAGRAN', 'Jagran Prakashan Limited']
+gathered: 674.JAGRAN
+['JAGSNPHARM', 'Jagsonpal Pharmaceuticals Limited']
+gathered: 675.JAGSNPHARM
+['JAIBALAJI', 'Jai Balaji Industries Limited']
+gathered: 676.JAIBALAJI
+['JAICORPLTD', 'Jai Corp Limited']
+gathered: 677.JAICORPLTD
+['JAIPURKURT', 'Nandani Creation Limited']
+gathered: 678.JAIPURKURT
+['JAMNAAUTO', 'Jamna Auto Industries Limited']
+gathered: 679.JAMNAAUTO
+['JASH', 'Jash Engineering Limited']
+gathered: 680.JASH
+['JAYAGROGN', 'Jayant Agro Organics Limited']
+gathered: 681.JAYAGROGN
+['JAYBARMARU', 'Jay Bharat Maruti Limited']
+gathered: 682.JAYBARMARU
+['JAYSREETEA', 'Jayshree Tea & Industries Limited']
+gathered: 683.JAYSREETEA
+['JBCHEPHARM', 'JB Chemicals & Pharmaceuticals Limited']
+gathered: 684.JBCHEPHARM
+['JBMA', 'JBM Auto Limited']
+gathered: 685.JBMA
+['JCHAC', 'Johnson Controls - Hitachi Air Conditioning India Limited']
+gathered: 686.JCHAC
+['JETFREIGHT', 'Jet Freight Logistics Limited']
+gathered: 687.JETFREIGHT
+['JHS', 'JHS Svendgaard Laboratories Limited']
+gathered: 688.JHS
+['JINDALPHOT', 'Jindal Photo Limited']
+gathered: 689.JINDALPHOT
+['JINDALPOLY', 'Jindal Poly Films Limited']
+gathered: 690.JINDALPOLY
+['JINDALSAW', 'Jindal Saw Limited']
+gathered: 691.JINDALSAW
+['JINDALSTEL', 'Jindal Steel & Power Limited']
+gathered: 692.JINDALSTEL
+['JINDRILL', 'Jindal Drilling And Industries Limited']
+gathered: 693.JINDRILL
+['JINDWORLD', 'Jindal Worldwide Limited']
+gathered: 694.JINDWORLD
+['JISLJALEQS', 'Jain Irrigation Systems Limited']
+gathered: 695.JISLJALEQS
+['J&KBANK', 'The Jammu & Kashmir Bank Limited']
+gathered: 696.J&KBANK
+['JKCEMENT', 'JK Cement Limited']
+gathered: 697.JKCEMENT
+['JKIL', '.J..Kumar Infraprojects Limited.']
+gathered: 698.JKIL
+['JKLAKSHMI', 'JK Lakshmi Cement Limited']
+gathered: 699.JKLAKSHMI
+['JKPAPER', 'JK Paper Limited']
+gathered: 700.JKPAPER
+['JKTYRE', 'JK Tyre & Industries Limited']
+gathered: 701.JKTYRE
+['JMA', 'Jullundur Motor Agency (Delhi) Limited']
+gathered: 702.JMA
+['JMCPROJECT', 'JMC Projects (India)  Limited']
+gathered: 703.JMCPROJECT
+['JMFINANCIL', 'JM Financial Limited']
+gathered: 704.JMFINANCIL
+['JOCIL', 'Jocil Limited']
+gathered: 705.JOCIL
+['JPASSOCIAT', 'Jaiprakash Associates Limited']
+gathered: 706.JPASSOCIAT
+['JPINFRATEC', 'Jaypee Infratech Limited']
+gathered: 707.JPINFRATEC
+['JPPOWER', 'Jaiprakash Power Ventures Limited']
+gathered: 708.JPPOWER
+['JSL', 'Jindal Stainless Limited']
+gathered: 709.JSL
+['JSLHISAR', 'Jindal Stainless (Hisar) Limited']
+gathered: 710.JSLHISAR
+['JSWHL', 'JSW Holdings Limited']
+gathered: 711.JSWHL
+['JSWISPL', 'JSW Ispat Special Products Limited']
+gathered: 712.JSWISPL
+['JSWSTEEL', 'JSW Steel Limited']
+gathered: 713.JSWSTEEL
+['JTEKTINDIA', 'Jtekt India Limited']
+gathered: 714.JTEKTINDIA
+['JTLINFRA', 'JTL Infra Limited']
+FAILED TO GATHER 714JTLINFRA
+['JUBLFOOD', 'Jubilant Foodworks Limited']
+gathered: 715.JUBLFOOD
+['JUBLINDS', 'Jubilant Industries Limited']
+gathered: 716.JUBLINDS
+['JUBLINGREA', 'Jubilant Ingrevia Limited']
+gathered: 717.JUBLINGREA
+['JUBLPHARMA', 'Jubilant Pharmova Limited']
+gathered: 718.JUBLPHARMA
+['JUSTDIAL', 'Just Dial Limited']
+gathered: 719.JUSTDIAL
+['JYOTHYLAB', 'Jyothy Labs Limited']
+gathered: 720.JYOTHYLAB
+['KABRAEXTRU', 'Kabra Extrusion Technik Limited']
+gathered: 721.KABRAEXTRU
+['KAJARIACER', 'Kajaria Ceramics Limited']
+gathered: 722.KAJARIACER
+['KAKATCEM', 'Kakatiya Cement Sugar & Industries Limited']
+gathered: 723.KAKATCEM
+['KALPATPOWR', 'Kalpataru Power Transmission Limited']
+gathered: 724.KALPATPOWR
+['KALYANKJIL', 'Kalyan Jewellers India Limited']
+gathered: 725.KALYANKJIL
+['KAMATHOTEL', 'Kamat Hotels (I) Limited']
+gathered: 726.KAMATHOTEL
+['KAMDHENU', 'Kamdhenu Limited']
+gathered: 727.KAMDHENU
+['KANANIIND', 'Kanani Industries Limited']
+gathered: 728.KANANIIND
+['KANORICHEM', 'Kanoria Chemicals & Industries Limited']
+gathered: 729.KANORICHEM
+['KANPRPLA', 'Kanpur Plastipack Limited']
+gathered: 730.KANPRPLA
+['KANSAINER', 'Kansai Nerolac Paints Limited']
+gathered: 731.KANSAINER
+['KAPSTON', 'Kapston Facilities Management Limited']
+gathered: 732.KAPSTON
+['KARMAENG', 'Karma Energy Limited']
+gathered: 733.KARMAENG
+['KARURVYSYA', 'Karur Vysya Bank Limited']
+gathered: 734.KARURVYSYA
+['KAUSHALYA', 'Kaushalya Infrastructure Development Corporation Limited']
+gathered: 735.KAUSHALYA
+['KAYA', 'Kaya Limited']
+gathered: 736.KAYA
+['KBCGLOBAL', 'KBC Global Limited']
+gathered: 737.KBCGLOBAL
+['KCP', 'KCP Limited']
+gathered: 738.KCP
+['KCPSUGIND', 'KCP Sugar and Industries Corporation Limited']
+gathered: 739.KCPSUGIND
+['KDDL', 'KDDL Limited']
+gathered: 740.KDDL
+['KEC', 'KEC International Limited']
+gathered: 741.KEC
+['KEERTI', 'Keerti Knowledge and Skills Limited']
+gathered: 742.KEERTI
+['KEI', 'KEI Industries Limited']
+gathered: 743.KEI
+['KELLTONTEC', 'Kellton Tech Solutions Limited']
+gathered: 744.KELLTONTEC
+['KENNAMET', 'Kennametal India Limited']
+gathered: 745.KENNAMET
+['KESORAMIND', 'Kesoram Industries Limited']
+gathered: 746.KESORAMIND
+['KEYFINSERV', 'Keynote Financial Services Limited']
+gathered: 747.KEYFINSERV
+['KHADIM', 'Khadim India Limited']
+gathered: 748.KHADIM
+['KHAICHEM', 'Khaitan Chemicals & Fertilizers Limited']
+gathered: 749.KHAICHEM
+['KHANDSE', 'Khandwala Securities Limited']
+gathered: 750.KHANDSE
+['KICL', 'Kalyani Investment Company Limited']
+gathered: 751.KICL
+['KILITCH', 'Kilitch Drugs (India) Limited']
+gathered: 752.KILITCH
+['KIMS', 'Krishna Institute of Medical Sciences Limited']
+gathered: 753.KIMS
+['KINGFA', 'Kingfa Science & Technology (India) Limited']
+gathered: 754.KINGFA
+['KIOCL', 'KIOCL Limited']
+gathered: 755.KIOCL
+['KIRIINDUS', 'Kiri Industries Limited']
+gathered: 756.KIRIINDUS
+['KIRLFER', 'Kirloskar Ferrous Industries Ltd']
+gathered: 757.KIRLFER
+['KIRLOSBROS', 'Kirloskar Brothers Limited']
+gathered: 758.KIRLOSBROS
+['KIRLOSENG', 'Kirloskar Oil Engines Limited']
+gathered: 759.KIRLOSENG
+['KIRLOSIND', 'Kirloskar Industries Limited']
+gathered: 760.KIRLOSIND
+['KITEX', 'Kitex Garments Limited']
+gathered: 761.KITEX
+['KKCL', 'Kewal Kiran Clothing Limited']
+gathered: 762.KKCL
+['KMSUGAR', '.K..M..Sugar Mills Limited.']
+gathered: 763.KMSUGAR
+['KNRCON', 'KNR Constructions Limited']
+gathered: 764.KNRCON
+['KOKUYOCMLN', 'Kokuyo Camlin Limited']
+gathered: 765.KOKUYOCMLN
+['KOLTEPATIL', 'Kolte - Patil Developers Limited']
+gathered: 766.KOLTEPATIL
+['KOPRAN', 'Kopran Limited']
+gathered: 767.KOPRAN
+['KOTAKBANK', 'Kotak Mahindra Bank Limited']
+gathered: 768.KOTAKBANK
+['KOTARISUG', 'Kothari Sugars And Chemicals Limited']
+gathered: 769.KOTARISUG
+['KOTHARIPET', 'Kothari Petrochemicals Limited']
+gathered: 770.KOTHARIPET
+['KOTHARIPRO', 'Kothari Products Limited']
+gathered: 771.KOTHARIPRO
+['KOVAI', 'Kovai Medical Center and Hospital Limited']
+gathered: 772.KOVAI
+['KPIGLOBAL', '.K..P..I.. Global Infrastructure Limited.']
+gathered: 773.KPIGLOBAL
+['KPITTECH', 'KPIT Technologies Limited']
+gathered: 774.KPITTECH
+['KPRMILL', '.K..P..R.. Mill Limited.']
+gathered: 775.KPRMILL
+['KRBL', 'KRBL Limited']
+gathered: 776.KRBL
+['KREBSBIO', 'Krebs Biochemicals and Industries Limited']
+FAILED TO GATHER 776KREBSBIO
+['KRIDHANINF', 'Kridhan Infra Limited']
+gathered: 777.KRIDHANINF
+['KRISHANA', 'Krishana Phoschem Limited']
+gathered: 778.KRISHANA
+['KRITI', 'Kriti Industries (India) Limited']
+gathered: 779.KRITI
+['KRSNAA', 'Krsnaa Diagnostics Limited']
+gathered: 780.KRSNAA
+['KSB', 'Ksb Limited']
+gathered: 781.KSB
+['KSCL', 'Kaveri Seed Company Limited']
+gathered: 782.KSCL
+['KSL', 'Kalyani Steels Limited']
+gathered: 783.KSL
+['KTKBANK', 'The Karnataka Bank Limited']
+gathered: 784.KTKBANK
+['KUANTUM', 'Kuantum Papers Limited']
+gathered: 785.KUANTUM
+['LAGNAM', 'Lagnam Spintex Limited']
+gathered: 786.LAGNAM
+['LALPATHLAB', '.Dr.. Lal Path Labs Ltd...']
+gathered: 787.LALPATHLAB
+['LAMBODHARA', 'Lambodhara Textiles Limited']
+gathered: 788.LAMBODHARA
+['LAOPALA', 'La Opala RG Limited']
+gathered: 789.LAOPALA
+['LASA', 'Lasa Supergenerics Limited']
+gathered: 790.LASA
+['LATENTVIEW', 'Latent View Analytics Limited']
+gathered: 791.LATENTVIEW
+['LAURUSLABS', 'Laurus Labs Limited']
+gathered: 792.LAURUSLABS
+['LAXMICOT', 'Laxmi Cotspin Limited']
+gathered: 793.LAXMICOT
+['LAXMIMACH', 'Lakshmi Machine Works Limited']
+gathered: 794.LAXMIMACH
+['LCCINFOTEC', 'LCC Infotech Limited']
+gathered: 795.LCCINFOTEC
+['LEMONTREE', 'Lemon Tree Hotels Limited']
+gathered: 796.LEMONTREE
+['LFIC', 'Lakshmi Finance & Industrial Corporation Limited']
+gathered: 797.LFIC
+['LGBBROSLTD', 'LG Balakrishnan & Bros Limited']
+gathered: 798.LGBBROSLTD
+['LGBFORGE', 'LGB Forge Limited']
+gathered: 799.LGBFORGE
+['LIBAS', 'Libas Consumer Products Limited']
+gathered: 800.LIBAS
+['LIBERTSHOE', 'Liberty Shoes Limited']
+gathered: 801.LIBERTSHOE
+['LICHSGFIN', 'LIC Housing Finance Limited']
+gathered: 802.LICHSGFIN
+['LIKHITHA', 'Likhitha Infrastructure Limited']
+gathered: 803.LIKHITHA
+['LINC', 'Linc Limited']
+FAILED TO GATHER 803LINC
+['LINCOLN', 'Lincoln Pharmaceuticals Limited']
+gathered: 804.LINCOLN
+['LINDEINDIA', 'Linde India Limited']
+gathered: 805.LINDEINDIA
+['LODHA', 'Macrotech Developers Limited']
+gathered: 806.LODHA
+['LOKESHMACH', 'Lokesh Machines Limited']
+gathered: 807.LOKESHMACH
+['LOTUSEYE', 'Lotus Eye Hospital and Institute Limited']
+gathered: 808.LOTUSEYE
+['LPDC', 'Landmark Property Development Company Limited']
+gathered: 809.LPDC
+['LT', 'Larsen & Toubro Limited']
+gathered: 810.LT
+['L&TFH', 'L&T Finance Holdings Limited']
+gathered: 811.L&TFH
+['LTI', 'Larsen & Toubro Infotech Limited']
+gathered: 812.LTI
+['LTTS', 'L&T Technology Services Limited']
+gathered: 813.LTTS
+['LUMAXIND', 'Lumax Industries Limited']
+gathered: 814.LUMAXIND
+['LUMAXTECH', 'Lumax Auto Technologies Limited']
+gathered: 815.LUMAXTECH
+['LUPIN', 'Lupin Limited']
+gathered: 816.LUPIN
+['LUXIND', 'Lux Industries Limited']
+gathered: 817.LUXIND
+['LXCHEM', 'Laxmi Organic Industries Limited']
+gathered: 818.LXCHEM
+['LYKALABS', 'Lyka Labs Limited']
+gathered: 819.LYKALABS
+['LYPSAGEMS', 'Lypsa Gems & Jewellery Limited']
+gathered: 820.LYPSAGEMS
+['MAANALU', 'Maan Aluminium Limited']
+gathered: 821.MAANALU
+['MACPOWER', 'Macpower CNC Machines Limited']
+gathered: 822.MACPOWER
+['MADHAV', 'Madhav Marbles and Granites Limited']
+gathered: 823.MADHAV
+['MADRASFERT', 'Madras Fertilizers Limited']
+gathered: 824.MADRASFERT
+['MAGADSUGAR', 'Magadh Sugar & Energy Limited']
+gathered: 825.MAGADSUGAR
+['MAGNUM', 'Magnum Ventures Limited']
+gathered: 826.MAGNUM
+['MAHABANK', 'Bank of Maharashtra']
+gathered: 827.MAHABANK
+['MAHASTEEL', 'Mahamaya Steel Industries Limited']
+gathered: 828.MAHASTEEL
+['MAHEPC', 'Mahindra EPC Irrigation Limited']
+gathered: 829.MAHEPC
+['MAHESHWARI', 'Maheshwari Logistics Limited']
+gathered: 830.MAHESHWARI
+['MAHINDCIE', 'Mahindra CIE Automotive Limited']
+gathered: 831.MAHINDCIE
+['MAHLIFE', 'Mahindra Lifespace Developers Limited']
+gathered: 832.MAHLIFE
+['MAHLOG', 'Mahindra Logistics Limited']
+gathered: 833.MAHLOG
+['MAHSCOOTER', 'Maharashtra Scooters Limited']
+gathered: 834.MAHSCOOTER
+['MAHSEAMLES', 'Maharashtra Seamless Limited']
+gathered: 835.MAHSEAMLES
+['MAITHANALL', 'Maithan Alloys Limited']
+gathered: 836.MAITHANALL
+['MALUPAPER', 'Malu Paper Mills Limited']
+gathered: 837.MALUPAPER
+['MANAKALUCO', 'Manaksia Aluminium Company Limited']
+gathered: 838.MANAKALUCO
+['MANAKCOAT', 'Manaksia Coated Metals & Industries Limited']
+gathered: 839.MANAKCOAT
+['MANAKSIA', 'Manaksia Limited']
+gathered: 840.MANAKSIA
+['MANAKSTEEL', 'Manaksia Steels Limited']
+gathered: 841.MANAKSTEEL
+['MANALIPETC', 'Manali Petrochemicals Limited']
+gathered: 842.MANALIPETC
+['MANAPPURAM', 'Manappuram Finance Limited']
+gathered: 843.MANAPPURAM
+['MANGALAM', 'Mangalam Drugs And Organics Limited']
+gathered: 844.MANGALAM
+['MANGCHEFER', 'Mangalore Chemicals & Fertilizers Limited']
+gathered: 845.MANGCHEFER
+['MANGLMCEM', 'Mangalam Cement Limited']
+gathered: 846.MANGLMCEM
+['MANGTIMBER', 'Mangalam Timber Products Limited']
+gathered: 847.MANGTIMBER
+['MANINDS', 'Man Industries (India) Limited']
+gathered: 848.MANINDS
+['MANINFRA', 'Man Infraconstruction Limited']
+gathered: 849.MANINFRA
+['MANORG', 'Mangalam Organics Limited']
+gathered: 850.MANORG
+['MAPMYINDIA', '.C..E.. Info Systems Limited.']
+gathered: 851.MAPMYINDIA
+['MARALOVER', 'Maral Overseas Limited']
+gathered: 852.MARALOVER
+['MARATHON', 'Marathon Nextgen Realty Limited']
+gathered: 853.MARATHON
+['MARICO', 'Marico Limited']
+gathered: 854.MARICO
+['MARINE', 'Marine Electricals (India) Limited']
+gathered: 855.MARINE
+['MARKSANS', 'Marksans Pharma Limited']
+gathered: 856.MARKSANS
+['MARSHALL', 'Marshall Machines Limited']
+gathered: 857.MARSHALL
+['MARUTI', 'Maruti Suzuki India Limited']
+gathered: 858.MARUTI
+['MASFIN', 'MAS Financial Services Limited']
+gathered: 859.MASFIN
+['MASTEK', 'Mastek Limited']
+gathered: 860.MASTEK
+['MATRIMONY', '.Matrimony..Com Limited.']
+gathered: 861.MATRIMONY
+['MAWANASUG', 'Mawana Sugars Limited']
+gathered: 862.MAWANASUG
+['MAXHEALTH', 'Max Healthcare Institute Limited']
+gathered: 863.MAXHEALTH
+['MAXIND', 'Max India Limited']
+gathered: 864.MAXIND
+['MAXVIL', 'Max Ventures and Industries Limited']
+gathered: 865.MAXVIL
+['MAYURUNIQ', 'Mayur Uniquoters Ltd']
+gathered: 866.MAYURUNIQ
+['MAZDA', 'Mazda Limited']
+FAILED TO GATHER 866MAZDA
+['MAZDOCK', 'Mazagon Dock Shipbuilders Limited']
+gathered: 867.MAZDOCK
+['MBAPL', 'Madhya Bharat Agro Products Limited']
+gathered: 868.MBAPL
+['MBLINFRA', 'MBL Infrastructures Limited']
+gathered: 869.MBLINFRA
+['MCDOWELL-N', 'United Spirits Limited']
+gathered: 870.MCDOWELL-N
+['MCL', 'Madhav Copper Limited']
+gathered: 871.MCL
+['MCLEODRUSS', 'Mcleod Russel India Limited']
+gathered: 872.MCLEODRUSS
+['MCX', 'Multi Commodity Exchange of India Limited']
+gathered: 873.MCX
+['MEDICAMEQ', 'Medicamen Biotech Limited']
+gathered: 874.MEDICAMEQ
+['MEDPLUS', 'Medplus Health Services Limited']
+gathered: 875.MEDPLUS
+['MENONBE', 'Menon Bearings Limited']
+gathered: 876.MENONBE
+['METROBRAND', 'Metro Brands Limited']
+gathered: 877.METROBRAND
+['METROPOLIS', 'Metropolis Healthcare Limited']
+gathered: 878.METROPOLIS
+['MFL', 'Meghmani Finechem Limited']
+gathered: 879.MFL
+['MFSL', 'Max Financial Services Limited']
+gathered: 880.MFSL
+['MGL', 'Mahanagar Gas Limited']
+gathered: 881.MGL
+['MHRIL', 'Mahindra Holidays & Resorts India Limited']
+gathered: 882.MHRIL
+['MICEL', 'MIC Electronics Limited']
+gathered: 883.MICEL
+['MIDHANI', 'Mishra Dhatu Nigam Limited']
+gathered: 884.MIDHANI
+['MINDACORP', 'Minda Corporation Limited']
+gathered: 885.MINDACORP
+['MINDAIND', 'Minda Industries Limited']
+gathered: 886.MINDAIND
+['MINDTECK', 'Mindteck (India) Limited']
+gathered: 887.MINDTECK
+['MINDTREE', 'MindTree Limited']
+gathered: 888.MINDTREE
+['MIRCELECTR', 'MIRC Electronics Limited']
+gathered: 889.MIRCELECTR
+['MIRZAINT', 'Mirza International Limited']
+gathered: 890.MIRZAINT
+['MITTAL', 'Mittal Life Style Limited']
+gathered: 891.MITTAL
+['M&M', 'Mahindra & Mahindra Limited']
+gathered: 892.M&M
+['M&MFIN', 'Mahindra & Mahindra Financial Services Limited']
+gathered: 893.M&MFIN
+['MMFL', 'MM Forgings Limited']
+gathered: 894.MMFL
+['MMP', 'MMP Industries Limited']
+gathered: 895.MMP
+['MMTC', 'MMTC Limited']
+gathered: 896.MMTC
+['MODISNME', 'Modison Metals Limited']
+gathered: 897.MODISNME
+['MOHITIND', 'Mohit Industries Limited']
+gathered: 898.MOHITIND
+['MOIL', 'MOIL Limited']
+gathered: 899.MOIL
+['MOKSH', 'Moksh Ornaments Limited']
+gathered: 900.MOKSH
+['MOL', 'Meghmani Organics Limited']
+gathered: 901.MOL
+['MOLDTECH', 'Mold-Tek Technologies Limited']
+gathered: 902.MOLDTECH
+['MOLDTKPAC', 'Mold-Tek Packaging Limited']
+gathered: 903.MOLDTKPAC
+['MONTECARLO', 'Monte Carlo Fashions Limited']
+gathered: 904.MONTECARLO
+['MORARJEE', 'Morarjee Textiles Limited']
+gathered: 905.MORARJEE
+['MOREPENLAB', 'Morepen Laboratories Limited']
+gathered: 906.MOREPENLAB
+['MOTHERSUMI', 'Motherson Sumi Systems Limited']
+gathered: 907.MOTHERSUMI
+['MOTILALOFS', 'Motilal Oswal Financial Services Limited']
+gathered: 908.MOTILALOFS
+['MPHASIS', 'MphasiS Limited']
+gathered: 909.MPHASIS
+['MPSLTD', 'MPS Limited']
+gathered: 910.MPSLTD
+['MRF', 'MRF Limited']
+gathered: 911.MRF
+['MRO-TEK', 'MRO-TEK Realty Limited']
+gathered: 912.MRO-TEK
+['MRPL', 'Mangalore Refinery and Petrochemicals Limited']
+gathered: 913.MRPL
+['MSPL', 'MSP Steel & Power Limited']
+gathered: 914.MSPL
+['MSTCLTD', 'Mstc Limited']
+gathered: 915.MSTCLTD
+['MTARTECH', 'Mtar Technologies Limited']
+gathered: 916.MTARTECH
+['MTEDUCARE', 'MT Educare Limited']
+gathered: 917.MTEDUCARE
+['MTNL', 'Mahanagar Telephone Nigam Limited']
+gathered: 918.MTNL
+['MUKANDLTD', 'Mukand Limited']
+gathered: 919.MUKANDLTD
+['MUKTAARTS', 'Mukta Arts Limited']
+gathered: 920.MUKTAARTS
+['MUNJALAU', 'Munjal Auto Industries Limited']
+gathered: 921.MUNJALAU
+['MUNJALSHOW', 'Munjal Showa Limited']
+gathered: 922.MUNJALSHOW
+['MURUDCERA', 'Murudeshwar Ceramics Limited']
+gathered: 923.MURUDCERA
+['MUTHOOTCAP', 'Muthoot Capital Services Limited']
+gathered: 924.MUTHOOTCAP
+['MUTHOOTFIN', 'Muthoot Finance Limited']
+gathered: 925.MUTHOOTFIN
+['NACLIND', 'NACL Industries Limited']
+gathered: 926.NACLIND
+['NAGAFERT', 'Nagarjuna Fertilizers and Chemicals Limited']
+gathered: 927.NAGAFERT
+['NAGREEKCAP', 'Nagreeka Capital & Infrastructure Limited']
+gathered: 928.NAGREEKCAP
+['NAGREEKEXP', 'Nagreeka Exports Limited']
+gathered: 929.NAGREEKEXP
+['NAHARCAP', 'Nahar Capital and Financial Services Limited']
+gathered: 930.NAHARCAP
+['NAHARINDUS', 'Nahar Industrial Enterprises Limited']
+gathered: 931.NAHARINDUS
+['NAHARPOLY', 'Nahar Poly Films Limited']
+gathered: 932.NAHARPOLY
+['NAM-INDIA', 'Nippon Life India Asset Management Limited']
+gathered: 933.NAM-INDIA
+['NATCOPHARM', 'Natco Pharma Limited']
+gathered: 934.NATCOPHARM
+['NATHBIOGEN', 'Nath Bio-Genes (India) Limited']
+gathered: 935.NATHBIOGEN
+['NATIONALUM', 'National Aluminium Company Limited']
+gathered: 936.NATIONALUM
+['NAUKRI', 'Info Edge (India) Limited']
+gathered: 937.NAUKRI
+['NAVINFLUOR', 'Navin Fluorine International Limited']
+gathered: 938.NAVINFLUOR
+['NAVKARCORP', 'Navkar Corporation Limited']
+gathered: 939.NAVKARCORP
+['NAVNETEDUL', 'Navneet Education Limited']
+gathered: 940.NAVNETEDUL
+['NBCC', 'NBCC (India) Limited']
+gathered: 941.NBCC
+['NBIFIN', '.N.. B.. I.. Industrial Finance Company Limited.']
+gathered: 942.NBIFIN
+['NBVENTURES', 'Nava Bharat Ventures Limited']
+gathered: 943.NBVENTURES
+['NCC', 'NCC Limited']
+gathered: 944.NCC
+['NCLIND', 'NCL Industries Limited']
+gathered: 945.NCLIND
+['NDGL', 'Naga Dhunseri Group Limited']
+gathered: 946.NDGL
+['NDL', 'Nandan Denim Limited']
+gathered: 947.NDL
+['NDRAUTO', 'Ndr Auto Components Limited']
+gathered: 948.NDRAUTO
+['NDTV', 'New Delhi Television Limited']
+gathered: 949.NDTV
+['NECCLTD', 'North Eastern Carrying Corporation Limited']
+gathered: 950.NECCLTD
+['NECLIFE', 'Nectar Lifesciences Limited']
+gathered: 951.NECLIFE
+['NELCAST', 'Nelcast Limited']
+gathered: 952.NELCAST
+['NEOGEN', 'Neogen Chemicals Limited']
+gathered: 953.NEOGEN
+['NESCO', 'Nesco Limited']
+gathered: 954.NESCO
+['NESTLEIND', 'Nestle India Limited']
+gathered: 955.NESTLEIND
+['NETWORK18', 'Network18 Media & Investments Limited']
+gathered: 956.NETWORK18
+['NEULANDLAB', 'Neuland Laboratories Limited']
+gathered: 957.NEULANDLAB
+['NEWGEN', 'Newgen Software Technologies Limited']
+gathered: 958.NEWGEN
+['NFL', 'National Fertilizers Limited']
+gathered: 959.NFL
+['NH', '.Narayana Hrudayalaya Ltd...']
+gathered: 960.NH
+['NHPC', 'NHPC Limited']
+gathered: 961.NHPC
+['NIACL', 'The New India Assurance Company Limited']
+gathered: 962.NIACL
+['NIBL', 'NRB Industrial Bearings Limited']
+gathered: 963.NIBL
+['NIITLTD', 'NIIT Limited']
+gathered: 964.NIITLTD
+['NILKAMAL', 'Nilkamal Limited']
+gathered: 965.NILKAMAL
+['NIPPOBATRY', 'Indo-National Limited']
+gathered: 966.NIPPOBATRY
+['NIRAJ', 'Niraj Cement Structurals Limited']
+gathered: 967.NIRAJ
+['NITCO', 'Nitco Limited']
+gathered: 968.NITCO
+['NKIND', 'NK Industries Limited']
+gathered: 969.NKIND
+['NLCINDIA', 'NLC India Limited']
+gathered: 970.NLCINDIA
+['NMDC', 'NMDC Limited']
+gathered: 971.NMDC
+['NOCIL', 'NOCIL Limited']
+gathered: 972.NOCIL
+['NOIDATOLL', 'Noida Toll Bridge Company Limited']
+gathered: 973.NOIDATOLL
+['NORBTEAEXP', 'Norben Tea & Exports Limited']
+gathered: 974.NORBTEAEXP
+['NOVARTIND', 'Novartis India Limited']
+gathered: 975.NOVARTIND
+['NRAIL', 'N R Agarwal Industries Limited']
+gathered: 976.NRAIL
+['NRBBEARING', 'NRB Bearing Limited']
+gathered: 977.NRBBEARING
+['NSIL', 'Nalwa Sons Investments Limited']
+gathered: 978.NSIL
+['NTPC', 'NTPC Limited']
+gathered: 979.NTPC
+['NUCLEUS', 'Nucleus Software Exports Limited']
+gathered: 980.NUCLEUS
+['NURECA', 'Nureca Limited']
+gathered: 981.NURECA
+['NUVOCO', 'Nuvoco Vistas Corporation Limited']
+gathered: 982.NUVOCO
+['NXTDIGITAL', 'NXTDIGITAL LIMITED']
+gathered: 983.NXTDIGITAL
+['NYKAA', 'FSN E-Commerce Ventures Limited']
+gathered: 984.NYKAA
+['OAL', 'Oriental Aromatics Limited']
+gathered: 985.OAL
+['OBEROIRLTY', 'Oberoi Realty Limited']
+gathered: 986.OBEROIRLTY
+['OCCL', 'Oriental Carbon & Chemicals Limited']
+gathered: 987.OCCL
+['OFSS', 'Oracle Financial Services Software Limited']
+gathered: 988.OFSS
+['OIL', 'Oil India Limited']
+gathered: 989.OIL
+['OMAXAUTO', 'Omax Autos Limited']
+gathered: 990.OMAXAUTO
+['OMAXE', 'Omaxe Limited']
+gathered: 991.OMAXE
+['OMINFRAL', 'OM INFRA LIMITED']
+gathered: 992.OMINFRAL
+['ONELIFECAP', 'Onelife Capital Advisors Limited']
+gathered: 993.ONELIFECAP
+['ONGC', 'Oil & Natural Gas Corporation Limited']
+gathered: 994.ONGC
+['ONMOBILE', 'OnMobile Global Limited']
+gathered: 995.ONMOBILE
+['ONWARDTEC', 'Onward Technologies Limited']
+gathered: 996.ONWARDTEC
+['OPTIEMUS', 'Optiemus Infracom Limited']
+gathered: 997.OPTIEMUS
+['ORBTEXP', 'Orbit Exports Limited']
+gathered: 998.ORBTEXP
+['ORICONENT', 'Oricon Enterprises Limited']
+gathered: 999.ORICONENT
+['ORIENTABRA', 'Orient Abrasives Limited']
+gathered: 1000.ORIENTABRA
+['ORIENTALTL', 'Oriental Trimex Limited']
+gathered: 1001.ORIENTALTL
+['ORIENTBELL', 'Orient Bell Limited']
+gathered: 1002.ORIENTBELL
+['ORIENTCEM', 'Orient Cement Limited']
+gathered: 1003.ORIENTCEM
+['ORIENTELEC', 'Orient Electric Limited']
+gathered: 1004.ORIENTELEC
+['ORIENTHOT', 'Oriental Hotels Limited']
+gathered: 1005.ORIENTHOT
+['ORIENTLTD', 'Orient Press Limited']
+gathered: 1006.ORIENTLTD
+['ORIENTPPR', 'Orient Paper & Industries Limited']
+gathered: 1007.ORIENTPPR
+['ORISSAMINE', 'The Orissa Minerals Development Company Limited']
+gathered: 1008.ORISSAMINE
+['ORTINLAB', 'Ortin Laboratories Limited']
+gathered: 1009.ORTINLAB
+['OSWALAGRO', 'Oswal Agro Mills Limited']
+gathered: 1010.OSWALAGRO
+['PAGEIND', 'Page Industries Limited']
+gathered: 1011.PAGEIND
+['PAISALO', 'Paisalo Digital Limited']
+gathered: 1012.PAISALO
+['PALASHSECU', 'Palash Securities Limited']
+gathered: 1013.PALASHSECU
+['PANACEABIO', 'Panacea Biotec Limited']
+gathered: 1014.PANACEABIO
+['PANACHE', 'Panache Digilife Limited']
+gathered: 1015.PANACHE
+['PANAMAPET', 'Panama Petrochem Limited']
+gathered: 1016.PANAMAPET
+['PARAGMILK', 'Parag Milk Foods Limited']
+gathered: 1017.PARAGMILK
+['PARAS', 'Paras Defence and Space Technologies Limited']
+gathered: 1018.PARAS
+['PAR', 'Par Drugs And Chemicals Limited']
+gathered: 1019.PAR
+['PARSVNATH', 'Parsvnath Developers Limited']
+gathered: 1020.PARSVNATH
+['PASUPTAC', 'Pasupati Acrylon Limited']
+gathered: 1021.PASUPTAC
+['PATELENG', 'Patel Engineering Limited']
+gathered: 1022.PATELENG
+['PATINTLOG', 'Patel Integrated Logistics Limited']
+gathered: 1023.PATINTLOG
+['PATSPINLTD', 'Patspin India Limited']
+gathered: 1024.PATSPINLTD
+['PAYTM', 'One 97 Communications Limited']
+gathered: 1025.PAYTM
+['PBAINFRA', 'PBA Infrastructure Limited']
+gathered: 1026.PBAINFRA
+['PCJEWELLER', 'PC Jeweller Limited']
+gathered: 1027.PCJEWELLER
+['PDMJEPAPER', 'Pudumjee Paper Products Limited']
+gathered: 1028.PDMJEPAPER
+['PDSMFL', 'PDS Multinational Fashions Limited']
+gathered: 1029.PDSMFL
+['PEARLPOLY', 'Pearl Polymers Limited']
+gathered: 1030.PEARLPOLY
+['PEL', 'Piramal Enterprises Limited']
+gathered: 1031.PEL
+['PENIND', 'Pennar Industries Limited']
+gathered: 1032.PENIND
+['PERSISTENT', 'Persistent Systems Limited']
+gathered: 1033.PERSISTENT
+['PETRONET', 'Petronet LNG Limited']
+gathered: 1034.PETRONET
+['PFC', 'Power Finance Corporation Limited']
+gathered: 1035.PFC
+['PFIZER', 'Pfizer Limited']
+gathered: 1036.PFIZER
+['PFOCUS', 'Prime Focus Limited']
+gathered: 1037.PFOCUS
+['PFS', 'PTC India Financial Services Limited']
+gathered: 1038.PFS
+['PGEL', 'PG Electroplast Limited']
+gathered: 1039.PGEL
+['PGHH', 'Procter & Gamble Hygiene and Health Care Limited']
+gathered: 1040.PGHH
+['PGHL', 'Procter & Gamble Health Limited']
+gathered: 1041.PGHL
+['PGIL', 'Pearl Global Industries Limited']
+gathered: 1042.PGIL
+['PHILIPCARB', 'Phillips Carbon Black Limited']
+gathered: 1043.PHILIPCARB
+['PHOENIXLTD', 'The Phoenix Mills Limited']
+gathered: 1044.PHOENIXLTD
+['PIDILITIND', 'Pidilite Industries Limited']
+gathered: 1045.PIDILITIND
+['PIIND', 'PI Industries Limited']
+gathered: 1046.PIIND
+['PILANIINVS', 'Pilani Investment and Industries Corporation Limited']
+gathered: 1047.PILANIINVS
+['PILITA', 'PIL ITALICA LIFESTYLE LIMITED']
+gathered: 1048.PILITA
+['PIONDIST', 'Pioneer Distilleries Limited']
+gathered: 1049.PIONDIST
+['PIONEEREMB', 'Pioneer Embroideries Limited']
+gathered: 1050.PIONEEREMB
+['PITTIENG', 'Pitti Engineering Limited']
+gathered: 1051.PITTIENG
+['PLASTIBLEN', 'Plastiblends India Limited']
+gathered: 1052.PLASTIBLEN
+['PNB', 'Punjab National Bank']
+gathered: 1053.PNB
+['PNBGILTS', 'PNB Gilts Limited']
+gathered: 1054.PNBGILTS
+['PNBHOUSING', 'PNB Housing Finance Limited']
+gathered: 1055.PNBHOUSING
+['PNC', 'Pritish Nandy Communications Limited']
+gathered: 1056.PNC
+['PNCINFRA', 'PNC Infratech Limited']
+gathered: 1057.PNCINFRA
+['PODDARHOUS', 'Poddar Housing and Development Limited']
+gathered: 1058.PODDARHOUS
+['PODDARMENT', 'Poddar Pigments Limited']
+gathered: 1059.PODDARMENT
+['POKARNA', 'Pokarna Limited']
+gathered: 1060.POKARNA
+['POLICYBZR', 'PB Fintech Limited']
+gathered: 1061.POLICYBZR
+['POLYCAB', 'Polycab India Limited']
+gathered: 1062.POLYCAB
+['POLYMED', 'Poly Medicure Limited']
+gathered: 1063.POLYMED
+['POLYPLEX', 'Polyplex Corporation Limited']
+gathered: 1064.POLYPLEX
+['PONNIERODE', 'Ponni Sugars (Erode) Limited']
+gathered: 1065.PONNIERODE
+['POONAWALLA', 'Poonawalla Fincorp Limited']
+gathered: 1066.POONAWALLA
+['POWERGRID', 'Power Grid Corporation of India Limited']
+gathered: 1067.POWERGRID
+['POWERINDIA', 'Hitachi Energy India Limited']
+gathered: 1068.POWERINDIA
+['POWERMECH', 'Power Mech Projects Limited']
+gathered: 1069.POWERMECH
+['PPAP', 'PPAP Automotive Limited']
+gathered: 1070.PPAP
+['PPL', 'Prakash Pipes Limited']
+gathered: 1071.PPL
+['PRAENG', 'Prajay Engineers Syndicate Limited']
+gathered: 1072.PRAENG
+['PRAJIND', 'Praj Industries Limited']
+gathered: 1073.PRAJIND
+['PRAKASH', 'Prakash Industries Limited']
+gathered: 1074.PRAKASH
+['PRAKASHSTL', 'Prakash Steelage Limited']
+gathered: 1075.PRAKASHSTL
+['PRECAM', 'Precision Camshafts Limited']
+gathered: 1076.PRECAM
+['PRECOT', 'Precot Limited']
+gathered: 1077.PRECOT
+['PRECWIRE', 'Precision Wires India Limited']
+gathered: 1078.PRECWIRE
+['PREMEXPLN', 'Premier Explosives Limited']
+gathered: 1079.PREMEXPLN
+['PREMIERPOL', 'Premier Polyfilm Limited']
+gathered: 1080.PREMIERPOL
+['PRESSMN', 'Pressman Advertising Limited']
+gathered: 1081.PRESSMN
+['PRESTIGE', 'Prestige Estates Projects Limited']
+gathered: 1082.PRESTIGE
+['PRICOLLTD', 'Pricol Limited']
+gathered: 1083.PRICOLLTD
+['PRIMESECU', 'Prime Securities Limited']
+gathered: 1084.PRIMESECU
+['PRINCEPIPE', 'Prince Pipes And Fittings Limited']
+gathered: 1085.PRINCEPIPE
+['PRITIKAUTO', 'Pritika Auto Industries Limited']
+gathered: 1086.PRITIKAUTO
+['PRIVISCL', 'Privi Speciality Chemicals Limited']
+gathered: 1087.PRIVISCL
+['PROZONINTU', 'Prozone Intu Properties Limited']
+gathered: 1088.PROZONINTU
+['PRSMJOHNSN', 'Prism Johnson Limited']
+gathered: 1089.PRSMJOHNSN
+['PSB', 'Punjab & Sind Bank']
+gathered: 1090.PSB
+['PSPPROJECT', 'PSP Projects Limited']
+gathered: 1091.PSPPROJECT
+['PTC', 'PTC India Limited']
+gathered: 1092.PTC
+['PTL', 'PTL Enterprises Limited']
+gathered: 1093.PTL
+['PUNJABCHEM', 'Punjab Chemicals & Crop Protection Limited']
+gathered: 1094.PUNJABCHEM
+['PURVA', 'Puravankara Limited']
+gathered: 1095.PURVA
+['PVR', 'PVR Limited']
+gathered: 1096.PVR
+['QUESS', 'Quess Corp Limited']
+gathered: 1097.QUESS
+['QUICKHEAL', 'Quick Heal Technologies Limited']
+gathered: 1098.QUICKHEAL
+['RADICO', 'Radico Khaitan Limited']
+gathered: 1099.RADICO
+['RADIOCITY', 'Music Broadcast Limited']
+gathered: 1100.RADIOCITY
+['RAILTEL', 'Railtel Corporation Of India Limited']
+gathered: 1101.RAILTEL
+['RAIN', 'Rain Industries Limited']
+gathered: 1102.RAIN
+['RAJESHEXPO', 'Rajesh Exports Limited']
+gathered: 1103.RAJESHEXPO
+['RAJMET', 'Rajnandini Metal Limited']
+gathered: 1104.RAJMET
+['RAJTV', 'Raj Television Network Limited']
+gathered: 1105.RAJTV
+['RALLIS', 'Rallis India Limited']
+gathered: 1106.RALLIS
+['RAMANEWS', 'Shree Rama Newsprint Limited']
+gathered: 1107.RAMANEWS
+['RAMASTEEL', 'Rama Steel Tubes Limited']
+gathered: 1108.RAMASTEEL
+['RAMCOCEM', 'The Ramco Cements Limited']
+gathered: 1109.RAMCOCEM
+['RAMCOIND', 'Ramco Industries Limited']
+gathered: 1110.RAMCOIND
+['RAMCOSYS', 'Ramco Systems Limited']
+gathered: 1111.RAMCOSYS
+['RAMKY', 'Ramky Infrastructure Limited']
+gathered: 1112.RAMKY
+['RANASUG', 'Rana Sugars Limited']
+gathered: 1113.RANASUG
+['RANEENGINE', 'Rane Engine Valve Limited']
+gathered: 1114.RANEENGINE
+['RANEHOLDIN', 'Rane Holdings Limited']
+gathered: 1115.RANEHOLDIN
+['RATEGAIN', 'Rategain Travel Technologies Limited']
+gathered: 1116.RATEGAIN
+['RATNAMANI', 'Ratnamani Metals & Tubes Limited']
+gathered: 1117.RATNAMANI
+['RAYMOND', 'Raymond Limited']
+gathered: 1118.RAYMOND
+['RBLBANK', 'RBL Bank Limited']
+gathered: 1119.RBLBANK
+['RBL', 'Rane Brake Lining Limited']
+gathered: 1120.RBL
+['RCF', 'Rashtriya Chemicals and Fertilizers Limited']
+gathered: 1121.RCF
+['RCOM', 'Reliance Communications Limited']
+gathered: 1122.RCOM
+['RECLTD', 'REC Limited']
+gathered: 1123.RECLTD
+['REDINGTON', 'Redington (India) Limited']
+gathered: 1124.REDINGTON
+['REFEX', 'Refex Industries Limited']
+gathered: 1125.REFEX
+['RELAXO', 'Relaxo Footwears Limited']
+gathered: 1126.RELAXO
+['RELIANCE', 'Reliance Industries Limited']
+gathered: 1127.RELIANCE
+['RELIGARE', 'Religare Enterprises Limited']
+gathered: 1128.RELIGARE
+['REMSONSIND', 'Remsons Industries Limited']
+gathered: 1129.REMSONSIND
+['RENUKA', 'Shree Renuka Sugars Limited']
+gathered: 1130.RENUKA
+['REPCOHOME', 'Repco Home Finance Limited']
+gathered: 1131.REPCOHOME
+['REPL', 'Rudrabhishek Enterprises Limited']
+gathered: 1132.REPL
+['REPRO', 'Repro India Limited']
+gathered: 1133.REPRO
+['RESPONIND', 'Responsive Industries Limited']
+gathered: 1134.RESPONIND
+['REVATHI', 'Revathi Equipment Limited']
+gathered: 1135.REVATHI
+['RGL', 'Renaissance Global Limited']
+gathered: 1136.RGL
+['RHFL', 'Reliance Home Finance Limited']
+gathered: 1137.RHFL
+['RHIM', 'RHI MAGNESITA INDIA LIMITED']
+gathered: 1138.RHIM
+['RICOAUTO', 'Rico Auto Industries Limited']
+gathered: 1139.RICOAUTO
+['RIIL', 'Reliance Industrial Infrastructure Limited']
+gathered: 1140.RIIL
+['RITES', 'RITES Limited']
+gathered: 1141.RITES
+['RKEC', 'RKEC Projects Limited']
+gathered: 1142.RKEC
+['RKFORGE', 'Ramkrishna Forgings Limited']
+gathered: 1143.RKFORGE
+['RML', 'Rane (Madras) Limited']
+gathered: 1144.RML
+['ROLEXRINGS', 'Rolex Rings Limited']
+gathered: 1145.ROLEXRINGS
+['ROLLT', 'Rollatainers Limited']
+gathered: 1146.ROLLT
+['ROSSARI', 'Rossari Biotech Limited']
+gathered: 1147.ROSSARI
+['ROSSELLIND', 'Rossell India Limited']
+gathered: 1148.ROSSELLIND
+['ROUTE', 'ROUTE MOBILE LIMITED']
+gathered: 1149.ROUTE
+['RPGLIFE', 'RPG Life Sciences Limited']
+gathered: 1150.RPGLIFE
+['RPOWER', 'Reliance Power Limited']
+gathered: 1151.RPOWER
+['RPPINFRA', '.R..P..P.. Infra Projects Limited.']
+gathered: 1152.RPPINFRA
+['RPPL', 'Rajshree Polypack Limited']
+gathered: 1153.RPPL
+['RPSGVENT', 'RPSG VENTURES LIMITED']
+gathered: 1154.RPSGVENT
+['RSSOFTWARE', '.R.. S.. Software (India) Limited.']
+gathered: 1155.RSSOFTWARE
+['RSWM', 'RSWM Limited']
+gathered: 1156.RSWM
+['RSYSTEMS', 'R Systems International Limited']
+gathered: 1157.RSYSTEMS
+['RTNINDIA', 'RattanIndia Enterprises Limited']
+gathered: 1158.RTNINDIA
+['RTNPOWER', 'RattanIndia Power Limited']
+gathered: 1159.RTNPOWER
+['RUBYMILLS', 'The Ruby Mills Limited']
+gathered: 1160.RUBYMILLS
+['RUCHI', 'Ruchi Soya Industries Limited']
+gathered: 1161.RUCHI
+['RUCHIRA', 'Ruchira Papers Limited']
+gathered: 1162.RUCHIRA
+['RUPA', 'Rupa & Company Limited']
+gathered: 1163.RUPA
+['RUSHIL', 'Rushil Decor Limited']
+gathered: 1164.RUSHIL
+['RVHL', 'Ravinder Heights Limited']
+gathered: 1165.RVHL
+['RVNL', 'Rail Vikas Nigam Limited']
+gathered: 1166.RVNL
+['SADBHAV', 'Sadbhav Engineering Limited']
+gathered: 1167.SADBHAV
+['SADBHIN', 'Sadbhav Infrastructure Project Limited']
+gathered: 1168.SADBHIN
+['SAFARI', 'Safari Industries (India) Limited']
+gathered: 1169.SAFARI
+['SAGCEM', 'Sagar Cements Limited']
+gathered: 1170.SAGCEM
+['SAIL', 'Steel Authority of India Limited']
+gathered: 1171.SAIL
+['SAKAR', 'Sakar Healthcare Limited']
+gathered: 1172.SAKAR
+['SAKHTISUG', 'Sakthi Sugars Limited']
+gathered: 1173.SAKHTISUG
+['SAKSOFT', 'Saksoft Limited']
+gathered: 1174.SAKSOFT
+['SAKUMA', 'Sakuma Exports Limited']
+gathered: 1175.SAKUMA
+['SALASAR', 'Salasar Techno Engineering Limited']
+gathered: 1176.SALASAR
+['SALONA', 'Salona Cotspin Limited']
+gathered: 1177.SALONA
+['SALSTEEL', '.S..A..L.. Steel Limited.']
+gathered: 1178.SALSTEEL
+['SALZERELEC', 'Salzer Electronics Limited']
+gathered: 1179.SALZERELEC
+['SANCO', 'Sanco Industries Limited']
+gathered: 1180.SANCO
+['SANDESH', 'The Sandesh Limited']
+gathered: 1181.SANDESH
+['SANDHAR', 'Sandhar Technologies Limited']
+gathered: 1182.SANDHAR
+['SANGAMIND', 'Sangam (India) Limited']
+gathered: 1183.SANGAMIND
+['SANGHIIND', 'Sanghi Industries Limited']
+gathered: 1184.SANGHIIND
+['SANGHVIMOV', 'Sanghvi Movers Limited']
+gathered: 1185.SANGHVIMOV
+['SANOFI', 'Sanofi India Limited']
+gathered: 1186.SANOFI
+['SANSERA', 'Sansera Engineering Limited']
+gathered: 1187.SANSERA
+['SAPPHIRE', 'Sapphire Foods India Limited']
+gathered: 1188.SAPPHIRE
+['SARDAEN', 'Sarda Energy & Minerals Limited']
+gathered: 1189.SARDAEN
+['SARLAPOLY', 'Sarla Performance Fibers Limited']
+gathered: 1190.SARLAPOLY
+['SASKEN', 'Sasken Technologies Limited']
+gathered: 1191.SASKEN
+['SASTASUNDR', 'Sastasundar Ventures Limited']
+gathered: 1192.SASTASUNDR
+['SATIA', 'Satia Industries Limited']
+gathered: 1193.SATIA
+['SATIN', 'Satin Creditcare Network Limited']
+gathered: 1194.SATIN
+['SBC', 'SBC Exports Limited']
+FAILED TO GATHER 1194SBC
+['SBCL', 'Shivalik Bimetal Controls Limited']
+gathered: 1195.SBCL
+['SBICARD', 'SBI Cards and Payment Services Limited']
+gathered: 1196.SBICARD
+['SBILIFE', 'SBI Life Insurance Company Limited']
+gathered: 1197.SBILIFE
+['SBIN', 'State Bank of India']
+gathered: 1198.SBIN
+['SCHAEFFLER', 'Schaeffler India Limited']
+gathered: 1199.SCHAEFFLER
+['SCHAND', 'S Chand And Company Limited']
+gathered: 1200.SCHAND
+['SCHNEIDER', 'Schneider Electric Infrastructure Limited']
+gathered: 1201.SCHNEIDER
+['SCI', 'Shipping Corporation Of India Limited']
+gathered: 1202.SCI
+['scriptstock', 'Shipping Corporation Of India Limited']
+FAILED TO GATHER 1202scriptstock
+['SDBL', 'Som Distilleries & Breweries Limited']
+gathered: 1203.SDBL
+['SECURKLOUD', 'SECUREKLOUD TECHNOLOGIES LIMITED']
+gathered: 1204.SECURKLOUD
+['SELAN', 'Selan Exploration Technology Limited']
+gathered: 1205.SELAN
+['SELMC', 'SEL Manufacturing Company Limited']
+gathered: 1206.SELMC
+['SEQUENT', 'Sequent Scientific Limited']
+gathered: 1207.SEQUENT
+['SERVOTECH', 'Servotech Power Systems Limited']
+gathered: 1208.SERVOTECH
+['SESHAPAPER', 'Seshasayee Paper and Boards Limited']
+gathered: 1209.SESHAPAPER
+['SETCO', 'Setco Automotive Limited']
+gathered: 1210.SETCO
+['SEYAIND', 'Seya Industries Limited']
+gathered: 1211.SEYAIND
+['SFL', 'Sheela Foam Limited']
+gathered: 1212.SFL
+['SGIL', 'Synergy Green Industries Limited']
+gathered: 1213.SGIL
+['SGL', 'STL Global Limited']
+gathered: 1214.SGL
+['SHAKTIPUMP', 'Shakti Pumps (India) Limited']
+gathered: 1215.SHAKTIPUMP
+['SHALBY', 'Shalby Limited']
+gathered: 1216.SHALBY
+['SHALPAINTS', 'Shalimar Paints Limited']
+gathered: 1217.SHALPAINTS
+['SHANKARA', 'Shankara Building Products Limited']
+gathered: 1218.SHANKARA
+['SHANTIGEAR', 'Shanthi Gears Limited']
+gathered: 1219.SHANTIGEAR
+['SHARDACROP', 'Sharda Cropchem Limited']
+gathered: 1220.SHARDACROP
+['SHARDAMOTR', 'Sharda Motor Industries Limited']
+gathered: 1221.SHARDAMOTR
+['SHAREINDIA', 'Share India Securities Limited']
+gathered: 1222.SHAREINDIA
+['SHIL', 'Somany Home Innovation Limited']
+gathered: 1223.SHIL
+['SHILPAMED', 'Shilpa Medicare Limited']
+gathered: 1224.SHILPAMED
+['SHIVALIK', 'Shivalik Rasayan Limited']
+gathered: 1225.SHIVALIK
+['SHIVAMILLS', 'Shiva Mills Limited']
+gathered: 1226.SHIVAMILLS
+['SHIVATEX', 'Shiva Texyarn Limited']
+gathered: 1227.SHIVATEX
+['SHK', 'S H Kelkar and Company Limited']
+gathered: 1228.SHK
+['SHOPERSTOP', 'Shoppers Stop Limited']
+gathered: 1229.SHOPERSTOP
+['SHRADHA', 'Shradha Infraprojects Limited']
+gathered: 1230.SHRADHA
+['SHREDIGCEM', '.Shree Digvijay Cement Co..Ltd.']
+gathered: 1231.SHREDIGCEM
+['SHREECEM', 'SHREE CEMENT LIMITED']
+gathered: 1232.SHREECEM
+['SHREEPUSHK', 'Shree Pushkar Chemicals & Fertilisers Limited']
+gathered: 1233.SHREEPUSHK
+['SHREERAMA', 'Shree Rama Multi-Tech Limited']
+gathered: 1234.SHREERAMA
+['SHRENIK', 'Shrenik Limited']
+gathered: 1235.SHRENIK
+['SHREYANIND', 'Shreyans Industries Limited']
+gathered: 1236.SHREYANIND
+['SHREYAS', 'Shreyas Shipping & Logistics Limited']
+gathered: 1237.SHREYAS
+['SHRIRAMCIT', 'Shriram City Union Finance Limited']
+gathered: 1238.SHRIRAMCIT
+['SHRIRAMEPC', 'Shriram EPC Limited']
+gathered: 1239.SHRIRAMEPC
+['SHRIRAMPPS', 'Shriram Properties Limited']
+gathered: 1240.SHRIRAMPPS
+['SHYAMCENT', 'Shyam Century Ferrous Limited']
+gathered: 1241.SHYAMCENT
+['SHYAMMETL', 'Shyam Metalics and Energy Limited']
+gathered: 1242.SHYAMMETL
+['SIEMENS', 'Siemens Limited']
+gathered: 1243.SIEMENS
+['SIGACHI', 'Sigachi Industries Limited']
+gathered: 1244.SIGACHI
+['SIGIND', 'Signet Industries Limited']
+gathered: 1245.SIGIND
+['SIKKO', 'Sikko Industries Limited']
+gathered: 1246.SIKKO
+['SILGO', 'Silgo Retail Limited']
+gathered: 1247.SILGO
+['SILINV', 'SIL Investments Limited']
+gathered: 1248.SILINV
+['SIMBHALS', 'Simbhaoli Sugars Limited']
+gathered: 1249.SIMBHALS
+['SIMPLEXINF', 'Simplex Infrastructures Limited']
+gathered: 1250.SIMPLEXINF
+['SINTERCOM', 'Sintercom India Limited']
+gathered: 1251.SINTERCOM
+['SIRCA', 'Sirca Paints India Limited']
+gathered: 1252.SIRCA
+['SIS', 'SIS LIMITED']
+gathered: 1253.SIS
+['SIYSIL', 'Siyaram Silk Mills Limited']
+gathered: 1254.SIYSIL
+['SJS', '.S..J..S.. Enterprises Limited.']
+gathered: 1255.SJS
+['SJVN', 'SJVN Limited']
+gathered: 1256.SJVN
+['SKFINDIA', 'SKF India Limited']
+gathered: 1257.SKFINDIA
+['SKIPPER', 'Skipper Limited']
+gathered: 1258.SKIPPER
+['SKMEGGPROD', 'SKM Egg Products Export (India) Limited']
+gathered: 1259.SKMEGGPROD
+['SMARTLINK', 'Smartlink Holdings Limited']
+gathered: 1260.SMARTLINK
+['SMCGLOBAL', 'SMC Global Securities Limited']
+gathered: 1261.SMCGLOBAL
+['SMLISUZU', 'SML Isuzu Limited']
+gathered: 1262.SMLISUZU
+['SMLT', 'Sarthak Metals Limited']
+gathered: 1263.SMLT
+['SMSLIFE', 'SMS Lifesciences India Limited']
+gathered: 1264.SMSLIFE
+['SMSPHARMA', 'SMS Pharmaceuticals Limited']
+gathered: 1265.SMSPHARMA
+['SNOWMAN', 'Snowman Logistics Limited']
+gathered: 1266.SNOWMAN
+['SOBHA', 'Sobha Limited']
+gathered: 1267.SOBHA
+['SOLARA', 'Solara Active Pharma Sciences Limited']
+gathered: 1268.SOLARA
+['SOLARINDS', 'Solar Industries India Limited']
+gathered: 1269.SOLARINDS
+['SOMANYCERA', 'Somany Ceramics Limited']
+gathered: 1270.SOMANYCERA
+['SOMICONVEY', 'Somi Conveyor Beltings Limited']
+gathered: 1271.SOMICONVEY
+['SONACOMS', 'Sona BLW Precision Forgings Limited']
+gathered: 1272.SONACOMS
+['SONATSOFTW', 'Sonata Software Limited']
+gathered: 1273.SONATSOFTW
+['SORILINFRA', 'SORIL Infra Resources Limited']
+gathered: 1274.SORILINFRA
+['SOTL', 'Savita Oil Technologies Limited']
+gathered: 1275.SOTL
+['SOUTHBANK', 'The South Indian Bank Limited']
+gathered: 1276.SOUTHBANK
+['SPAL', '.S.. P.. Apparels Limited.']
+gathered: 1277.SPAL
+['SPANDANA', 'Spandana Sphoorty Financial Limited']
+gathered: 1278.SPANDANA
+['SPARC', 'Sun Pharma Advanced Research Company Limited']
+gathered: 1279.SPARC
+['SPECIALITY', 'Speciality Restaurants Limited']
+gathered: 1280.SPECIALITY
+['SPENCERS', "Spencer's Retail Limited"]
+gathered: 1281.SPENCERS
+['SPIC', 'Southern Petrochemicals Industries Corporation  Limited']
+gathered: 1282.SPIC
+['SPICEJET', 'SPICEJET LTD']
+gathered: 1283.SPICEJET
+['SPLIL', 'SPL Industries Limited']
+gathered: 1284.SPLIL
+['SPTL', 'Sintex Plastics Technology Limited']
+gathered: 1285.SPTL
+['SREEL', 'Sreeleathers Limited']
+gathered: 1286.SREEL
+['SRF', 'SRF Limited']
+gathered: 1287.SRF
+['SRHHYPOLTD', 'Sree Rayalaseema Hi-Strength Hypo Limited']
+gathered: 1288.SRHHYPOLTD
+['SRIPIPES', 'Srikalahasthi Pipes Limited']
+gathered: 1289.SRIPIPES
+['SRPL', 'Shree Ram Proteins Limited']
+gathered: 1290.SRPL
+['SRTRANSFIN', 'Shriram Transport Finance Company Limited']
+gathered: 1291.SRTRANSFIN
+['SSWL', 'Steel Strips Wheels Limited']
+gathered: 1292.SSWL
+['STARCEMENT', 'Star Cement Limited']
+gathered: 1293.STARCEMENT
+['STAR', 'Strides Pharma Science Limited']
+gathered: 1294.STAR
+['STARHEALTH', 'Star Health and Allied Insurance Company Limited']
+gathered: 1295.STARHEALTH
+['STARPAPER', 'Star Paper Mills Limited']
+gathered: 1296.STARPAPER
+['STCINDIA', 'The State Trading Corporation of India Limited']
+gathered: 1297.STCINDIA
+['STEELCAS', 'Steelcast Limited']
+gathered: 1298.STEELCAS
+['STEELCITY', 'Steel City Securities Limited']
+gathered: 1299.STEELCITY
+['STEELXIND', 'STEEL EXCHANGE INDIA LIMITED']
+gathered: 1300.STEELXIND
+['STEL', 'Stel Holdings Limited']
+gathered: 1301.STEL
+['STERTOOLS', 'Sterling Tools Limited']
+gathered: 1302.STERTOOLS
+['STLTECH', 'Sterlite Technologies Limited']
+gathered: 1303.STLTECH
+['STOVEKRAFT', 'Stove Kraft Limited']
+gathered: 1304.STOVEKRAFT
+['STYLAMIND', 'Stylam Industries Limited']
+gathered: 1305.STYLAMIND
+['SUBEXLTD', 'Subex Limited']
+gathered: 1306.SUBEXLTD
+['SUBROS', 'Subros Limited']
+gathered: 1307.SUBROS
+['SUDARSCHEM', 'Sudarshan Chemical Industries Limited']
+gathered: 1308.SUDARSCHEM
+['SUMEETINDS', 'Sumeet Industries Limited']
+gathered: 1309.SUMEETINDS
+['SUMICHEM', 'Sumitomo Chemical India Limited']
+gathered: 1310.SUMICHEM
+['SUMIT', 'Sumit Woods Limited']
+gathered: 1311.SUMIT
+['SUMMITSEC', 'Summit Securities Limited']
+gathered: 1312.SUMMITSEC
+['SUNCLAYLTD', 'Sundaram Clayton Limited']
+gathered: 1313.SUNCLAYLTD
+['SUNDARMFIN', 'Sundaram Finance Limited']
+gathered: 1314.SUNDARMFIN
+['SUNDARMHLD', 'Sundaram Finance Holdings Limited']
+gathered: 1315.SUNDARMHLD
+['SUNDRMBRAK', 'Sundaram Brake Linings Limited']
+gathered: 1316.SUNDRMBRAK
+['SUNDRMFAST', 'Sundram Fasteners Limited']
+gathered: 1317.SUNDRMFAST
+['SUNFLAG', 'Sunflag Iron And Steel Company Limited']
+gathered: 1318.SUNFLAG
+['SUNPHARMA', 'Sun Pharmaceutical Industries Limited']
+gathered: 1319.SUNPHARMA
+['SUNTECK', 'Sunteck Realty Limited']
+gathered: 1320.SUNTECK
+['SUNTV', 'Sun TV Network Limited']
+gathered: 1321.SUNTV
+['SUPERHOUSE', 'Superhouse Limited']
+gathered: 1322.SUPERHOUSE
+['SUPERSPIN', 'Super Spinning Mills Limited']
+gathered: 1323.SUPERSPIN
+['SUPPETRO', 'Supreme Petrochem Limited']
+gathered: 1324.SUPPETRO
+['SUPRAJIT', 'Suprajit Engineering Limited']
+gathered: 1325.SUPRAJIT
+['SUPREMEENG', 'Supreme Engineering Limited']
+gathered: 1326.SUPREMEENG
+['SUPREMEIND', 'Supreme Industries Limited']
+gathered: 1327.SUPREMEIND
+['SUPRIYA', 'Supriya Lifescience Limited']
+gathered: 1328.SUPRIYA
+['SURANAT&P', 'Surana Telecom and Power Limited']
+gathered: 1329.SURANAT&P
+['SURYALAXMI', 'Suryalakshmi Cotton Mills Limited']
+gathered: 1330.SURYALAXMI
+['SURYAROSNI', 'Surya Roshni Limited']
+gathered: 1331.SURYAROSNI
+['SURYODAY', 'Suryoday Small Finance Bank Limited']
+gathered: 1332.SURYODAY
+['SUTLEJTEX', 'Sutlej Textiles and Industries Limited']
+gathered: 1333.SUTLEJTEX
+['SUULD', 'Suumaya Industries Limited']
+gathered: 1334.SUULD
+['SUVEN', 'Suven Life Sciences Limited']
+gathered: 1335.SUVEN
+['SUVENPHAR', 'Suven Pharmaceuticals Limited']
+gathered: 1336.SUVENPHAR
+['SUVIDHAA', 'Suvidhaa Infoserve Limited']
+gathered: 1337.SUVIDHAA
+['SUZLON', 'Suzlon Energy Limited']
+gathered: 1338.SUZLON
+['SVPGLOB', 'SVP Global Ventures Limited']
+gathered: 1339.SVPGLOB
+['SWANENERGY', 'Swan Energy Limited']
+gathered: 1340.SWANENERGY
+['SWARAJENG', 'Swaraj Engines Limited']
+gathered: 1341.SWARAJENG
+['SWELECTES', 'Swelect Energy Systems Limited']
+gathered: 1342.SWELECTES
+['SWSOLAR', 'Sterling and Wilson Renewable Energy Limited']
+gathered: 1343.SWSOLAR
+['SYMPHONY', 'Symphony Limited']
+gathered: 1344.SYMPHONY
+['SYNGENE', 'Syngene International Limited']
+gathered: 1345.SYNGENE
+['TAINWALCHM', 'Tainwala Chemical and Plastic (I) Limited']
+gathered: 1346.TAINWALCHM
+['TAJGVK', 'Taj GVK Hotels & Resorts Limited']
+gathered: 1347.TAJGVK
+['TAKE', 'Take Solutions Limited']
+gathered: 1348.TAKE
+['TALBROAUTO', 'Talbros Automotive Components Limited']
+gathered: 1349.TALBROAUTO
+['TANLA', 'Tanla Platforms Limited']
+gathered: 1350.TANLA
+['TARAPUR', 'Tarapur Transformers Limited']
+gathered: 1351.TARAPUR
+['TARC', 'TARC Limited']
+gathered: 1352.TARC
+['TARMAT', 'Tarmat Limited']
+gathered: 1353.TARMAT
+['TARSONS', 'Tarsons Products Limited']
+gathered: 1354.TARSONS
+['TASTYBITE', 'Tasty Bite Eatables Limited']
+gathered: 1355.TASTYBITE
+['TATACHEM', 'Tata Chemicals Limited']
+gathered: 1356.TATACHEM
+['TATACOFFEE', 'Tata Coffee Limited']
+gathered: 1357.TATACOFFEE
+['TATACOMM', 'Tata Communications Limited']
+gathered: 1358.TATACOMM
+['TATACONSUM', 'TATA CONSUMER PRODUCTS LIMITED']
+gathered: 1359.TATACONSUM
+['TATAELXSI', 'Tata Elxsi Limited']
+gathered: 1360.TATAELXSI
+['TATAINVEST', 'Tata Investment Corporation Limited']
+gathered: 1361.TATAINVEST
+['TATAMETALI', 'Tata Metaliks Limited']
+gathered: 1362.TATAMETALI
+['TATAMOTORS', 'Tata Motors Limited']
+gathered: 1363.TATAMOTORS
+['TATAMTRDVR', 'Tata Motors Limited']
+gathered: 1364.TATAMTRDVR
+['TATAPOWER', 'Tata Power Company Limited']
+gathered: 1365.TATAPOWER
+['TATASTEEL', 'Tata Steel Limited']
+gathered: 1366.TATASTEEL
+['TATASTLLP', 'Tata Steel Long Products Limited']
+gathered: 1367.TATASTLLP
+['TATVA', 'Tatva Chintan Pharma Chem Limited']
+gathered: 1368.TATVA
+['TBZ', 'Tribhovandas Bhimji Zaveri Limited']
+gathered: 1369.TBZ
+['TCI', 'Transport Corporation of India Limited']
+gathered: 1370.TCI
+['TCIDEVELOP', 'TCI Developers Limited']
+gathered: 1371.TCIDEVELOP
+['TCIEXP', 'TCI Express Limited']
+gathered: 1372.TCIEXP
+['TCIFINANCE', 'TCI Finance Limited']
+gathered: 1373.TCIFINANCE
+['TCNSBRANDS', '.TCNS Clothing Co.. Limited.']
+gathered: 1374.TCNSBRANDS
+['TCPLPACK', 'TCPL Packaging Limited']
+gathered: 1375.TCPLPACK
+['TCS', 'Tata Consultancy Services Limited']
+gathered: 1376.TCS
+['TDPOWERSYS', 'TD Power Systems Limited']
+gathered: 1377.TDPOWERSYS
+['TEAMLEASE', 'Teamlease Services Limited']
+gathered: 1378.TEAMLEASE
+['TECHM', 'Tech Mahindra Limited']
+gathered: 1379.TECHM
+['TECHNOE', 'Techno Electric & Engineering Company Limited']
+gathered: 1380.TECHNOE
+['TEGA', 'Tega Industries Limited']
+gathered: 1381.TEGA
+['TEJASNET', 'Tejas Networks Limited']
+gathered: 1382.TEJASNET
+['TERASOFT', 'Tera Software Limited']
+gathered: 1383.TERASOFT
+['TEXINFRA', 'Texmaco Infrastructure & Holdings Limited']
+gathered: 1384.TEXINFRA
+['TEXMOPIPES', 'Texmo Pipes and Products Limited']
+gathered: 1385.TEXMOPIPES
+['TEXRAIL', 'Texmaco Rail & Engineering Limited']
+gathered: 1386.TEXRAIL
+['TFCILTD', 'Tourism Finance Corporation of India Limited']
+gathered: 1387.TFCILTD
+['TGBHOTELS', 'TGB Banquets And Hotels Limited']
+gathered: 1388.TGBHOTELS
+['THANGAMAYL', 'Thangamayil Jewellery Limited']
+gathered: 1389.THANGAMAYL
+['THEINVEST', 'The Investment Trust Of India Limited']
+gathered: 1390.THEINVEST
+['THEMISMED', 'Themis Medicare Limited']
+gathered: 1391.THEMISMED
+['THERMAX', 'Thermax Limited']
+gathered: 1392.THERMAX
+['THOMASCOOK', 'Thomas Cook  (India)  Limited']
+gathered: 1393.THOMASCOOK
+['THYROCARE', 'Thyrocare Technologies Limited']
+gathered: 1394.THYROCARE
+['TIDEWATER', 'Tide Water Oil Company (India) Limited']
+gathered: 1395.TIDEWATER
+['TIIL', 'Technocraft Industries (India) Limited']
+gathered: 1396.TIIL
+['TIINDIA', 'Tube Investments of India Limited']
+gathered: 1397.TIINDIA
+['TIJARIA', 'Tijaria Polypipes Limited']
+gathered: 1398.TIJARIA
+['TIL', 'TIL Limited']
+gathered: 1399.TIL
+['TIMESGTY', 'Times Guaranty Limited']
+gathered: 1400.TIMESGTY
+['TIMETECHNO', 'Time Technoplast Limited']
+gathered: 1401.TIMETECHNO
+['TIMKEN', 'Timken India Limited']
+gathered: 1402.TIMKEN
+['TINPLATE', 'The Tinplate Company of India Limited']
+gathered: 1403.TINPLATE
+['TIRUMALCHM', 'Thirumalai Chemicals Limited']
+gathered: 1404.TIRUMALCHM
+['TITAN', 'Titan Company Limited']
+gathered: 1405.TITAN
+['TMRVL', 'The Mandhana Retail Ventures Limited']
+gathered: 1406.TMRVL
+['TNPETRO', 'Tamilnadu PetroProducts Limited']
+gathered: 1407.TNPETRO
+['TNPL', 'Tamil Nadu Newsprint & Papers Limited']
+gathered: 1408.TNPL
+['TOKYOPLAST', 'Tokyo Plast International Limited']
+gathered: 1409.TOKYOPLAST
+['TORNTPHARM', 'Torrent Pharmaceuticals Limited']
+gathered: 1410.TORNTPHARM
+['TORNTPOWER', 'Torrent Power Limited']
+gathered: 1411.TORNTPOWER
+['TOTAL', 'Total Transport Systems Limited']
+gathered: 1412.TOTAL
+['TOUCHWOOD', 'Touchwood Entertainment Limited']
+gathered: 1413.TOUCHWOOD
+['TPLPLASTEH', 'TPL Plastech Limited']
+gathered: 1414.TPLPLASTEH
+['TREEHOUSE', 'Tree House Education & Accessories Limited']
+gathered: 1415.TREEHOUSE
+['TREJHARA', 'TREJHARA SOLUTIONS LIMITED']
+gathered: 1416.TREJHARA
+['TRENT', 'Trent Limited']
+gathered: 1417.TRENT
+['TRIDENT', 'Trident Limited']
+gathered: 1418.TRIDENT
+['TRIGYN', 'Trigyn Technologies Limited']
+gathered: 1419.TRIGYN
+['TRIL', 'Transformers And Rectifiers (India) Limited']
+gathered: 1420.TRIL
+['TRITURBINE', 'Triveni Turbine Limited']
+gathered: 1421.TRITURBINE
+['TRIVENI', 'Triveni Engineering & Industries Limited']
+gathered: 1422.TRIVENI
+['TTKHLTCARE', 'TTK Healthcare Limited']
+gathered: 1423.TTKHLTCARE
+['TTKPRESTIG', 'TTK Prestige Limited']
+gathered: 1424.TTKPRESTIG
+['TTL', 'T T Limited']
+gathered: 1425.TTL
+['TV18BRDCST', 'TV18 Broadcast Limited']
+gathered: 1426.TV18BRDCST
+['TVSELECT', 'TVS Electronics Limited']
+gathered: 1427.TVSELECT
+['TVSMOTOR', 'TVS Motor Company Limited']
+gathered: 1428.TVSMOTOR
+['TVSSRICHAK', 'TVS Srichakra Limited']
+gathered: 1429.TVSSRICHAK
+['TVTODAY', 'TV Today Network Limited']
+gathered: 1430.TVTODAY
+['TWL', 'Titagarh Wagons Limited']
+gathered: 1431.TWL
+['UBL', 'United Breweries Limited']
+gathered: 1432.UBL
+['UCALFUEL', 'Ucal Fuel Systems Limited']
+gathered: 1433.UCALFUEL
+['UCOBANK', 'UCO Bank']
+gathered: 1434.UCOBANK
+['UDAICEMENT', 'Udaipur Cement Works Limited']
+gathered: 1435.UDAICEMENT
+['UFLEX', 'UFLEX Limited']
+gathered: 1436.UFLEX
+['UFO', 'UFO Moviez India Limited']
+gathered: 1437.UFO
+['UGARSUGAR', 'The Ugar Sugar Works Limited']
+gathered: 1438.UGARSUGAR
+['UGROCAP', 'Ugro Capital Limited']
+gathered: 1439.UGROCAP
+['UJJIVAN', 'Ujjivan Financial Services Limited']
+gathered: 1440.UJJIVAN
+['UJJIVANSFB', 'Ujjivan Small Finance Bank Limited']
+gathered: 1441.UJJIVANSFB
+['ULTRACEMCO', 'UltraTech Cement Limited']
+gathered: 1442.ULTRACEMCO
+['UMANGDAIRY', 'Umang Dairies Limited']
+gathered: 1443.UMANGDAIRY
+['UNICHEMLAB', 'Unichem Laboratories Limited']
+gathered: 1444.UNICHEMLAB
+['UNIDT', 'United Drilling Tools Limited']
+gathered: 1445.UNIDT
+['UNIENTER', 'Uniphos Enterprises Limited']
+gathered: 1446.UNIENTER
+['UNIONBANK', 'Union Bank of India']
+gathered: 1447.UNIONBANK
+['UNITEDTEA', 'The United Nilgiri Tea Estates Company Limited']
+gathered: 1448.UNITEDTEA
+['UNIVASTU', 'Univastu India Limited']
+gathered: 1449.UNIVASTU
+['UNIVCABLES', 'Universal Cables Limited']
+gathered: 1450.UNIVCABLES
+['UNIVPHOTO', 'Universus Photo Imagings Limited']
+gathered: 1451.UNIVPHOTO
+['UPL', 'UPL Limited']
+gathered: 1452.UPL
+['URJA', 'Urja Global Limited']
+gathered: 1453.URJA
+['USHAMART', 'Usha Martin Limited']
+gathered: 1454.USHAMART
+['UTIAMC', 'UTI Asset Management Company Limited']
+gathered: 1455.UTIAMC
+['UTTAMSTL', 'Uttam Galva Steels Limited']
+gathered: 1456.UTTAMSTL
+['UTTAMSUGAR', 'Uttam Sugar Mills Limited']
+gathered: 1457.UTTAMSUGAR
+['VADILALIND', 'Vadilal Industries Limited']
+gathered: 1458.VADILALIND
+['VAIBHAVGBL', 'Vaibhav Global Limited']
+gathered: 1459.VAIBHAVGBL
+['VAISHALI', 'Vaishali Pharma Limited']
+gathered: 1460.VAISHALI
+['VAKRANGEE', 'Vakrangee Limited']
+gathered: 1461.VAKRANGEE
+['VALIANTORG', 'Valiant Organics Limited']
+gathered: 1462.VALIANTORG
+['VARDHACRLC', 'Vardhman Acrylics Limited']
+gathered: 1463.VARDHACRLC
+['VARROC', 'Varroc Engineering Limited']
+gathered: 1464.VARROC
+['VASCONEQ', 'Vascon Engineers Limited']
+gathered: 1465.VASCONEQ
+['VASWANI', 'Vaswani Industries Limited']
+gathered: 1466.VASWANI
+['VBL', 'Varun Beverages Limited']
+gathered: 1467.VBL
+['VEDL', 'Vedanta Limited']
+gathered: 1468.VEDL
+['VENKEYS', "Venky's (India) Limited"]
+gathered: 1469.VENKEYS
+['VENUSREM', 'Venus Remedies Limited']
+gathered: 1470.VENUSREM
+['VERTOZ', 'Vertoz Advertising Limited']
+gathered: 1471.VERTOZ
+['VESUVIUS', 'Vesuvius India Limited']
+gathered: 1472.VESUVIUS
+['VETO', 'Veto Switchgears And Cables Limited']
+gathered: 1473.VETO
+['VGUARD', 'V-Guard Industries Limited']
+gathered: 1474.VGUARD
+['VHL', 'Vardhman Holdings Limited']
+gathered: 1475.VHL
+['VIDHIING', 'Vidhi Specialty Food Ingredients Limited']
+gathered: 1476.VIDHIING
+['VIJAYA', 'Vijaya Diagnostic Centre Limited']
+gathered: 1477.VIJAYA
+['VIKASLIFE', 'Vikas Lifecare Limited']
+gathered: 1478.VIKASLIFE
+['VIKASPROP', 'Vikas Proppant & Granite Limited']
+gathered: 1479.VIKASPROP
+['VIKASWSP', 'Vikas WSP Limited']
+gathered: 1480.VIKASWSP
+['VIMTALABS', 'Vimta Labs Limited']
+gathered: 1481.VIMTALABS
+['VINATIORGA', 'Vinati Organics Limited']
+gathered: 1482.VINATIORGA
+['VINDHYATEL', 'Vindhya Telelinks Limited']
+gathered: 1483.VINDHYATEL
+['VINEETLAB', 'Vineet Laboratories Limited']
+gathered: 1484.VINEETLAB
+['VINYLINDIA', 'Vinyl Chemicals (India) Limited']
+gathered: 1485.VINYLINDIA
+['VIPCLOTHNG', 'VIP Clothing Limited']
+gathered: 1486.VIPCLOTHNG
+['VIPIND', 'VIP Industries Limited']
+gathered: 1487.VIPIND
+['VIPULLTD', 'Vipul Limited']
+gathered: 1488.VIPULLTD
+['VISAKAIND', 'Visaka Industries Limited']
+gathered: 1489.VISAKAIND
+['VISHAL', 'Vishal Fabrics Limited']
+gathered: 1490.VISHAL
+['VISHWARAJ', 'Vishwaraj Sugar Industries Limited']
+gathered: 1491.VISHWARAJ
+['VIVIMEDLAB', 'Vivimed Labs Limited']
+gathered: 1492.VIVIMEDLAB
+['VLSFINANCE', 'VLS Finance Limited']
+gathered: 1493.VLSFINANCE
+['VMART', 'V-Mart Retail Limited']
+gathered: 1494.VMART
+['VOLTAMP', 'Voltamp Transformers Limited']
+gathered: 1495.VOLTAMP
+['VOLTAS', 'Voltas Limited']
+gathered: 1496.VOLTAS
+['VRLLOG', 'VRL Logistics Limited']
+gathered: 1497.VRLLOG
+['VSSL', 'Vardhman Special Steels Limited']
+gathered: 1498.VSSL
+['VSTIND', 'VST Industries Limited']
+gathered: 1499.VSTIND
+['VSTTILLERS', '.V..S..T Tillers Tractors Limited.']
+gathered: 1500.VSTTILLERS
+['VTL', 'Vardhman Textiles Limited']
+gathered: 1501.VTL
+['WABAG', 'VA Tech Wabag Limited']
+gathered: 1502.WABAG
+['WABCOINDIA', 'WABCO India Limited']
+gathered: 1503.WABCOINDIA
+['WALCHANNAG', 'Walchandnagar Industries Limited']
+gathered: 1504.WALCHANNAG
+['WATERBASE', 'Waterbase Limited']
+gathered: 1505.WATERBASE
+['WEBELSOLAR', 'Websol Energy System Limited']
+gathered: 1506.WEBELSOLAR
+['WEIZMANIND', 'Weizmann Limited']
+gathered: 1507.WEIZMANIND
+['WELCORP', 'Welspun Corp Limited']
+gathered: 1508.WELCORP
+['WELENT', 'Welspun Enterprises Limited']
+gathered: 1509.WELENT
+['WELINV', 'Welspun Investments and Commercials Limited']
+gathered: 1510.WELINV
+['WELSPUNIND', 'Welspun India Limited']
+gathered: 1511.WELSPUNIND
+['WENDT', 'Wendt (India) Limited']
+gathered: 1512.WENDT
+['WESTLIFE', 'Westlife Development Ltd']
+gathered: 1513.WESTLIFE
+['WHEELS', 'Wheels India Limited']
+gathered: 1514.WHEELS
+['WHIRLPOOL', 'Whirlpool of India Limited']
+gathered: 1515.WHIRLPOOL
+['WINDLAS', 'Windlas Biotech Limited']
+gathered: 1516.WINDLAS
+['WINDMACHIN', 'Windsor Machines Limited']
+gathered: 1517.WINDMACHIN
+['WINPRO', 'WinPro Industries Limited']
+gathered: 1518.WINPRO
+['WIPRO', 'Wipro Limited']
+gathered: 1519.WIPRO
+['WOCKPHARMA', 'Wockhardt Limited']
+gathered: 1520.WOCKPHARMA
+['WONDERLA', 'Wonderla Holidays Limited']
+gathered: 1521.WONDERLA
+['WORTH', 'Worth Peripherals Limited']
+gathered: 1522.WORTH
+['WSTCSTPAPR', 'West Coast Paper Mills Limited']
+gathered: 1523.WSTCSTPAPR
+['XCHANGING', 'Xchanging Solutions Limited']
+gathered: 1524.XCHANGING
+['XELPMOC', 'Xelpmoc Design And Tech Limited']
+gathered: 1525.XELPMOC
+['YAARI', 'Yaari Digital Integrated Services Limited']
+FAILED TO GATHER 1525YAARI
+['YESBANK', 'Yes Bank Limited']
+gathered: 1526.YESBANK
+['YUKEN', 'Yuken India Limited']
+gathered: 1527.YUKEN
+['ZEEL', 'Zee Entertainment Enterprises Limited']
+gathered: 1528.ZEEL
+['ZEELEARN', 'Zee Learn Limited']
+gathered: 1529.ZEELEARN
+['ZENITHEXPO', 'Zenith Exports Limited']
+gathered: 1530.ZENITHEXPO
+['ZENSARTECH', 'Zensar Technologies Limited']
+gathered: 1531.ZENSARTECH
+['ZENTEC', 'Zen Technologies Limited']
+gathered: 1532.ZENTEC
+['ZODIAC', 'Zodiac Energy Limited']
+gathered: 1533.ZODIAC
+['ZODIACLOTH', 'Zodiac Clothing Company Limited']
+gathered: 1534.ZODIACLOTH
+['ZOMATO', 'Zomato Limited']
+gathered: 1535.ZOMATO
+['ZOTA', 'Zota Health Care LImited']
+gathered: 1536.ZOTA
+['ZUARI', 'Zuari Agro Chemicals Limited']
+gathered: 1537.ZUARI
+['ZUARIGLOB', 'Zuari Global Limited']
+gathered: 1538.ZUARIGLOB
+['ZYDUSWELL', 'Zydus Wellness Limited']
+gathered: 1539.ZYDUSWELL

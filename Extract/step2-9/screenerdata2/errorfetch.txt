@@ -1,0 +1,11 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-01-10 20:17:41.002446-----------------
+----------------------------------------------------------------
+BBOX,Black Box Limited
+DHRUV,Dhruv Consultancy Services Limited
+DOLATALGO,Dolat Algotech Limited
+JTLINFRA,JTL Infra Limited
+LINC,Linc Limited
+SBC,SBC Exports Limited
+YAARI,Yaari Digital Integrated Services Limited
