@@ -1,0 +1,15 @@
+Report Date,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,2016-03-31 00:00:00,2017-03-31 00:00:00,2018-03-31 00:00:00,2019-03-31 00:00:00,2020-03-31 00:00:00,2021-03-31 00:00:00,Company_Name
+Sales,,,,,60.14,62.8,71.42,95.04,80.79,55.28,BIGBLOC
+Raw Material Cost,,,,,17.13,14.05,22.02,43.63,36.77,24.99,BIGBLOC
+Change in Inventory,,,,,-0.69,-0.9,1.26,-0.34,0.39,1.15,BIGBLOC
+Power and Fuel,,,,,3.17,3.53,5.11,5.89,6.35,4.53,BIGBLOC
+Other Mfr. Exp,,,,,8.85,9.76,9.26,9.89,5.64,4.28,BIGBLOC
+Employee Cost,,,,,6.53,7.26,8.35,8.87,8.91,6.0,BIGBLOC
+Selling and admin,,,,,17.53,16.78,15.89,18.62,16.88,11.77,BIGBLOC
+Other Expenses,,,,,-0.19,-0.02,0.09,0.12,0.34,0.01,BIGBLOC
+Other Income,,,,,0.1,0.05,0.25,1.2,0.95,2.33,BIGBLOC
+Depreciation,,,,,2.28,2.44,2.97,3.29,3.58,3.69,BIGBLOC
+Interest,,,,,3.55,3.39,3.26,3.62,2.89,2.9,BIGBLOC
+Profit before tax,,,,,0.7,4.76,5.98,1.97,0.77,0.59,BIGBLOC
+Tax,,,,,0.23,1.83,1.98,0.49,0.06,0.21,BIGBLOC
+Net profit,,,,,0.47,2.93,4.0,1.49,0.71,0.38,BIGBLOC

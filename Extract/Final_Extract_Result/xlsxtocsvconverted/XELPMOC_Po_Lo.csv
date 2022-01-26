@@ -1,0 +1,15 @@
+Report Date,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,2016-03-31 00:00:00,2017-03-31 00:00:00,2018-03-31 00:00:00,2019-03-31 00:00:00,2020-03-31 00:00:00,2021-03-31 00:00:00,Company_Name
+Sales,,,,,0.02,1.88,5.36,6.09,8.11,14.05,XELPMOC
+Raw Material Cost,,,,,,,,,,,XELPMOC
+Change in Inventory,,,,,,,,,,,XELPMOC
+Power and Fuel,,,,,0.01,0.03,0.04,0.1,0.15,0.06,XELPMOC
+Other Mfr. Exp,,,,,0.06,0.1,3.19,2.46,0.22,0.16,XELPMOC
+Employee Cost,,,,,1.35,3.17,3.65,6.16,6.22,5.63,XELPMOC
+Selling and admin,,,,,0.23,1.32,1.53,2.12,3.85,4.32,XELPMOC
+Other Expenses,,,,,0.01,0.05,0.46,0.21,0.39,0.37,XELPMOC
+Other Income,,,,,,0.04,0.06,0.21,1.29,1.14,XELPMOC
+Depreciation,,,,,0.03,0.09,0.07,0.25,0.56,0.5,XELPMOC
+Interest,,,,,,0.01,,,0.08,0.05,XELPMOC
+Profit before tax,,,,,-1.67,-2.85,-3.52,-5.0,-2.07,4.1,XELPMOC
+Tax,,,,,,0.01,0.08,-0.06,0.06,0.05,XELPMOC
+Net profit,,,,,-1.67,-2.85,-3.6,-4.94,-2.13,4.05,XELPMOC

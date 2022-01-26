@@ -1,0 +1,15 @@
+Report Date,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,2016-03-31 00:00:00,2017-03-31 00:00:00,2018-03-31 00:00:00,2019-03-31 00:00:00,2020-03-31 00:00:00,2021-03-31 00:00:00,Company_Name
+Sales,,,,,,,,,,,HEMIPROP
+Raw Material Cost,,,,,,,,,,,HEMIPROP
+Change in Inventory,,,,,,,,,,,HEMIPROP
+Power and Fuel,,,,,,,,,,,HEMIPROP
+Other Mfr. Exp,,,,,,,,,,,HEMIPROP
+Employee Cost,,,,,,,,0.02,0.05,0.11,HEMIPROP
+Selling and admin,,,,,0.01,0.02,0.02,0.02,0.16,8.19,HEMIPROP
+Other Expenses,,,,,,,,0.08,-0.01,0.01,HEMIPROP
+Other Income,,,,,0.06,0.06,0.04,0.02,0.1,0.37,HEMIPROP
+Depreciation,,,,,,,,,0.68,0.82,HEMIPROP
+Interest,,,,,0.05,0.05,0.05,0.05,0.24,1.32,HEMIPROP
+Profit before tax,,,,,,-0.01,-0.03,-0.15,-1.02,-10.08,HEMIPROP
+Tax,,,,,,,,-0.02,-0.26,-2.63,HEMIPROP
+Net profit,,,,,,-0.01,-0.03,-0.13,-0.76,-7.45,HEMIPROP
