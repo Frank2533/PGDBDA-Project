@@ -1,5 +1,5 @@
 SUMMARY OF DBDA  PROJECT STEPS: 						
-(last updated - 11/01/2022)											    
+(last updated - 26/01/2022)											    
 
 																						
 #-steps still not performed or are to be performed
@@ -21,17 +21,17 @@ EXTRACT:
 8. then cut down the other columns from result using -----ls -ltr | cut --complement -d " " -f 1-8 ------
 9. Now cut down the file extension and transfer the result to a txt file ------ls -ltr | cut --complement -d " " -f 1-8 | sed 's/.xlsx//g' > filenames.txt------------
 10. Now created a csv file containing the Symbol names & the file names gathered. ------------Symbolnamemap.csv
-#11. Now created a python program to rename the files accordingly to Symbol names.
-#12. Created a pandas notebook to extract the required data from xlsx files from step 3 and create a csv file of them.
+11. Instead of symbolmap file , the trimmed version of nse provided listed company names files was used.
+12. Created a python program to extract the required data from xlsx files from step 3 and create a csv file of them.
 #Now we have the csv files of both data from step 1 and step 2.
-#13. Look into data and clean the data to attain required data quality.
-*#13. write a python program to put the both csv files of companies in a single directory naming them the symbol of company names.
+13. Look into data and clean the data to attain required data quality.
+14. write a python program to put the both csv files of companies in a single directory naming them the symbol of company names.
 
 LOAD PHASE:
 
-#14. Ingesting the data into the hdfs using spark and meanwhile also converting them to parquet format.
-#15.  Studying the queries used to analysis of data and accordingly figuring the file distribution on hdfs.
+#15. Ingesting the data into the hdfs using spark and meanwhile also converting them to parquet format.
+#16.  Studying the queries used to analysis of data and accordingly figuring the file distribution on hdfs.
 
 TRANSFORM PHASE:
 
-#16. Applying the joins, views on the data and creating a structure ready to be queried.
+#17. Applying the joins, views on the data and creating a structure ready to be queried.
