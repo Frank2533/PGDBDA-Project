@@ -1,0 +1,15 @@
+Report Date,2012-03-31 00:00:00,2013-03-31 00:00:00,2014-03-31 00:00:00,2015-03-31 00:00:00,2016-03-31 00:00:00,2017-03-31 00:00:00,2018-03-31 00:00:00,2019-03-31 00:00:00,2020-03-31 00:00:00,2021-03-31 00:00:00,Company_Name
+Sales,0.21,,,,,,,,,0.1,RTNINDIA
+Raw Material Cost,,,,,,,,,,,RTNINDIA
+Change in Inventory,,,,,,,,,,,RTNINDIA
+Power and Fuel,,,,,,,,,,,RTNINDIA
+Other Mfr. Exp,,,,,,,,,,,RTNINDIA
+Employee Cost,2.24,4.14,1.55,2.47,5.01,4.81,1.39,0.75,0.09,0.99,RTNINDIA
+Selling and admin,1.86,0.5,0.61,1.02,1.25,0.57,0.55,0.5,0.44,0.76,RTNINDIA
+Other Expenses,,,0.02,0.03,0.01,,-0.01,,0.02,0.02,RTNINDIA
+Other Income,0.3,2.47,3.0,4.0,6.8,0.22,0.04,0.49,1.57,1.72,RTNINDIA
+Depreciation,0.01,0.01,0.01,,,,,,,,RTNINDIA
+Interest,0.02,,,,,,,0.04,1.4,0.04,RTNINDIA
+Profit before tax,-3.62,-2.18,0.81,0.48,0.53,-5.16,-1.89,-0.8,-0.38,0.01,RTNINDIA
+Tax,-0.14,-0.02,0.43,-0.11,-0.09,-0.05,,,,,RTNINDIA
+Net profit,-3.47,-2.16,0.38,0.6,0.61,-5.11,-1.9,-0.8,-0.38,0.01,RTNINDIA

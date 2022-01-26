@@ -1,0 +1,1542 @@
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-01-10 20:17:41.002515-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-01-10 20:17:44.150174
+21STCENMGM,21st Century Management Services Limited,2022-01-10 20:17:46.987002
+3IINFOLTD,3i Infotech Limited,2022-01-10 20:17:49.917514
+3MINDIA,3M India Limited,2022-01-10 20:18:11.118889
+3PLAND,3P Land Holdings Limited,2022-01-10 20:18:13.977404
+5PAISA,5Paisa Capital Limited,2022-01-10 20:18:17.014032
+63MOONS,63 moons technologies limited,2022-01-10 20:18:35.238276
+AAKASH,Aakash Exploration Services Limited,2022-01-10 20:18:37.867106
+AAREYDRUGS,Aarey Drugs & Pharmaceuticals Limited,2022-01-10 20:18:41.001315
+AARON,Aaron Industries Limited,2022-01-10 20:18:43.640068
+AARTIDRUGS,Aarti Drugs Limited,2022-01-10 20:19:01.637057
+AARTIIND,Aarti Industries Limited,2022-01-10 20:19:04.428612
+AARTISURF,Aarti Surfactants Limited,2022-01-10 20:19:06.892235
+AARVEEDEN,Aarvee Denims & Exports Limited,2022-01-10 20:19:09.595349
+AARVI,Aarvi Encon Limited,2022-01-10 20:19:27.476246
+AAVAS,Aavas Financiers Limited,2022-01-10 20:19:30.157839
+ABB,ABB India Limited,2022-01-10 20:19:33.033799
+ABBOTINDIA,Abbott India Limited,2022-01-10 20:19:51.035183
+ABCAPITAL,Aditya Birla Capital Limited,2022-01-10 20:19:53.709172
+ABFRL,Aditya Birla Fashion and Retail Limited,2022-01-10 20:19:56.475954
+ABMINTLLTD,ABM International Limited,2022-01-10 20:19:59.291919
+ABSLAMC,Aditya Birla Sun Life AMC Limited,2022-01-10 20:20:16.969921
+ACC,ACC Limited,2022-01-10 20:20:19.778017
+ACCELYA,Accelya Solutions India Limited,2022-01-10 20:20:22.599907
+ACCURACY,Accuracy Shipping Limited,2022-01-10 20:20:40.345762
+ACE,Action Construction Equipment Limited,2022-01-10 20:20:43.172525
+ACRYSIL,Acrysil Limited,2022-01-10 20:20:46.017191
+ADANIENT,Adani Enterprises Limited,2022-01-10 20:21:04.006669
+ADANIGREEN,Adani Green Energy Limited,2022-01-10 20:21:06.685268
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,2022-01-10 20:21:09.533145
+ADANIPOWER,Adani Power Limited,2022-01-10 20:21:27.488910
+ADFFOODS,ADF Foods Limited,2022-01-10 20:21:30.294503
+ADORWELD,Ador Welding Limited,2022-01-10 20:21:33.132821
+ADSL,Allied Digital Services Limited,2022-01-10 20:21:51.084702
+ADVANIHOTR,Advani Hotels & Resorts (India) Limited,2022-01-10 20:21:53.822747
+ADVENZYMES,Advanced Enzyme Technologies Limited,2022-01-10 20:21:56.599362
+AEGISCHEM,Aegis Logistics Limited,2022-01-10 20:22:14.582900
+AFFLE,Affle (India) Limited,2022-01-10 20:22:17.259360
+AGARIND,Agarwal Industrial Corporation Limited,2022-01-10 20:22:20.094894
+AGROPHOS,Agro Phos India Limited,2022-01-10 20:22:38.008687
+AHLADA,Ahlada Engineers Limited,2022-01-10 20:22:40.660157
+AHLEAST,Asian Hotels (East) Limited,2022-01-10 20:22:43.418304
+AHLUCONT,Ahluwalia Contracts (India) Limited,2022-01-10 20:22:46.174045
+AIAENG,AIA Engineering Limited,2022-01-10 20:23:04.145951
+AIRAN,Airan Limited,2022-01-10 20:23:06.891887
+AIROLAM,Airo Lam limited,2022-01-10 20:23:09.633080
+AJANTPHARM,Ajanta Pharma Limited,2022-01-10 20:23:27.618387
+AJMERA,Ajmera Realty & Infra India Limited,2022-01-10 20:23:30.378712
+AJOONI,Ajooni Biotech Limited,2022-01-10 20:23:33.066185
+AJRINFRA,AJR INFRA AND TOLLING LIMITED,2022-01-10 20:23:51.007050
+AKG,Akg Exim Limited,2022-01-10 20:23:53.665158
+AKSHARCHEM,AksharChem India Limited,2022-01-10 20:23:56.482071
+AKSHOPTFBR,Aksh Optifibre Limited,2022-01-10 20:23:59.259075
+AKZOINDIA,Akzo Nobel India Limited,2022-01-10 20:24:17.258298
+ALANKIT,Alankit Limited,2022-01-10 20:24:20.048679
+ALBERTDAVD,Albert David Limited,2022-01-10 20:24:22.906850
+ALEMBICLTD,Alembic Limited,2022-01-10 20:24:40.808070
+ALICON,Alicon Castalloy Limited,2022-01-10 20:24:43.583048
+ALKALI,Alkali Metals Limited,2022-01-10 20:24:46.474182
+ALKEM,Alkem Laboratories Limited,2022-01-10 20:25:04.422903
+ALKYLAMINE,Alkyl Amines Chemicals Limited,2022-01-10 20:25:07.256088
+ALLCARGO,Allcargo Logistics Limited,2022-01-10 20:25:10.041577
+ALLSEC,Allsec Technologies Limited,2022-01-10 20:25:27.996502
+ALMONDZ,Almondz Global Securities Limited,2022-01-10 20:25:30.785923
+ALOKINDS,Alok Industries Limited,2022-01-10 20:25:33.612258
+ALPA,Alpa Laboratories Limited,2022-01-10 20:25:51.591358
+ALPHAGEO,Alphageo (India) Limited,2022-01-10 20:25:54.388973
+AMARAJABAT,Amara Raja Batteries Limited,2022-01-10 20:25:57.245409
+AMBER,Amber Enterprises India Limited,2022-01-10 20:26:15.181876
+AMBICAAGAR,Ambica Agarbathies & Aroma industries Limited,2022-01-10 20:26:17.894919
+AMBIKCO,Ambika Cotton Mills Limited,2022-01-10 20:26:20.734546
+AMBUJACEM,Ambuja Cements Limited,2022-01-10 20:26:23.979420
+AMDIND,AMD Industries Limited,2022-01-10 20:26:41.982573
+AMIORG,Ami Organics Limited,2022-01-10 20:26:44.519622
+AMJLAND,Amj Land Holdings Limited,2022-01-10 20:26:47.290316
+AMRUTANJAN,Amrutanjan Health Care Limited,2022-01-10 20:27:05.289076
+ANANDRATHI,Anand Rathi Wealth Limited,2022-01-10 20:27:07.839683
+ANANTRAJ,Anant Raj Limited,2022-01-10 20:27:10.658379
+ANDHRACEMT,Andhra Cements Limited,2022-01-10 20:27:28.652161
+ANDHRAPAP,ANDHRA PAPER LIMITED,2022-01-10 20:27:31.484553
+ANDHRSUGAR,The Andhra Sugars Limited,2022-01-10 20:27:34.264605
+ANDREWYU,Andrew Yule & Company Limited,2022-01-10 20:27:52.201111
+ANGELONE,Angel One Limited,2022-01-10 20:27:54.840393
+ANIKINDS,Anik Industries Limited,2022-01-10 20:27:57.695738
+ANMOL,Anmol India Limited,2022-01-10 20:28:00.363865
+ANUP,The Anup Engineering Limited,2022-01-10 20:28:18.132802
+ANURAS,Anupam Rasayan India Limited,2022-01-10 20:28:20.773924
+APARINDS,Apar Industries Limited,2022-01-10 20:28:23.591114
+APCL,Anjani Portland Cement Limited,2022-01-10 20:28:41.516953
+APCOTEXIND,Apcotex Industries Limited,2022-01-10 20:28:44.418831
+APEX,Apex Frozen Foods Limited,2022-01-10 20:28:47.212093
+APLAPOLLO,APL Apollo Tubes Limited,2022-01-10 20:29:05.317007
+APLLTD,Alembic Pharmaceuticals Limited,2022-01-10 20:29:08.095358
+APOLLO,Apollo Micro Systems Limited,2022-01-10 20:29:10.926516
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,2022-01-10 20:29:29.057737
+APOLLOPIPE,Apollo Pipes Limited,2022-01-10 20:29:31.766786
+APOLLOTYRE,Apollo Tyres Limited,2022-01-10 20:29:53.088298
+APOLSINHOT,Apollo Sindoori Hotels Limited,2022-01-10 20:29:55.807810
+APTECHT,Aptech Limited,2022-01-10 20:29:58.579388
+APTUS,Aptus Value Housing Finance India Limited,2022-01-10 20:30:16.359300
+ARCHIDPLY,Archidply Industries Limited,2022-01-10 20:30:19.156777
+ARCHIES,Archies Limited,2022-01-10 20:30:21.986558
+ARENTERP,Rajdarshan Industries Limited,2022-01-10 20:30:39.858969
+ARIES,Aries Agro Limited,2022-01-10 20:30:42.748120
+ARIHANTCAP,Arihant Capital Markets Limited,2022-01-10 20:30:45.472332
+ARIHANTSUP,Arihant Superstructures Limited,2022-01-10 20:30:48.270808
+ARMANFIN,Arman Financial Services Limited,2022-01-10 20:31:06.205584
+AROGRANITE,Aro Granite Industries Limited,2022-01-10 20:31:09.047065
+ARROWGREEN,Arrow Greentech Limited,2022-01-10 20:31:11.864009
+ARSHIYA,Arshiya Limited,2022-01-10 20:31:14.607844
+ARSSINFRA,ARSS Infrastructure Projects Limited,2022-01-10 20:31:32.574570
+ARTEMISMED,Artemis Medicare Services Limited,2022-01-10 20:31:35.336970
+ARVEE,Arvee Laboratories (India) Limited,2022-01-10 20:31:37.961754
+ARVIND,Arvind Limited,2022-01-10 20:31:55.930786
+ARVINDFASN,Arvind Fashions Limited,2022-01-10 20:31:58.588525
+ASAHIINDIA,Asahi India Glass Limited,2022-01-10 20:32:01.420619
+ASAHISONG,Asahi Songwon Colors Limited,2022-01-10 20:32:19.418292
+ASALCBR,.Associated Alcohols & Breweries Ltd...,2022-01-10 20:32:22.192602
+ASHAPURMIN,Ashapura Minechem Limited,2022-01-10 20:32:24.952032
+ASHIANA,Ashiana Housing Limited,2022-01-10 20:32:43.118746
+ASHIMASYN,Ashima Limited,2022-01-10 20:32:46.068841
+ASHOKA,Ashoka Buildcon Limited,2022-01-10 20:32:48.917621
+ASHOKLEY,Ashok Leyland Limited,2022-01-10 20:33:06.910122
+ASIANENE,Asian Energy Services Limited,2022-01-10 20:33:09.736458
+ASIANHOTNR,Asian Hotels (North) Limited,2022-01-10 20:33:12.513320
+ASIANPAINT,Asian Paints Limited,2022-01-10 20:33:30.497138
+ASIANTILES,Asian Granito India Limited,2022-01-10 20:33:33.336671
+ASPINWALL,Aspinwall and Company Limited,2022-01-10 20:33:36.072836
+ASTEC,Astec LifeSciences Limited,2022-01-10 20:33:54.053882
+ASTERDM,Aster DM Healthcare Limited,2022-01-10 20:33:56.777891
+ASTRAL,Astral Limited,2022-01-10 20:33:59.637132
+ASTRAMICRO,Astra Microwave Products Limited,2022-01-10 20:34:17.585860
+ASTRAZEN,AstraZeneca Pharma India Limited,2022-01-10 20:34:20.357944
+ASTRON,Astron Paper & Board Mill Limited,2022-01-10 20:34:23.139990
+ATFL,Agro Tech Foods Limited,2022-01-10 20:34:41.155218
+ATULAUTO,Atul Auto Limited,2022-01-10 20:34:44.051345
+ATUL,Atul Limited,2022-01-10 20:34:46.932145
+AUBANK,AU Small Finance Bank Limited,2022-01-10 20:35:04.844748
+AURIONPRO,Aurionpro Solutions Limited,2022-01-10 20:35:07.646895
+AUROPHARMA,Aurobindo Pharma Limited,2022-01-10 20:35:10.538761
+AURUM,Aurum PropTech Limited,2022-01-10 20:35:13.180188
+AUSOMENT,Ausom Enterprise Limited,2022-01-10 20:35:31.231211
+AUTOAXLES,Automotive Axles Limited,2022-01-10 20:35:34.027866
+AUTOIND,Autoline Industries Limited,2022-01-10 20:35:36.813716
+AVADHSUGAR,Avadh Sugar & Energy Limited,2022-01-10 20:35:54.693463
+AVANTIFEED,Avanti Feeds Limited,2022-01-10 20:35:57.533587
+AVTNPL,AVT Natural Products Limited,2022-01-10 20:36:00.366915
+AWHCL,Antony Waste Handling Cell Limited,2022-01-10 20:36:18.126560
+AXISBANK,Axis Bank Limited,2022-01-10 20:36:20.921738
+AXISCADES,AXISCADES Technologies Limited,2022-01-10 20:36:23.716819
+AYMSYNTEX,AYM Syntex Limited,2022-01-10 20:36:26.608071
+BAFNAPH,Bafna Pharmaceuticals Limited,2022-01-10 20:36:44.641665
+BAJAJ-AUTO,Bajaj Auto Limited,2022-01-10 20:36:47.507905
+BAJAJCON,Bajaj Consumer Care Limited,2022-01-10 20:36:50.305751
+BAJAJELEC,Bajaj Electricals Limited,2022-01-10 20:37:08.352042
+BAJAJFINSV,Bajaj Finserv Limited,2022-01-10 20:37:11.160845
+BAJAJHCARE,Bajaj Healthcare Limited,2022-01-10 20:37:14.032327
+BAJAJHIND,Bajaj Hindusthan Sugar Limited,2022-01-10 20:37:31.984307
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,2022-01-10 20:37:34.720177
+BAJFINANCE,Bajaj Finance Limited,2022-01-10 20:37:37.508985
+BALAJITELE,Balaji Telefilms Limited,2022-01-10 20:37:40.260828
+BALAMINES,Balaji Amines Limited,2022-01-10 20:37:58.310075
+BALAXI,BALAXI PHARMACEUTICALS LIMITED,2022-01-10 20:38:01.003635
+BALKRISHNA,Balkrishna Paper Mills Limited,2022-01-10 20:38:03.711969
+BALKRISIND,Balkrishna Industries Limited,2022-01-10 20:38:21.695327
+BALMLAWRIE,Balmer Lawrie & Company Limited,2022-01-10 20:38:24.505812
+BALPHARMA,Bal Pharma Limited,2022-01-10 20:38:27.323840
+BALRAMCHIN,Balrampur Chini Mills Limited,2022-01-10 20:38:45.336208
+BANARBEADS,Banaras Beads Limited,2022-01-10 20:38:48.123440
+BANARISUG,Bannari Amman Sugars Limited,2022-01-10 20:38:50.973472
+BANCOINDIA,Banco Products (I) Limited,2022-01-10 20:39:08.991162
+BANDHANBNK,Bandhan Bank Limited,2022-01-10 20:39:11.611642
+BANG,Bang Overseas Limited,2022-01-10 20:39:14.401093
+BANKA,Banka BioLoo Limited,2022-01-10 20:39:32.232871
+BANKBARODA,Bank of Baroda,2022-01-10 20:39:35.015887
+BANKINDIA,Bank of India,2022-01-10 20:39:37.890817
+BANSWRAS,Banswara Syntex Limited,2022-01-10 20:39:40.677119
+BARBEQUE,Barbeque Nation Hospitality Limited,2022-01-10 20:39:58.515137
+BASF,BASF India Limited,2022-01-10 20:40:01.364052
+BASML,Bannari Amman Spinning Mills Limited,2022-01-10 20:40:04.167022
+BATAINDIA,Bata India Limited,2022-01-10 20:40:22.136084
+BAYERCROP,Bayer Cropscience Limited,2022-01-10 20:40:24.933398
+BBL,Bharat Bijlee Limited,2022-01-10 20:40:27.754924
+BBTC,Bombay Burmah Trading Corporation Limited,2022-01-10 20:40:50.454099
+BCLIND,Bcl Industries Limited,2022-01-10 20:40:53.296613
+BCP,.B..C.. Power Controls Ltd.,2022-01-10 20:40:56.080889
+BDL,Bharat Dynamics Limited,2022-01-10 20:41:13.943362
+BEARDSELL,Beardsell Limited,2022-01-10 20:41:16.716203
+BECTORFOOD,.Mrs.. Bectors Food Specialities Limited.,2022-01-10 20:41:19.260807
+BEDMUTHA,Bedmutha Industries Limited,2022-01-10 20:41:22.060047
+BEL,Bharat Electronics Limited,2022-01-10 20:41:40.039253
+BEML,BEML Limited,2022-01-10 20:41:42.838093
+BEPL,Bhansali Engineering Polymers Limited,2022-01-10 20:41:45.682720
+BERGEPAINT,Berger Paints (I) Limited,2022-01-10 20:41:48.508002
+BESTAGRO,Best Agrolife Limited,2022-01-10 20:42:06.403501
+BFINVEST,BF Investment Limited,2022-01-10 20:42:09.116870
+BFUTILITIE,BF Utilities Limited,2022-01-10 20:42:11.943960
+BGRENERGY,BGR Energy Systems Limited,2022-01-10 20:42:14.748046
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,2022-01-10 20:42:32.708769
+BHAGERIA,Bhageria Industries Limited,2022-01-10 20:42:35.573560
+BHAGYANGR,Bhagyanagar India Limited,2022-01-10 20:42:38.386058
+BHAGYAPROP,Bhagyanagar Properties Limited,2022-01-10 20:42:41.067911
+BHANDARI,Bhandari Hosiery Exports Limited,2022-01-10 20:42:59.021101
+BHARATFORG,Bharat Forge Limited,2022-01-10 20:43:01.829879
+BHARATGEAR,Bharat Gears Limited,2022-01-10 20:43:04.684249
+BHARATRAS,Bharat Rasayan Limited,2022-01-10 20:43:07.454950
+BHARATWIRE,Bharat Wire Ropes Limited,2022-01-10 20:43:25.352153
+BHARTIARTL,Bharti Airtel Limited,2022-01-10 20:43:28.121852
+BHEL,Bharat Heavy Electricals Limited,2022-01-10 20:43:30.950307
+BIGBLOC,Bigbloc Construction Limited,2022-01-10 20:43:33.610401
+BIL,Bhartiya International Limited,2022-01-10 20:43:51.560551
+BINDALAGRO,Oswal Chemicals & Fertilizers Limited,2022-01-10 20:43:54.354365
+BIOCON,Biocon Limited,2022-01-10 20:43:57.172943
+BIOFILCHEM,Biofil Chemicals & Pharmaceuticals Limited,2022-01-10 20:44:15.127379
+BIRLACABLE,Birla Cable Limited,2022-01-10 20:44:17.934978
+BIRLACORPN,Birla Corporation Limited,2022-01-10 20:44:20.736106
+BIRLAMONEY,Aditya Birla Money Limited,2022-01-10 20:44:23.498209
+BIRLATYRE,Birla Tyres Limited,2022-01-10 20:44:41.180612
+BLBLIMITED,BLB Limited,2022-01-10 20:44:43.966941
+BLISSGVS,Bliss GVS Pharma Limited,2022-01-10 20:44:46.863772
+BLKASHYAP,.B.. L.. Kashyap and Sons Limited.,2022-01-10 20:45:04.850776
+BLUEDART,Blue Dart Express Limited,2022-01-10 20:45:07.731434
+BLUESTARCO,Blue Star Limited,2022-01-10 20:45:10.519134
+BODALCHEM,Bodal Chemicals Limited,2022-01-10 20:45:28.455830
+BOMDYEING,Bombay Dyeing & Mfg Company Limited,2022-01-10 20:45:31.280572
+BOROLTD,Borosil Limited,2022-01-10 20:45:33.935239
+BORORENEW,BOROSIL RENEWABLES LIMITED,2022-01-10 20:45:51.897729
+BOSCHLTD,Bosch Limited,2022-01-10 20:45:54.661077
+BPCL,Bharat Petroleum Corporation Limited,2022-01-10 20:45:57.519473
+BRIGADE,Brigade Enterprises Limited,2022-01-10 20:46:00.356326
+BRITANNIA,Britannia Industries Limited,2022-01-10 20:46:18.360758
+BRNL,Bharat Road Network Limited,2022-01-10 20:46:21.086198
+BROOKS,Brooks Laboratories Limited,2022-01-10 20:46:23.858785
+BSE,BSE Limited,2022-01-10 20:46:41.803016
+BSHSL,Bombay Super Hybrid Seeds Limited,2022-01-10 20:46:44.474365
+BSL,BSL Limited,2022-01-10 20:46:47.325467
+BSOFT,BIRLASOFT LIMITED,2022-01-10 20:47:05.292605
+BURGERKING,Burger King India Limited,2022-01-10 20:47:07.903803
+BURNPUR,Burnpur Cement Limited,2022-01-10 20:47:10.782589
+BYKE,The Byke Hospitality Ltd,2022-01-10 20:47:28.728874
+CADILAHC,Cadila Healthcare Limited,2022-01-10 20:47:31.574598
+CAMLINFINE,Camlin Fine Sciences Limited,2022-01-10 20:47:34.429244
+CAMS,Computer Age Management Services Limited,2022-01-10 20:47:37.035853
+CANBK,Canara Bank,2022-01-10 20:47:55.130367
+CANFINHOME,Can Fin Homes Limited,2022-01-10 20:47:58.093341
+CAPACITE,Capacit'e Infraprojects Limited,2022-01-10 20:48:00.776366
+CAPLIPOINT,Caplin Point Laboratories Limited,2022-01-10 20:48:18.748220
+CAPTRUST,Capital Trust Limited,2022-01-10 20:48:21.571504
+CARBORUNIV,Carborundum Universal Limited,2022-01-10 20:48:24.483419
+CAREERP,Career Point Limited,2022-01-10 20:48:27.285946
+CARERATING,CARE Ratings Limited,2022-01-10 20:48:45.223220
+CARTRADE,Cartrade Tech Limited,2022-01-10 20:48:47.821332
+CASTROLIND,Castrol India Limited,2022-01-10 20:48:50.567110
+CCHHL,Country Club Hospitality & Holidays Limited,2022-01-10 20:48:53.343012
+CCL,CCL Products (India) Limited,2022-01-10 20:49:11.328667
+CDSL,Central Depository Services (India) Limited,2022-01-10 20:49:14.096271
+CEATLTD,CEAT Limited,2022-01-10 20:49:16.956414
+CEBBCO,Commercial Engineers & Body Builders Co Limited,2022-01-10 20:49:34.919429
+CELEBRITY,Celebrity Fashions Limited,2022-01-10 20:49:37.689727
+CENTENKA,Century Enka Limited,2022-01-10 20:49:40.544632
+CENTEXT,Century Extrusions Limited,2022-01-10 20:49:58.520040
+CENTRALBK,Central Bank of India,2022-01-10 20:50:01.224846
+CENTRUM,Centrum Capital Limited,2022-01-10 20:50:04.016614
+CENTUM,Centum Electronics Limited,2022-01-10 20:50:21.998540
+CENTURYPLY,Century Plyboards (India) Limited,2022-01-10 20:50:24.797856
+CENTURYTEX,Century Textiles & Industries Limited,2022-01-10 20:50:27.671486
+CERA,Cera Sanitaryware Limited,2022-01-10 20:50:45.646875
+CEREBRAINT,Cerebra Integrated Technologies Limited,2022-01-10 20:50:48.413602
+CESC,CESC Limited,2022-01-10 20:50:51.280353
+CGCL,Capri Global Capital Limited,2022-01-10 20:51:09.270436
+CHALET,Chalet Hotels Limited,2022-01-10 20:51:11.881407
+CHAMBLFERT,Chambal Fertilizers & Chemicals Limited,2022-01-10 20:51:14.781273
+CHEMBOND,Chembond Chemicals Ltd,2022-01-10 20:51:32.756790
+CHEMCON,Chemcon Speciality Chemicals Limited,2022-01-10 20:51:35.469594
+CHEMFAB,Chemfab Alkalis Limited,2022-01-10 20:51:38.249685
+CHEMPLASTS,Chemplast Sanmar Limited,2022-01-10 20:51:56.114902
+CHENNPETRO,Chennai Petroleum Corporation Limited,2022-01-10 20:51:59.050468
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,2022-01-10 20:52:01.823485
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,2022-01-10 20:52:04.542596
+CIGNITITEC,Cigniti Technologies Limited,2022-01-10 20:52:22.524238
+CINELINE,Cineline India Limited,2022-01-10 20:52:25.240019
+CIPLA,Cipla Limited,2022-01-10 20:52:28.141520
+CLEAN,Clean Science and Technology Limited,2022-01-10 20:52:45.919747
+CLNINDIA,Clariant Chemicals (India) Limited,2022-01-10 20:52:48.766433
+CLSEL,Chaman Lal Setia Exports Limited,2022-01-10 20:52:51.536462
+CMICABLES,CMI Limited,2022-01-10 20:52:54.269845
+COALINDIA,Coal India Limited,2022-01-10 20:53:12.254509
+COASTCORP,Coastal Corporation Limited,2022-01-10 20:53:15.014725
+COCHINSHIP,Cochin Shipyard Limited,2022-01-10 20:53:17.823994
+COFFEEDAY,Coffee Day Enterprises Limited,2022-01-10 20:53:35.708172
+COFORGE,Coforge Limited,2022-01-10 20:53:38.534783
+COLPAL,Colgate Palmolive (India) Limited,2022-01-10 20:53:41.423128
+COMPINFO,Compuage Infocom Limited,2022-01-10 20:53:44.198328
+COMPUSOFT,Compucom Software Limited,2022-01-10 20:54:02.194751
+CONCOR,Container Corporation of India Limited,2022-01-10 20:54:05.023359
+CONFIPET,Confidence Petroleum India Limited,2022-01-10 20:54:07.794004
+CONSOFINVT,Consolidated Finvest & Holdings Limited,2022-01-10 20:54:25.708827
+CONTROLPR,Control Print Limited,2022-01-10 20:54:28.452173
+CORALFINAC,Coral India Finance & Housing Limited,2022-01-10 20:54:31.270930
+CORDSCABLE,Cords Cable Industries Limited,2022-01-10 20:54:49.314307
+COROMANDEL,Coromandel International Limited,2022-01-10 20:54:52.128826
+COSMOFILMS,Cosmo Films Limited,2022-01-10 20:54:54.945353
+COUNCODOS,Country Condo's Limited,2022-01-10 20:55:12.904653
+CRAFTSMAN,Craftsman Automation Limited,2022-01-10 20:55:15.548688
+CREDITACC,CREDITACCESS GRAMEEN LIMITED,2022-01-10 20:55:18.269838
+CRISIL,CRISIL Limited,2022-01-10 20:55:36.343295
+CROMPTON,Crompton Greaves Consumer Electricals Limited,2022-01-10 20:55:39.081167
+CSBBANK,CSB Bank Limited,2022-01-10 20:55:41.839171
+CTE,Cambridge Technology Enterprises Limited,2022-01-10 20:55:59.730724
+CUB,City Union Bank Limited,2022-01-10 20:56:02.512647
+CUBEXTUB,Cubex Tubings Limited,2022-01-10 20:56:05.304233
+CUMMINSIND,Cummins India Limited,2022-01-10 20:56:23.346719
+CUPID,Cupid Limited,2022-01-10 20:56:26.107965
+CYBERMEDIA,Cyber Media (India) Limited,2022-01-10 20:56:28.850015
+CYBERTECH,Cybertech Systems And Software Limited,2022-01-10 20:56:46.834105
+CYIENT,Cyient Limited,2022-01-10 20:56:49.590350
+DAAWAT,LT Foods Limited,2022-01-10 20:56:52.371786
+DABUR,Dabur India Limited,2022-01-10 20:57:10.375426
+DALBHARAT,Dalmia Bharat Limited,2022-01-10 20:57:13.053324
+DALMIASUG,Dalmia Bharat Sugar and Industries Limited,2022-01-10 20:57:15.855396
+DAMODARIND,Damodar Industries Limited,2022-01-10 20:57:33.853712
+DANGEE,Dangee Dums Limited,2022-01-10 20:57:36.392702
+DATAMATICS,Datamatics Global Services Limited,2022-01-10 20:57:39.240854
+DATAPATTNS,Data Patterns (India) Limited,2022-01-10 20:57:56.878750
+DBCORP,.D..B..Corp Limited.,2022-01-10 20:57:59.682260
+DBL,Dilip Buildcon Limited,2022-01-10 20:58:02.420105
+DBSTOCKBRO,DB (International) Stock Brokers Limited,2022-01-10 20:58:20.358648
+DCAL,Dishman Carbogen Amcis Limited,2022-01-10 20:58:23.074739
+DCBBANK,DCB Bank Limited,2022-01-10 20:58:25.856544
+DCMNVL,DCM Nouvelle Limited,2022-01-10 20:58:43.631689
+DCMSHRIRAM,DCM Shriram Limited,2022-01-10 20:58:46.557545
+DCMSRIND,DCM Shriram Industries Limited,2022-01-10 20:58:49.404238
+DECCANCE,Deccan Cements Limited,2022-01-10 20:58:52.248776
+DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,2022-01-10 20:59:10.264003
+DEEPAKNTR,Deepak Nitrite Limited,2022-01-10 20:59:13.252788
+DEEPENR,DEEP ENERGY RESOURCES LIMITED,2022-01-10 20:59:15.975857
+DEEPINDS,Deep Industries Limited,2022-01-10 20:59:33.761554
+DELPHIFX,DELPHI WORLD MONEY LIMITED,2022-01-10 20:59:36.484572
+DELTACORP,Delta Corp Limited,2022-01-10 20:59:39.317292
+DELTAMAGNT,Delta Manufacturing Limited,2022-01-10 20:59:57.246537
+DEN,Den Networks Limited,2022-01-10 21:00:00.031267
+DEVYANI,Devyani International Limited,2022-01-10 21:00:02.573663
+DHAMPURSUG,Dhampur Sugar Mills Limited,2022-01-10 21:00:26.105852
+DHANBANK,Dhanlaxmi Bank Limited,2022-01-10 21:00:28.802888
+DHANI,Dhani Services Limited,2022-01-10 21:00:46.714507
+DHANUKA,Dhanuka Agritech Limited,2022-01-10 21:00:49.580650
+DHARAMSI,The Dharamsi Morarji Chemical Company Limited,2022-01-10 21:00:52.434933
+DHARSUGAR,Dharani Sugars & Chemicals Limited,2022-01-10 21:00:55.207635
+DHUNINV,Dhunseri Investments Limited,2022-01-10 21:01:17.892736
+DIAMONDYD,Prataap Snacks Limited,2022-01-10 21:01:20.708959
+DICIND,DIC India Limited,2022-01-10 21:01:23.516690
+DIGISPICE,DiGiSPICE Technologies Limited,2022-01-10 21:01:41.558730
+DIGJAMLMTD,Digjam Limited,2022-01-10 21:01:44.143053
+DIVISLAB,Divi's Laboratories Limited,2022-01-10 21:01:47.028294
+DIXON,Dixon Technologies (India) Limited,2022-01-10 21:01:49.855113
+DLF,DLF Limited,2022-01-10 21:02:07.875987
+DLINKINDIA,D-Link (India) Limited,2022-01-10 21:02:10.721046
+DMART,Avenue Supermarts Limited,2022-01-10 21:02:13.586262
+DODLA,Dodla Dairy Limited,2022-01-10 21:02:16.220093
+DOLLAR,Dollar Industries Limited,2022-01-10 21:02:38.778508
+DPABHUSHAN,.D.. P.. Abhushan Limited.,2022-01-10 21:02:41.426804
+DPSCLTD,DPSC Limited,2022-01-10 21:02:44.293170
+DPWIRES,D P Wires Limited,2022-01-10 21:03:02.282057
+DREDGECORP,Dredging Corporation of India Limited,2022-01-10 21:03:05.258128
+DRREDDY,.Dr.. Reddy's Laboratories Limited.,2022-01-10 21:03:08.226930
+DSSL,Dynacons Systems & Solutions Limited,2022-01-10 21:03:10.996470
+DTIL,Dhunseri Tea & Industries Limited,2022-01-10 21:03:28.927430
+DVL,Dhunseri Ventures Limited,2022-01-10 21:03:31.731768
+DWARKESH,Dwarikesh Sugar Industries Limited,2022-01-10 21:03:34.610845
+DYNPRO,Dynemic Products Limited,2022-01-10 21:03:37.431486
+EASTSILK,Eastern Silk Industries Limited,2022-01-10 21:03:55.401305
+ECLERX,eClerx Services Limited,2022-01-10 21:03:58.140828
+EDELWEISS,Edelweiss Financial Services Limited,2022-01-10 21:04:00.991824
+EICHERMOT,Eicher Motors Limited,2022-01-10 21:04:03.804597
+EIDPARRY,EID Parry India Limited,2022-01-10 21:04:21.811703
+EIFFL,Euro India Fresh Foods Limited,2022-01-10 21:04:24.459258
+EIHAHOTELS,EIH Associated Hotels Limited,2022-01-10 21:04:27.236356
+EIHOTEL,EIH Limited,2022-01-10 21:04:45.241533
+EIMCOELECO,Eimco Elecon (India) Limited,2022-01-10 21:04:48.126680
+EKC,Everest Kanto Cylinder Limited,2022-01-10 21:04:50.942347
+ELECON,Elecon Engineering Company Limited,2022-01-10 21:05:09.025747
+ELECTCAST,Electrosteel Castings Limited,2022-01-10 21:05:11.849241
+ELECTHERM,Electrotherm (India) Limited,2022-01-10 21:05:33.116411
+ELGIEQUIP,Elgi Equipments Limited,2022-01-10 21:05:35.942046
+ELGIRUBCO,Elgi Rubber Company Limited,2022-01-10 21:05:38.686516
+EMAMILTD,Emami Limited,2022-01-10 21:05:56.717565
+EMAMIPAP,Emami Paper Mills Limited,2022-01-10 21:05:59.530968
+EMAMIREAL,Emami Realty Limited,2022-01-10 21:06:02.291673
+EMKAY,Emkay Global Financial Services Limited,2022-01-10 21:06:20.292130
+EMMBI,Emmbi Industries Limited,2022-01-10 21:06:23.085970
+ENDURANCE,Endurance Technologies Limited,2022-01-10 21:06:25.819491
+ENERGYDEV,Energy Development Company Limited,2022-01-10 21:06:28.640816
+ENGINERSIN,Engineers India Limited,2022-01-10 21:06:46.659187
+ENIL,Entertainment Network (India) Limited,2022-01-10 21:06:49.456202
+EPL,EPL Limited,2022-01-10 21:06:52.286112
+EQUIPPP,Equippp Social Impact Technologies Limited,2022-01-10 21:07:10.197243
+EQUITASBNK,Equitas Small Finance Bank Limited,2022-01-10 21:07:12.887455
+EQUITAS,Equitas Holdings Limited,2022-01-10 21:07:15.624935
+ERIS,Eris Lifesciences Limited,2022-01-10 21:07:33.528590
+EROSMEDIA,Eros International Media Limited,2022-01-10 21:07:36.285653
+ESABINDIA,Esab India Limited,2022-01-10 21:07:39.145651
+ESCORTS,Escorts Limited,2022-01-10 21:07:57.134188
+ESSARSHPNG,Essar Shipping Limited,2022-01-10 21:07:59.875975
+ESTER,Ester Industries Limited,2022-01-10 21:08:02.864638
+EVEREADY,Eveready Industries India Limited,2022-01-10 21:08:05.661939
+EVERESTIND,Everest Industries Limited,2022-01-10 21:08:23.703961
+EXCELINDUS,Excel Industries Limited,2022-01-10 21:08:26.488814
+EXIDEIND,Exide Industries Limited,2022-01-10 21:08:29.393347
+EXPLEOSOL,Expleo Solutions Limited,2022-01-10 21:08:32.152748
+EXXARO,Exxaro Tiles Limited,2022-01-10 21:08:49.932358
+FACT,Fertilizers and Chemicals Travancore Limited,2022-01-10 21:08:52.734581
+FAIRCHEMOR,Fairchem Organics Limited,2022-01-10 21:08:55.278973
+FCL,Fineotex Chemical Limited,2022-01-10 21:08:58.088399
+FCONSUMER,Future Consumer Limited,2022-01-10 21:09:16.066685
+FDC,FDC Limited,2022-01-10 21:09:18.956966
+FEDERALBNK,The Federal Bank  Limited,2022-01-10 21:09:21.930425
+FEL,Future Enterprises Limited,2022-01-10 21:09:24.762011
+FELDVR,Future Enterprises Limited,2022-01-10 21:09:42.471678
+FIEMIND,Fiem Industries Limited,2022-01-10 21:09:45.306480
+FILATEX,Filatex India Limited,2022-01-10 21:09:48.147522
+FINCABLES,Finolex Cables Limited,2022-01-10 21:09:50.937273
+FINEORG,Fine Organic Industries Limited,2022-01-10 21:10:08.711773
+FINOPB,Fino Payments Bank Limited,2022-01-10 21:10:11.259231
+FINPIPE,Finolex Industries Limited,2022-01-10 21:10:14.137524
+FLEXITUFF,Flexituff Ventures International Limited,2022-01-10 21:10:16.913431
+FLFL,Future Lifestyle Fashions Limited,2022-01-10 21:10:34.819826
+FLUOROCHEM,Gujarat Fluorochemicals Limited,2022-01-10 21:10:37.359804
+FMGOETZE,.Federal-Mogul Goetze (India) Limited...,2022-01-10 21:10:40.225132
+FMNL,Future Market Networks Limited,2022-01-10 21:10:43.044095
+FOCUS,Focus Lighting and Fixtures Limited,2022-01-10 21:11:00.871125
+FOODSIN,Foods & Inns Limited,2022-01-10 21:11:03.620262
+FORCEMOT,FORCE MOTORS LTD,2022-01-10 21:11:06.439380
+FORTIS,Fortis Healthcare Limited,2022-01-10 21:11:09.220414
+FOSECOIND,Foseco India Limited,2022-01-10 21:11:27.186344
+FRETAIL,Future Retail Limited,2022-01-10 21:11:29.966033
+FSC,Future Supply Chain Solutions Limited,2022-01-10 21:11:32.650437
+FSL,Firstsource Solutions Limited,2022-01-10 21:11:50.669985
+GABRIEL,Gabriel India Limited,2022-01-10 21:11:53.484483
+GAEL,Gujarat Ambuja Exports Limited,2022-01-10 21:11:56.420542
+GAIL,GAIL (India) Limited,2022-01-10 21:11:59.237206
+GALAXYSURF,Galaxy Surfactants Limited,2022-01-10 21:12:17.245107
+GAL,Gyscoal Alloys Limited,2022-01-10 21:12:20.093971
+GALLANTT,Gallantt Metal Limited,2022-01-10 21:12:22.857025
+GALLISPAT,Gallantt Ispat Limited,2022-01-10 21:12:25.640823
+GANDHITUBE,Gandhi Special Tubes Limited,2022-01-10 21:12:43.759600
+GANECOS,Ganesha Ecosphere Limited,2022-01-10 21:12:46.561108
+GANESHBE,Ganesh Benzoplast Limited,2022-01-10 21:12:49.405440
+GANESHHOUC,Ganesh Housing Corporation Limited,2022-01-10 21:13:07.446795
+GANGAFORGE,Ganga Forging Limited,2022-01-10 21:13:10.045384
+GANGESSECU,Ganges Securities Limited,2022-01-10 21:13:12.640403
+GARFIBRES,Garware Technical Fibres Limited,2022-01-10 21:13:30.673933
+GATI,GATI Limited,2022-01-10 21:13:33.465986
+GAYAPROJ,Gayatri Projects Limited,2022-01-10 21:13:36.366386
+GDL,Gateway Distriparks Limited,2022-01-10 21:13:54.378525
+GEECEE,GeeCee Ventures Limited,2022-01-10 21:13:57.142883
+GEEKAYWIRE,Geekay Wires Limited,2022-01-10 21:13:59.922656
+GENCON,Generic Engineering Construction and Projects Limited,2022-01-10 21:14:02.617003
+GENESYS,Genesys International Corporation Limited,2022-01-10 21:14:20.587657
+GENUSPAPER,Genus Paper & Boards Limited,2022-01-10 21:14:23.312006
+GENUSPOWER,Genus Power Infrastructures Limited,2022-01-10 21:14:26.161908
+GEOJITFSL,Geojit Financial Services Limited,2022-01-10 21:14:44.136279
+GEPIL,GE Power India Limited,2022-01-10 21:14:46.964481
+GESHIP,The Great Eastern Shipping Company Limited,2022-01-10 21:14:49.753089
+GET&D,GE T&D India Limited,2022-01-10 21:14:52.585883
+GFLLIMITED,GFL Limited,2022-01-10 21:15:10.539609
+GHCL,GHCL Limited,2022-01-10 21:15:13.369252
+GICHSGFIN,GIC Housing Finance Limited,2022-01-10 21:15:16.201809
+GICRE,General Insurance Corporation of India,2022-01-10 21:15:34.080307
+GILLANDERS,Gillanders Arbuthnot & Company Limited,2022-01-10 21:15:36.857076
+GILLETTE,Gillette India Limited,2022-01-10 21:15:39.763759
+GINNIFILA,Ginni Filaments Limited,2022-01-10 21:15:42.533193
+GIPCL,Gujarat Industries Power Company Limited,2022-01-10 21:16:00.563651
+GKWLIMITED,GKW Limited,2022-01-10 21:16:03.343960
+GLAND,Gland Pharma Limited,2022-01-10 21:16:05.997155
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,2022-01-10 21:16:24.005529
+GLENMARK,Glenmark Pharmaceuticals Limited,2022-01-10 21:16:26.794701
+GLOBAL,Global Education Limited,2022-01-10 21:16:47.673883
+GLOBALVECT,Global Vectra Helicorp Limited,2022-01-10 21:16:50.469784
+GLOBE,Globe Textiles (India) Limited,2022-01-10 21:16:53.246037
+GLOBUSSPR,Globus Spirits Limited,2022-01-10 21:17:11.230356
+GLS,Glenmark Life Sciences Limited,2022-01-10 21:17:13.796847
+GMBREW,GM Breweries Limited,2022-01-10 21:17:16.663130
+GMDCLTD,Gujarat Mineral Development Corporation Limited,2022-01-10 21:17:34.704246
+GMMPFAUDLR,GMM Pfaudler Limited,2022-01-10 21:17:37.515505
+GMRINFRA,GMR Infrastructure Limited,2022-01-10 21:17:40.411962
+GNA,GNA Axles Limited,2022-01-10 21:17:58.335172
+GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,2022-01-10 21:18:01.162854
+GOACARBON,Goa Carbon Limited,2022-01-10 21:18:04.024922
+GOCLCORP,GOCL Corporation Limited,2022-01-10 21:18:22.054968
+GOCOLORS,Go Fashion (India) Limited,2022-01-10 21:18:24.621448
+GODFRYPHLP,Godfrey Phillips India Limited,2022-01-10 21:18:27.429192
+GODREJAGRO,Godrej Agrovet Limited,2022-01-10 21:18:45.412009
+GODREJCP,Godrej Consumer Products Limited,2022-01-10 21:18:48.210881
+GODREJIND,Godrej Industries Limited,2022-01-10 21:18:51.045833
+GODREJPROP,Godrej Properties Limited,2022-01-10 21:19:09.061409
+GOKEX,Gokaldas Exports Limited,2022-01-10 21:19:11.886814
+GOKULAGRO,Gokul Agro Resources Limited,2022-01-10 21:19:14.601455
+GOKUL,Gokul Refoils and Solvent Limited,2022-01-10 21:19:32.578942
+GOLDIAM,Goldiam International Limited,2022-01-10 21:19:35.390618
+GOODLUCK,Goodluck India Limited,2022-01-10 21:19:38.250469
+GOODYEAR,Goodyear India Limited,2022-01-10 21:19:56.202153
+GPIL,Godawari Power And Ispat limited,2022-01-10 21:19:59.005470
+GPPL,Gujarat Pipavav Port Limited,2022-01-10 21:20:01.907967
+GPTINFRA,GPT Infraprojects Limited,2022-01-10 21:20:04.767721
+GRANULES,Granules India Limited,2022-01-10 21:20:22.789963
+GRAPHITE,Graphite India Limited,2022-01-10 21:20:25.574314
+GRASIM,Grasim Industries Limited,2022-01-10 21:20:28.473243
+GRAUWEIL,Grauer & Weil (India) Limited,2022-01-10 21:20:46.435894
+GRAVITA,Gravita India Limited,2022-01-10 21:20:49.267503
+GREAVESCOT,Greaves Cotton Limited,2022-01-10 21:20:52.191750
+GREENLAM,Greenlam Industries Limited,2022-01-10 21:21:10.128869
+GREENPANEL,Greenpanel Industries Limited,2022-01-10 21:21:12.792618
+GREENPLY,Greenply Industries Limited,2022-01-10 21:21:15.607049
+GRINDWELL,Grindwell Norton Limited,2022-01-10 21:21:33.645889
+GRINFRA,G R Infraprojects Limited,2022-01-10 21:21:36.279328
+GROBTEA,The Grob Tea Company Limited,2022-01-10 21:21:38.983783
+GRPLTD,GRP Limited,2022-01-10 21:21:56.987648
+GRSE,Garden Reach Shipbuilders & Engineers Limited,2022-01-10 21:21:59.684515
+GSCLCEMENT,Gujarat Sidhee Cement Limited,2022-01-10 21:22:02.550906
+GSFC,Gujarat State Fertilizers & Chemicals Limited,2022-01-10 21:22:20.587320
+GSPL,Gujarat State Petronet Limited,2022-01-10 21:22:23.342889
+GTL,GTL Limited,2022-01-10 21:22:26.116221
+GTNTEX,GTN Textiles Limited,2022-01-10 21:22:44.097032
+GTPL,GTPL Hathway Limited,2022-01-10 21:22:46.831749
+GUFICBIO,Gufic Biosciences Limited,2022-01-10 21:22:49.686533
+GUJALKALI,Gujarat Alkalies and Chemicals Limited,2022-01-10 21:23:07.693889
+GUJAPOLLO,Gujarat Apollo Industries Limited,2022-01-10 21:23:10.495039
+GUJGASLTD,Gujarat Gas Limited,2022-01-10 21:23:13.332779
+GULFOILLUB,Gulf Oil Lubricants India Limited,2022-01-10 21:23:31.273541
+GULFPETRO,GP Petroleums Limited,2022-01-10 21:23:34.070858
+GULPOLY,Gulshan Polyols Limited,2022-01-10 21:23:36.975801
+HAL,Hindustan Aeronautics Limited,2022-01-10 21:23:54.880404
+HAPPSTMNDS,Happiest Minds Technologies Limited,2022-01-10 21:23:57.645769
+HARRMALAYA,Harrisons  Malayalam Limited,2022-01-10 21:24:00.502419
+HATHWAY,Hathway Cable & Datacom Limited,2022-01-10 21:24:03.270882
+HATSUN,Hatsun Agro Product Limited,2022-01-10 21:24:21.278118
+HAVELLS,Havells India Limited,2022-01-10 21:24:24.098268
+HBLPOWER,HBL Power Systems Limited,2022-01-10 21:24:26.962721
+HBSL,HB Stockholdings Limited,2022-01-10 21:24:44.922273
+HCC,Hindustan Construction Company Limited,2022-01-10 21:24:47.714155
+HCG,Healthcare Global Enterprises Limited,2022-01-10 21:24:50.528180
+HCL-INSYS,HCL Infosystems Limited,2022-01-10 21:24:53.303701
+HCLTECH,HCL Technologies Limited,2022-01-10 21:25:11.315800
+HDFCAMC,HDFC Asset Management Company Limited,2022-01-10 21:25:13.927061
+HDFCBANK,HDFC Bank Limited,2022-01-10 21:25:16.792968
+HDFC,Housing Development Finance Corporation Limited,2022-01-10 21:25:19.586168
+HDFCLIFE,HDFC Life Insurance Company Limited,2022-01-10 21:25:37.500787
+HECPROJECT,HEC Infra Projects Limited,2022-01-10 21:25:40.184041
+HEG,HEG Limited,2022-01-10 21:25:43.010724
+HEIDELBERG,HeidelbergCement India Limited,2022-01-10 21:25:45.846607
+HEMIPROP,Hemisphere Properties India Limited,2022-01-10 21:26:03.640159
+HERANBA,Heranba Industries Limited,2022-01-10 21:26:06.235464
+HERCULES,Hercules Hoists Limited,2022-01-10 21:26:09.125593
+HERITGFOOD,Heritage Foods Limited,2022-01-10 21:26:11.923101
+HEROMOTOCO,Hero MotoCorp Limited,2022-01-10 21:26:29.985127
+HESTERBIO,Hester Biosciences Limited,2022-01-10 21:26:32.771268
+HEXATRADEX,Hexa Tradex Limited,2022-01-10 21:26:35.501738
+HFCL,HFCL Limited,2022-01-10 21:26:53.508912
+HGINFRA,.H..G.. Infra Engineering Limited.,2022-01-10 21:26:56.215581
+HGS,Hinduja Global Solutions Limited,2022-01-10 21:26:59.075214
+HIKAL,Hikal Limited,2022-01-10 21:27:17.088043
+HIL,HIL Limited,2022-01-10 21:27:19.909253
+HIMATSEIDE,Himatsingka Seide Limited,2022-01-10 21:27:41.424821
+HINDALCO,Hindalco Industries Limited,2022-01-10 21:27:44.224931
+HINDCOMPOS,Hindustan Composites Limited,2022-01-10 21:27:47.086425
+HINDCON,Hindcon Chemicals Limited,2022-01-10 21:28:04.950469
+HINDCOPPER,Hindustan Copper Limited,2022-01-10 21:28:08.071489
+HINDNATGLS,Hindusthan National Glass & Industries Limited,2022-01-10 21:28:10.978573
+HINDOILEXP,Hindustan Oil Exploration Company Limited,2022-01-10 21:28:28.926760
+HINDPETRO,Hindustan Petroleum Corporation Limited,2022-01-10 21:28:31.742076
+HINDUNILVR,Hindustan Unilever Limited,2022-01-10 21:28:34.636895
+HINDZINC,Hindustan Zinc Limited,2022-01-10 21:28:37.417894
+HIRECT,Hind Rectifiers Limited,2022-01-10 21:28:55.434501
+HISARMETAL,Hisar Metal Industries Limited,2022-01-10 21:28:58.308826
+HITECHCORP,Hitech Corporation Limited,2022-01-10 21:29:01.184898
+HITECH,Hi-Tech Pipes Limited,2022-01-10 21:29:19.135494
+HITECHGEAR,The Hi-Tech Gears Limited,2022-01-10 21:29:21.928428
+HLEGLAS,HLE Glascoat Limited,2022-01-10 21:29:24.801843
+HMVL,Hindustan Media Ventures Limited,2022-01-10 21:29:27.581465
+HNDFDS,Hindustan Foods Limited,2022-01-10 21:29:45.552121
+HOMEFIRST,Home First Finance Company India Limited,2022-01-10 21:29:48.242146
+HONAUT,Honeywell Automation India Limited,2022-01-10 21:29:51.117403
+HONDAPOWER,Honda India Power Products Limited,2022-01-10 21:30:09.090028
+HOVS,HOV Services Limited,2022-01-10 21:30:11.875748
+HPL,HPL Electric & Power Limited,2022-01-10 21:30:14.643075
+HSCL,Himadri Speciality Chemical Limited,2022-01-10 21:30:32.683907
+HSIL,HSIL Limited,2022-01-10 21:30:35.488747
+HTMEDIA,HT Media Limited,2022-01-10 21:30:38.348087
+HUBTOWN,Hubtown Limited,2022-01-10 21:30:56.323706
+HUDCO,Housing & Urban Development Corporation Limited,2022-01-10 21:30:59.092910
+HUHTAMAKI,Huhtamaki India Limited,2022-01-10 21:31:01.960065
+IBREALEST,Indiabulls Real Estate Limited,2022-01-10 21:31:19.948622
+IBULHSGFIN,Indiabulls Housing Finance Limited,2022-01-10 21:31:22.734738
+ICEMAKE,Ice Make Refrigeration Limited,2022-01-10 21:31:25.454667
+ICICIBANK,ICICI Bank Limited,2022-01-10 21:31:28.199676
+ICICIGI,ICICI Lombard General Insurance Company Limited,2022-01-10 21:31:46.120100
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,2022-01-10 21:31:48.880665
+ICIL,Indo Count Industries Limited,2022-01-10 21:31:51.810683
+ICRA,ICRA Limited,2022-01-10 21:32:09.840966
+IDBI,IDBI Bank Limited,2022-01-10 21:32:12.598616
+IDEA,Vodafone Idea Limited,2022-01-10 21:32:15.457368
+IDFC,IDFC Limited,2022-01-10 21:32:18.251229
+IDFCFIRSTB,IDFC First Bank Limited,2022-01-10 21:32:36.117522
+IEX,Indian Energy Exchange Limited,2022-01-10 21:32:38.887575
+IFBAGRO,IFB Agro Industries Limited,2022-01-10 21:32:41.726349
+IFBIND,IFB Industries Limited,2022-01-10 21:32:44.527448
+IFCI,IFCI Limited,2022-01-10 21:33:02.528355
+IFGLEXPOR,IFGL Refractories Limited,2022-01-10 21:33:05.161739
+IGARASHI,Igarashi Motors India Limited,2022-01-10 21:33:08.013981
+IGL,Indraprastha Gas Limited,2022-01-10 21:33:10.788722
+IGPL,IG Petrochemicals Limited,2022-01-10 21:33:28.770456
+IIFL,IIFL Finance Limited,2022-01-10 21:33:31.587280
+IIFLSEC,IIFL Securities Limited,2022-01-10 21:33:34.254615
+IIFLWAM,Iifl Wealth Management Limited,2022-01-10 21:33:52.111796
+IMFA,Indian Metals & Ferro Alloys Limited,2022-01-10 21:33:54.910454
+IMPAL,India Motor Parts and Accessories Limited,2022-01-10 21:33:57.741934
+INCREDIBLE,INCREDIBLE INDUSTRIES LIMITED,2022-01-10 21:34:15.665910
+INDBANK,Indbank Merchant Banking Services Limited,2022-01-10 21:34:18.548699
+INDHOTEL,The Indian Hotels Company Limited,2022-01-10 21:34:21.390570
+INDIACEM,The India Cements Limited,2022-01-10 21:34:24.226993
+INDIAGLYCO,India Glycols Limited,2022-01-10 21:34:42.227768
+INDIAMART,Indiamart Intermesh Limited,2022-01-10 21:34:44.981413
+INDIANB,Indian Bank,2022-01-10 21:34:47.770911
+INDIANCARD,Indian Card Clothing Company Limited,2022-01-10 21:35:05.748515
+INDIANHUME,Indian Hume Pipe Company Limited,2022-01-10 21:35:08.622613
+INDIGO,InterGlobe Aviation Limited,2022-01-10 21:35:11.420015
+INDIGOPNTS,Indigo Paints Limited,2022-01-10 21:35:29.301179
+INDLMETER,IMP Powers Limited,2022-01-10 21:35:32.104335
+INDNIPPON,India Nippon Electricals Limited,2022-01-10 21:35:34.883169
+INDOCO,Indoco Remedies Limited,2022-01-10 21:35:52.871205
+INDORAMA,Indo Rama Synthetics (India) Limited,2022-01-10 21:35:55.728296
+INDOSTAR,IndoStar Capital Finance Limited,2022-01-10 21:35:58.347090
+INDOTECH,Indo Tech Transformers Limited,2022-01-10 21:36:16.304633
+INDOTHAI,Indo Thai Securities Limited,2022-01-10 21:36:19.046834
+INDRAMEDCO,Indraprastha Medical Corporation Limited,2022-01-10 21:36:21.913171
+INDSWFTLAB,Ind-Swift Laboratories Limited,2022-01-10 21:36:39.912986
+INDSWFTLTD,Ind-Swift Limited,2022-01-10 21:36:42.688730
+INDTERRAIN,Indian Terrain Fashions Limited,2022-01-10 21:36:45.539301
+INDUSINDBK,IndusInd Bank Limited,2022-01-10 21:37:03.493506
+INDUSTOWER,Indus Towers Limited,2022-01-10 21:37:06.274273
+INEOSSTYRO,INEOS Styrolution India Limited,2022-01-10 21:37:09.130371
+INFIBEAM,Infibeam Avenues Limited,2022-01-10 21:37:27.049949
+INFOBEAN,InfoBeans Technologies Limited,2022-01-10 21:37:29.720712
+INFY,Infosys Limited,2022-01-10 21:37:32.605482
+INGERRAND,Ingersoll Rand (India) Limited,2022-01-10 21:37:35.386636
+INOXLEISUR,INOX Leisure Limited,2022-01-10 21:37:53.360838
+INOXWIND,Inox Wind Limited,2022-01-10 21:37:56.132833
+INSECTICID,Insecticides (India) Limited,2022-01-10 21:37:58.945777
+INTELLECT,Intellect Design Arena Limited,2022-01-10 21:38:01.567852
+INTENTECH,Intense Technologies Limited,2022-01-10 21:38:19.514824
+INTLCONV,International Conveyors Limited,2022-01-10 21:38:22.354980
+INVENTURE,Inventure Growth & Securities Limited,2022-01-10 21:38:25.170290
+IOB,Indian Overseas Bank,2022-01-10 21:38:43.105938
+IOC,Indian Oil Corporation Limited,2022-01-10 21:38:46.091054
+IOLCP,IOL Chemicals and Pharmaceuticals Limited,2022-01-10 21:38:49.003265
+IPCALAB,IPCA Laboratories Limited,2022-01-10 21:38:51.833041
+IPL,India Pesticides Limited,2022-01-10 21:39:09.574155
+IRB,IRB Infrastructure Developers Limited,2022-01-10 21:39:12.356820
+IRCON,Ircon International Limited,2022-01-10 21:39:15.118686
+IRCTC,Indian Railway Catering And Tourism Corporation Limited,2022-01-10 21:39:32.964159
+IRFC,Indian Railway Finance Corporation Limited,2022-01-10 21:39:35.552909
+IRIS,Iris Business Services Limited,2022-01-10 21:39:38.291508
+IRISDOREME,Iris Clothings Limited,2022-01-10 21:39:40.930911
+ISEC,ICICI Securities Limited,2022-01-10 21:39:58.741305
+ISFT,Intrasoft Technologies Limited,2022-01-10 21:40:01.497438
+ISGEC,Isgec Heavy Engineering Limited,2022-01-10 21:40:04.308523
+ITC,ITC Limited,2022-01-10 21:40:22.340629
+ITDC,India Tourism Development Corporation Limited,2022-01-10 21:40:25.164360
+ITDCEM,ITD Cementation India Limited,2022-01-10 21:40:28.013695
+ITI,ITI Limited,2022-01-10 21:40:45.995136
+IVC,IL&FS Investment Managers Limited,2022-01-10 21:40:48.734442
+IVP,IVP Limited,2022-01-10 21:40:51.633783
+IZMO,IZMO Limited,2022-01-10 21:41:09.639377
+JAGRAN,Jagran Prakashan Limited,2022-01-10 21:41:12.495486
+JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,2022-01-10 21:41:15.370711
+JAIBALAJI,Jai Balaji Industries Limited,2022-01-10 21:41:18.133708
+JAICORPLTD,Jai Corp Limited,2022-01-10 21:41:36.147388
+JAIPURKURT,Nandani Creation Limited,2022-01-10 21:41:38.796921
+JAMNAAUTO,Jamna Auto Industries Limited,2022-01-10 21:41:41.636861
+JASH,Jash Engineering Limited,2022-01-10 21:41:59.558808
+JAYAGROGN,Jayant Agro Organics Limited,2022-01-10 21:42:02.468569
+JAYBARMARU,Jay Bharat Maruti Limited,2022-01-10 21:42:05.357478
+JAYSREETEA,Jayshree Tea & Industries Limited,2022-01-10 21:42:23.325717
+JBCHEPHARM,JB Chemicals & Pharmaceuticals Limited,2022-01-10 21:42:26.180832
+JBMA,JBM Auto Limited,2022-01-10 21:42:28.959177
+JCHAC,Johnson Controls - Hitachi Air Conditioning India Limited,2022-01-10 21:42:31.752171
+JETFREIGHT,Jet Freight Logistics Limited,2022-01-10 21:42:49.604812
+JHS,JHS Svendgaard Laboratories Limited,2022-01-10 21:42:52.378446
+JINDALPHOT,Jindal Photo Limited,2022-01-10 21:42:55.148421
+JINDALPOLY,Jindal Poly Films Limited,2022-01-10 21:43:13.151186
+JINDALSAW,Jindal Saw Limited,2022-01-10 21:43:16.049644
+JINDALSTEL,Jindal Steel & Power Limited,2022-01-10 21:43:18.827321
+JINDRILL,Jindal Drilling And Industries Limited,2022-01-10 21:43:36.776695
+JINDWORLD,Jindal Worldwide Limited,2022-01-10 21:43:39.584176
+JISLJALEQS,Jain Irrigation Systems Limited,2022-01-10 21:43:42.455368
+J&KBANK,The Jammu & Kashmir Bank Limited,2022-01-10 21:43:45.235563
+JKCEMENT,JK Cement Limited,2022-01-10 21:44:03.375333
+JKIL,.J..Kumar Infraprojects Limited.,2022-01-10 21:44:06.238310
+JKLAKSHMI,JK Lakshmi Cement Limited,2022-01-10 21:44:09.050002
+JKPAPER,JK Paper Limited,2022-01-10 21:44:11.848138
+JKTYRE,JK Tyre & Industries Limited,2022-01-10 21:44:29.874535
+JMA,Jullundur Motor Agency (Delhi) Limited,2022-01-10 21:44:32.672071
+JMCPROJECT,JMC Projects (India)  Limited,2022-01-10 21:44:35.487290
+JMFINANCIL,JM Financial Limited,2022-01-10 21:44:53.518852
+JOCIL,Jocil Limited,2022-01-10 21:44:56.372155
+JPASSOCIAT,Jaiprakash Associates Limited,2022-01-10 21:44:59.141274
+JPINFRATEC,Jaypee Infratech Limited,2022-01-10 21:45:17.201677
+JPPOWER,Jaiprakash Power Ventures Limited,2022-01-10 21:45:20.035012
+JSL,Jindal Stainless Limited,2022-01-10 21:45:22.876824
+JSLHISAR,Jindal Stainless (Hisar) Limited,2022-01-10 21:45:25.551828
+JSWHL,JSW Holdings Limited,2022-01-10 21:45:43.456464
+JSWISPL,JSW Ispat Special Products Limited,2022-01-10 21:45:46.261508
+JSWSTEEL,JSW Steel Limited,2022-01-10 21:45:49.062876
+JTEKTINDIA,Jtekt India Limited,2022-01-10 21:46:07.084248
+JUBLFOOD,Jubilant Foodworks Limited,2022-01-10 21:46:29.414246
+JUBLINDS,Jubilant Industries Limited,2022-01-10 21:46:32.125920
+JUBLINGREA,Jubilant Ingrevia Limited,2022-01-10 21:46:34.728135
+JUBLPHARMA,Jubilant Pharmova Limited,2022-01-10 21:46:37.650628
+JUSTDIAL,Just Dial Limited,2022-01-10 21:46:55.589070
+JYOTHYLAB,Jyothy Labs Limited,2022-01-10 21:46:58.443936
+KABRAEXTRU,Kabra Extrusion Technik Limited,2022-01-10 21:47:01.316886
+KAJARIACER,Kajaria Ceramics Limited,2022-01-10 21:47:04.121791
+KAKATCEM,Kakatiya Cement Sugar & Industries Limited,2022-01-10 21:47:22.139370
+KALPATPOWR,Kalpataru Power Transmission Limited,2022-01-10 21:47:25.006897
+KALYANKJIL,Kalyan Jewellers India Limited,2022-01-10 21:47:27.595992
+KAMATHOTEL,Kamat Hotels (I) Limited,2022-01-10 21:47:45.584224
+KAMDHENU,Kamdhenu Limited,2022-01-10 21:47:48.462252
+KANANIIND,Kanani Industries Limited,2022-01-10 21:47:51.187791
+KANORICHEM,Kanoria Chemicals & Industries Limited,2022-01-10 21:48:09.220730
+KANPRPLA,Kanpur Plastipack Limited,2022-01-10 21:48:12.236519
+KANSAINER,Kansai Nerolac Paints Limited,2022-01-10 21:48:15.137685
+KAPSTON,Kapston Facilities Management Limited,2022-01-10 21:48:32.967596
+KARMAENG,Karma Energy Limited,2022-01-10 21:48:35.725175
+KARURVYSYA,Karur Vysya Bank Limited,2022-01-10 21:48:38.551449
+KAUSHALYA,Kaushalya Infrastructure Development Corporation Limited,2022-01-10 21:48:56.527058
+KAYA,Kaya Limited,2022-01-10 21:48:59.300472
+KBCGLOBAL,KBC Global Limited,2022-01-10 21:49:01.971304
+KCP,KCP Limited,2022-01-10 21:49:19.904991
+KCPSUGIND,KCP Sugar and Industries Corporation Limited,2022-01-10 21:49:22.660890
+KDDL,KDDL Limited,2022-01-10 21:49:25.535909
+KEC,KEC International Limited,2022-01-10 21:49:28.377367
+KEERTI,Keerti Knowledge and Skills Limited,2022-01-10 21:49:46.222992
+KEI,KEI Industries Limited,2022-01-10 21:49:49.044889
+KELLTONTEC,Kellton Tech Solutions Limited,2022-01-10 21:49:51.885733
+KENNAMET,Kennametal India Limited,2022-01-10 21:49:54.676861
+KESORAMIND,Kesoram Industries Limited,2022-01-10 21:50:12.696273
+KEYFINSERV,Keynote Financial Services Limited,2022-01-10 21:50:15.459435
+KHADIM,Khadim India Limited,2022-01-10 21:50:18.258276
+KHAICHEM,Khaitan Chemicals & Fertilizers Limited,2022-01-10 21:50:36.225181
+KHANDSE,Khandwala Securities Limited,2022-01-10 21:50:39.014237
+KICL,Kalyani Investment Company Limited,2022-01-10 21:50:41.701187
+KILITCH,Kilitch Drugs (India) Limited,2022-01-10 21:50:59.689009
+KIMS,Krishna Institute of Medical Sciences Limited,2022-01-10 21:51:02.305795
+KINGFA,Kingfa Science & Technology (India) Limited,2022-01-10 21:51:05.093215
+KIOCL,KIOCL Limited,2022-01-10 21:51:23.016029
+KIRIINDUS,Kiri Industries Limited,2022-01-10 21:51:25.786897
+KIRLFER,Kirloskar Ferrous Industries Ltd,2022-01-10 21:51:28.670946
+KIRLOSBROS,Kirloskar Brothers Limited,2022-01-10 21:51:31.488618
+KIRLOSENG,Kirloskar Oil Engines Limited,2022-01-10 21:51:49.522882
+KIRLOSIND,Kirloskar Industries Limited,2022-01-10 21:51:52.308693
+KITEX,Kitex Garments Limited,2022-01-10 21:51:55.172839
+KKCL,Kewal Kiran Clothing Limited,2022-01-10 21:52:13.164978
+KMSUGAR,.K..M..Sugar Mills Limited.,2022-01-10 21:52:16.035750
+KNRCON,KNR Constructions Limited,2022-01-10 21:52:18.874169
+KOKUYOCMLN,Kokuyo Camlin Limited,2022-01-10 21:52:36.868508
+KOLTEPATIL,Kolte - Patil Developers Limited,2022-01-10 21:52:39.629013
+KOPRAN,Kopran Limited,2022-01-10 21:52:42.387327
+KOTAKBANK,Kotak Mahindra Bank Limited,2022-01-10 21:53:00.362857
+KOTARISUG,Kothari Sugars And Chemicals Limited,2022-01-10 21:53:03.127619
+KOTHARIPET,Kothari Petrochemicals Limited,2022-01-10 21:53:05.994718
+KOTHARIPRO,Kothari Products Limited,2022-01-10 21:53:23.969932
+KOVAI,Kovai Medical Center and Hospital Limited,2022-01-10 21:53:26.751967
+KPIGLOBAL,.K..P..I.. Global Infrastructure Limited.,2022-01-10 21:53:29.434048
+KPITTECH,KPIT Technologies Limited,2022-01-10 21:53:32.027731
+KPRMILL,.K..P..R.. Mill Limited.,2022-01-10 21:53:50.016909
+KRBL,KRBL Limited,2022-01-10 21:53:52.863414
+KRIDHANINF,Kridhan Infra Limited,2022-01-10 21:54:16.309338
+KRISHANA,Krishana Phoschem Limited,2022-01-10 21:54:19.067131
+KRITI,Kriti Industries (India) Limited,2022-01-10 21:54:37.028423
+KRSNAA,Krsnaa Diagnostics Limited,2022-01-10 21:54:39.602428
+KSB,Ksb Limited,2022-01-10 21:54:42.396653
+KSCL,Kaveri Seed Company Limited,2022-01-10 21:54:45.167447
+KSL,Kalyani Steels Limited,2022-01-10 21:55:03.102102
+KTKBANK,The Karnataka Bank Limited,2022-01-10 21:55:05.897743
+KUANTUM,Kuantum Papers Limited,2022-01-10 21:55:08.739974
+LAGNAM,Lagnam Spintex Limited,2022-01-10 21:55:26.606770
+LALPATHLAB,.Dr.. Lal Path Labs Ltd...,2022-01-10 21:55:29.416202
+LAMBODHARA,Lambodhara Textiles Limited,2022-01-10 21:55:32.254450
+LAOPALA,La Opala RG Limited,2022-01-10 21:55:35.127315
+LASA,Lasa Supergenerics Limited,2022-01-10 21:55:52.891471
+LATENTVIEW,Latent View Analytics Limited,2022-01-10 21:55:55.483139
+LAURUSLABS,Laurus Labs Limited,2022-01-10 21:55:58.307008
+LAXMICOT,Laxmi Cotspin Limited,2022-01-10 21:56:01.009697
+LAXMIMACH,Lakshmi Machine Works Limited,2022-01-10 21:56:18.901905
+LCCINFOTEC,LCC Infotech Limited,2022-01-10 21:56:21.620384
+LEMONTREE,Lemon Tree Hotels Limited,2022-01-10 21:56:24.335390
+LFIC,Lakshmi Finance & Industrial Corporation Limited,2022-01-10 21:56:42.232253
+LGBBROSLTD,LG Balakrishnan & Bros Limited,2022-01-10 21:56:45.078962
+LGBFORGE,LGB Forge Limited,2022-01-10 21:56:47.900860
+LIBAS,Libas Consumer Products Limited,2022-01-10 21:57:05.807424
+LIBERTSHOE,Liberty Shoes Limited,2022-01-10 21:57:08.670933
+LICHSGFIN,LIC Housing Finance Limited,2022-01-10 21:57:11.431797
+LIKHITHA,Likhitha Infrastructure Limited,2022-01-10 21:57:14.149692
+LINCOLN,Lincoln Pharmaceuticals Limited,2022-01-10 21:57:36.715113
+LINDEINDIA,Linde India Limited,2022-01-10 21:57:39.598348
+LODHA,Macrotech Developers Limited,2022-01-10 21:57:42.276495
+LOKESHMACH,Lokesh Machines Limited,2022-01-10 21:58:00.267831
+LOTUSEYE,Lotus Eye Hospital and Institute Limited,2022-01-10 21:58:03.120412
+LPDC,Landmark Property Development Company Limited,2022-01-10 21:58:05.960482
+LT,Larsen & Toubro Limited,2022-01-10 21:58:23.948694
+L&TFH,L&T Finance Holdings Limited,2022-01-10 21:58:26.701711
+LTI,Larsen & Toubro Infotech Limited,2022-01-10 21:58:29.556438
+LTTS,L&T Technology Services Limited,2022-01-10 21:58:47.461748
+LUMAXIND,Lumax Industries Limited,2022-01-10 21:58:50.282488
+LUMAXTECH,Lumax Auto Technologies Limited,2022-01-10 21:58:53.117972
+LUPIN,Lupin Limited,2022-01-10 21:59:11.239887
+LUXIND,Lux Industries Limited,2022-01-10 21:59:14.020495
+LXCHEM,Laxmi Organic Industries Limited,2022-01-10 21:59:16.683235
+LYKALABS,Lyka Labs Limited,2022-01-10 21:59:34.674099
+LYPSAGEMS,Lypsa Gems & Jewellery Limited,2022-01-10 21:59:37.436839
+MAANALU,Maan Aluminium Limited,2022-01-10 21:59:40.265457
+MACPOWER,Macpower CNC Machines Limited,2022-01-10 21:59:58.130775
+MADHAV,Madhav Marbles and Granites Limited,2022-01-10 22:00:00.900164
+MADRASFERT,Madras Fertilizers Limited,2022-01-10 22:00:03.686458
+MAGADSUGAR,Magadh Sugar & Energy Limited,2022-01-10 22:00:06.341592
+MAGNUM,Magnum Ventures Limited,2022-01-10 22:00:24.293405
+MAHABANK,Bank of Maharashtra,2022-01-10 22:00:27.072849
+MAHASTEEL,Mahamaya Steel Industries Limited,2022-01-10 22:00:29.867242
+MAHEPC,Mahindra EPC Irrigation Limited,2022-01-10 22:00:47.854485
+MAHESHWARI,Maheshwari Logistics Limited,2022-01-10 22:00:50.641547
+MAHINDCIE,Mahindra CIE Automotive Limited,2022-01-10 22:00:53.499679
+MAHLIFE,Mahindra Lifespace Developers Limited,2022-01-10 22:00:56.260599
+MAHLOG,Mahindra Logistics Limited,2022-01-10 22:01:14.090715
+MAHSCOOTER,Maharashtra Scooters Limited,2022-01-10 22:01:16.857452
+MAHSEAMLES,Maharashtra Seamless Limited,2022-01-10 22:01:19.676739
+MAITHANALL,Maithan Alloys Limited,2022-01-10 22:01:22.495016
+MALUPAPER,Malu Paper Mills Limited,2022-01-10 22:01:40.477342
+MANAKALUCO,Manaksia Aluminium Company Limited,2022-01-10 22:01:43.203972
+MANAKCOAT,Manaksia Coated Metals & Industries Limited,2022-01-10 22:01:45.903798
+MANAKSIA,Manaksia Limited,2022-01-10 22:02:03.901956
+MANAKSTEEL,Manaksia Steels Limited,2022-01-10 22:02:06.630325
+MANALIPETC,Manali Petrochemicals Limited,2022-01-10 22:02:09.486574
+MANAPPURAM,Manappuram Finance Limited,2022-01-10 22:02:12.313215
+MANGALAM,Mangalam Drugs And Organics Limited,2022-01-10 22:02:30.302604
+MANGCHEFER,Mangalore Chemicals & Fertilizers Limited,2022-01-10 22:02:33.164051
+MANGLMCEM,Mangalam Cement Limited,2022-01-10 22:02:36.067985
+MANGTIMBER,Mangalam Timber Products Limited,2022-01-10 22:02:54.072264
+MANINDS,Man Industries (India) Limited,2022-01-10 22:02:56.882574
+MANINFRA,Man Infraconstruction Limited,2022-01-10 22:02:59.635909
+MANORG,Mangalam Organics Limited,2022-01-10 22:03:02.429197
+MAPMYINDIA,.C..E.. Info Systems Limited.,2022-01-10 22:03:20.279820
+MARALOVER,Maral Overseas Limited,2022-01-10 22:03:23.271277
+MARATHON,Marathon Nextgen Realty Limited,2022-01-10 22:03:26.074368
+MARICO,Marico Limited,2022-01-10 22:03:44.047560
+MARINE,Marine Electricals (India) Limited,2022-01-10 22:03:46.732780
+MARKSANS,Marksans Pharma Limited,2022-01-10 22:03:49.569171
+MARSHALL,Marshall Machines Limited,2022-01-10 22:04:07.353805
+MARUTI,Maruti Suzuki India Limited,2022-01-10 22:04:10.226878
+MASFIN,MAS Financial Services Limited,2022-01-10 22:04:13.053698
+MASTEK,Mastek Limited,2022-01-10 22:04:31.005375
+MATRIMONY,.Matrimony..Com Limited.,2022-01-10 22:04:33.802699
+MAWANASUG,Mawana Sugars Limited,2022-01-10 22:04:36.608927
+MAXHEALTH,Max Healthcare Institute Limited,2022-01-10 22:04:39.219357
+MAXIND,Max India Limited,2022-01-10 22:04:56.943099
+MAXVIL,Max Ventures and Industries Limited,2022-01-10 22:04:59.559659
+MAYURUNIQ,Mayur Uniquoters Ltd,2022-01-10 22:05:02.416055
+MAZDOCK,Mazagon Dock Shipbuilders Limited,2022-01-10 22:05:25.791290
+MBAPL,Madhya Bharat Agro Products Limited,2022-01-10 22:05:28.548967
+MBLINFRA,MBL Infrastructures Limited,2022-01-10 22:05:46.518322
+MCDOWELL-N,United Spirits Limited,2022-01-10 22:05:49.276389
+MCL,Madhav Copper Limited,2022-01-10 22:05:52.030896
+MCLEODRUSS,Mcleod Russel India Limited,2022-01-10 22:06:10.036887
+MCX,Multi Commodity Exchange of India Limited,2022-01-10 22:06:12.863451
+MEDICAMEQ,Medicamen Biotech Limited,2022-01-10 22:06:15.747025
+MEDPLUS,Medplus Health Services Limited,2022-01-10 22:06:33.498041
+MENONBE,Menon Bearings Limited,2022-01-10 22:06:36.293802
+METROBRAND,Metro Brands Limited,2022-01-10 22:06:38.860792
+METROPOLIS,Metropolis Healthcare Limited,2022-01-10 22:06:41.554940
+MFL,Meghmani Finechem Limited,2022-01-10 22:06:59.346825
+MFSL,Max Financial Services Limited,2022-01-10 22:07:02.188654
+MGL,Mahanagar Gas Limited,2022-01-10 22:07:04.994138
+MHRIL,Mahindra Holidays & Resorts India Limited,2022-01-10 22:07:22.955104
+MICEL,MIC Electronics Limited,2022-01-10 22:07:25.761136
+MIDHANI,Mishra Dhatu Nigam Limited,2022-01-10 22:07:28.519813
+MINDACORP,Minda Corporation Limited,2022-01-10 22:07:46.530065
+MINDAIND,Minda Industries Limited,2022-01-10 22:07:49.308030
+MINDTECK,Mindteck (India) Limited,2022-01-10 22:07:52.101848
+MINDTREE,MindTree Limited,2022-01-10 22:08:10.090209
+MIRCELECTR,MIRC Electronics Limited,2022-01-10 22:08:12.816269
+MIRZAINT,Mirza International Limited,2022-01-10 22:08:15.711766
+MITTAL,Mittal Life Style Limited,2022-01-10 22:08:18.349482
+M&M,Mahindra & Mahindra Limited,2022-01-10 22:08:36.399492
+M&MFIN,Mahindra & Mahindra Financial Services Limited,2022-01-10 22:08:39.234442
+MMFL,MM Forgings Limited,2022-01-10 22:08:42.132570
+MMP,MMP Industries Limited,2022-01-10 22:09:00.026038
+MMTC,MMTC Limited,2022-01-10 22:09:02.878677
+MODISNME,Modison Metals Limited,2022-01-10 22:09:05.706102
+MOHITIND,Mohit Industries Limited,2022-01-10 22:09:08.504747
+MOIL,MOIL Limited,2022-01-10 22:09:26.533356
+MOKSH,Moksh Ornaments Limited,2022-01-10 22:09:29.131120
+MOL,Meghmani Organics Limited,2022-01-10 22:09:31.661169
+MOLDTECH,Mold-Tek Technologies Limited,2022-01-10 22:09:49.616838
+MOLDTKPAC,Mold-Tek Packaging Limited,2022-01-10 22:09:52.524646
+MONTECARLO,Monte Carlo Fashions Limited,2022-01-10 22:09:55.345516
+MORARJEE,Morarjee Textiles Limited,2022-01-10 22:09:58.130021
+MOREPENLAB,Morepen Laboratories Limited,2022-01-10 22:10:16.088561
+MOTHERSUMI,Motherson Sumi Systems Limited,2022-01-10 22:10:18.954177
+MOTILALOFS,Motilal Oswal Financial Services Limited,2022-01-10 22:10:21.784751
+MPHASIS,MphasiS Limited,2022-01-10 22:10:24.604133
+MPSLTD,MPS Limited,2022-01-10 22:10:42.587870
+MRF,MRF Limited,2022-01-10 22:10:45.381656
+MRO-TEK,MRO-TEK Realty Limited,2022-01-10 22:10:48.198350
+MRPL,Mangalore Refinery and Petrochemicals Limited,2022-01-10 22:11:06.196833
+MSPL,MSP Steel & Power Limited,2022-01-10 22:11:08.997616
+MSTCLTD,Mstc Limited,2022-01-10 22:11:11.670881
+MTARTECH,Mtar Technologies Limited,2022-01-10 22:11:29.527270
+MTEDUCARE,MT Educare Limited,2022-01-10 22:11:32.355060
+MTNL,Mahanagar Telephone Nigam Limited,2022-01-10 22:11:35.194202
+MUKANDLTD,Mukand Limited,2022-01-10 22:11:53.164430
+MUKTAARTS,Mukta Arts Limited,2022-01-10 22:11:55.944513
+MUNJALAU,Munjal Auto Industries Limited,2022-01-10 22:11:58.783099
+MUNJALSHOW,Munjal Showa Limited,2022-01-10 22:12:01.634961
+MURUDCERA,Murudeshwar Ceramics Limited,2022-01-10 22:12:19.646647
+MUTHOOTCAP,Muthoot Capital Services Limited,2022-01-10 22:12:22.444232
+MUTHOOTFIN,Muthoot Finance Limited,2022-01-10 22:12:25.250063
+NACLIND,NACL Industries Limited,2022-01-10 22:12:43.255713
+NAGAFERT,Nagarjuna Fertilizers and Chemicals Limited,2022-01-10 22:12:46.053155
+NAGREEKCAP,Nagreeka Capital & Infrastructure Limited,2022-01-10 22:12:48.887731
+NAGREEKEXP,Nagreeka Exports Limited,2022-01-10 22:13:06.889029
+NAHARCAP,Nahar Capital and Financial Services Limited,2022-01-10 22:13:09.657377
+NAHARINDUS,Nahar Industrial Enterprises Limited,2022-01-10 22:13:12.486706
+NAHARPOLY,Nahar Poly Films Limited,2022-01-10 22:13:30.473524
+NAM-INDIA,Nippon Life India Asset Management Limited,2022-01-10 22:13:33.187353
+NATCOPHARM,Natco Pharma Limited,2022-01-10 22:13:36.040643
+NATHBIOGEN,Nath Bio-Genes (India) Limited,2022-01-10 22:13:54.021281
+NATIONALUM,National Aluminium Company Limited,2022-01-10 22:13:56.879104
+NAUKRI,Info Edge (India) Limited,2022-01-10 22:13:59.764909
+NAVINFLUOR,Navin Fluorine International Limited,2022-01-10 22:14:17.734801
+NAVKARCORP,Navkar Corporation Limited,2022-01-10 22:14:20.553151
+NAVNETEDUL,Navneet Education Limited,2022-01-10 22:14:23.366191
+NBCC,NBCC (India) Limited,2022-01-10 22:14:41.358806
+NBIFIN,.N.. B.. I.. Industrial Finance Company Limited.,2022-01-10 22:14:44.094666
+NBVENTURES,Nava Bharat Ventures Limited,2022-01-10 22:14:46.894971
+NCC,NCC Limited,2022-01-10 22:15:04.920779
+NCLIND,NCL Industries Limited,2022-01-10 22:15:07.712765
+NDGL,Naga Dhunseri Group Limited,2022-01-10 22:15:10.496771
+NDL,Nandan Denim Limited,2022-01-10 22:15:28.554983
+NDRAUTO,Ndr Auto Components Limited,2022-01-10 22:15:31.150758
+NDTV,New Delhi Television Limited,2022-01-10 22:15:33.983545
+NECCLTD,North Eastern Carrying Corporation Limited,2022-01-10 22:15:51.920540
+NECLIFE,Nectar Lifesciences Limited,2022-01-10 22:15:54.759677
+NELCAST,Nelcast Limited,2022-01-10 22:15:57.544142
+NEOGEN,Neogen Chemicals Limited,2022-01-10 22:16:00.279724
+NESCO,Nesco Limited,2022-01-10 22:16:18.276956
+NESTLEIND,Nestle India Limited,2022-01-10 22:16:21.095935
+NETWORK18,Network18 Media & Investments Limited,2022-01-10 22:16:24.002296
+NEULANDLAB,Neuland Laboratories Limited,2022-01-10 22:16:42.010429
+NEWGEN,Newgen Software Technologies Limited,2022-01-10 22:16:44.840946
+NFL,National Fertilizers Limited,2022-01-10 22:16:47.653631
+NH,.Narayana Hrudayalaya Ltd...,2022-01-10 22:16:50.445412
+NHPC,NHPC Limited,2022-01-10 22:17:08.451880
+NIACL,The New India Assurance Company Limited,2022-01-10 22:17:11.188481
+NIBL,NRB Industrial Bearings Limited,2022-01-10 22:17:13.932033
+NIITLTD,NIIT Limited,2022-01-10 22:17:31.963660
+NILKAMAL,Nilkamal Limited,2022-01-10 22:17:34.832369
+NIPPOBATRY,Indo-National Limited,2022-01-10 22:17:37.580053
+NIRAJ,Niraj Cement Structurals Limited,2022-01-10 22:17:55.565073
+NITCO,Nitco Limited,2022-01-10 22:17:58.334453
+NKIND,NK Industries Limited,2022-01-10 22:18:01.271481
+NLCINDIA,NLC India Limited,2022-01-10 22:18:04.052332
+NMDC,NMDC Limited,2022-01-10 22:18:22.261274
+NOCIL,NOCIL Limited,2022-01-10 22:18:25.111199
+NOIDATOLL,Noida Toll Bridge Company Limited,2022-01-10 22:18:27.896619
+NORBTEAEXP,Norben Tea & Exports Limited,2022-01-10 22:18:30.670187
+NOVARTIND,Novartis India Limited,2022-01-10 22:18:48.614483
+NRAIL,N R Agarwal Industries Limited,2022-01-10 22:18:51.408582
+NRBBEARING,NRB Bearing Limited,2022-01-10 22:18:54.230953
+NSIL,Nalwa Sons Investments Limited,2022-01-10 22:19:12.132338
+NTPC,NTPC Limited,2022-01-10 22:19:14.909999
+NUCLEUS,Nucleus Software Exports Limited,2022-01-10 22:19:17.740290
+NURECA,Nureca Limited,2022-01-10 22:19:20.288417
+NUVOCO,Nuvoco Vistas Corporation Limited,2022-01-10 22:19:38.051582
+NXTDIGITAL,NXTDIGITAL LIMITED,2022-01-10 22:19:40.811672
+NYKAA,FSN E-Commerce Ventures Limited,2022-01-10 22:19:43.377165
+OAL,Oriental Aromatics Limited,2022-01-10 22:19:46.189691
+OBEROIRLTY,Oberoi Realty Limited,2022-01-10 22:20:04.186939
+OCCL,Oriental Carbon & Chemicals Limited,2022-01-10 22:20:07.034943
+OFSS,Oracle Financial Services Software Limited,2022-01-10 22:20:09.864538
+OIL,Oil India Limited,2022-01-10 22:20:27.900397
+OMAXAUTO,Omax Autos Limited,2022-01-10 22:20:30.758829
+OMAXE,Omaxe Limited,2022-01-10 22:20:33.572064
+OMINFRAL,OM INFRA LIMITED,2022-01-10 22:20:51.635823
+ONELIFECAP,Onelife Capital Advisors Limited,2022-01-10 22:20:54.349412
+ONGC,Oil & Natural Gas Corporation Limited,2022-01-10 22:20:57.226005
+ONMOBILE,OnMobile Global Limited,2022-01-10 22:21:15.213055
+ONWARDTEC,Onward Technologies Limited,2022-01-10 22:21:18.045244
+OPTIEMUS,Optiemus Infracom Limited,2022-01-10 22:21:20.903983
+ORBTEXP,Orbit Exports Limited,2022-01-10 22:21:38.836802
+ORICONENT,Oricon Enterprises Limited,2022-01-10 22:21:41.675006
+ORIENTABRA,Orient Abrasives Limited,2022-01-10 22:21:44.554098
+ORIENTALTL,Oriental Trimex Limited,2022-01-10 22:22:02.543934
+ORIENTBELL,Orient Bell Limited,2022-01-10 22:22:05.408908
+ORIENTCEM,Orient Cement Limited,2022-01-10 22:22:08.227929
+ORIENTELEC,Orient Electric Limited,2022-01-10 22:22:26.005315
+ORIENTHOT,Oriental Hotels Limited,2022-01-10 22:22:28.792572
+ORIENTLTD,Orient Press Limited,2022-01-10 22:22:31.658411
+ORIENTPPR,Orient Paper & Industries Limited,2022-01-10 22:22:49.683254
+ORISSAMINE,The Orissa Minerals Development Company Limited,2022-01-10 22:22:52.535607
+ORTINLAB,Ortin Laboratories Limited,2022-01-10 22:22:55.360114
+OSWALAGRO,Oswal Agro Mills Limited,2022-01-10 22:23:13.294503
+PAGEIND,Page Industries Limited,2022-01-10 22:23:16.151907
+PAISALO,Paisalo Digital Limited,2022-01-10 22:23:18.938422
+PALASHSECU,Palash Securities Limited,2022-01-10 22:23:36.765487
+PANACEABIO,Panacea Biotec Limited,2022-01-10 22:23:39.557605
+PANACHE,Panache Digilife Limited,2022-01-10 22:23:42.284126
+PANAMAPET,Panama Petrochem Limited,2022-01-10 22:23:45.123807
+PARAGMILK,Parag Milk Foods Limited,2022-01-10 22:24:03.223799
+PARAS,Paras Defence and Space Technologies Limited,2022-01-10 22:24:05.799780
+PAR,Par Drugs And Chemicals Limited,2022-01-10 22:24:08.490883
+PARSVNATH,Parsvnath Developers Limited,2022-01-10 22:24:26.515827
+PASUPTAC,Pasupati Acrylon Limited,2022-01-10 22:24:29.239375
+PATELENG,Patel Engineering Limited,2022-01-10 22:24:32.023804
+PATINTLOG,Patel Integrated Logistics Limited,2022-01-10 22:24:50.010211
+PATSPINLTD,Patspin India Limited,2022-01-10 22:24:52.873834
+PAYTM,One 97 Communications Limited,2022-01-10 22:24:55.510439
+PBAINFRA,PBA Infrastructure Limited,2022-01-10 22:25:13.458767
+PCJEWELLER,PC Jeweller Limited,2022-01-10 22:25:16.306314
+PDMJEPAPER,Pudumjee Paper Products Limited,2022-01-10 22:25:18.914998
+PDSMFL,PDS Multinational Fashions Limited,2022-01-10 22:25:36.829054
+PEARLPOLY,Pearl Polymers Limited,2022-01-10 22:25:39.676945
+PEL,Piramal Enterprises Limited,2022-01-10 22:25:42.471320
+PENIND,Pennar Industries Limited,2022-01-10 22:25:45.324346
+PERSISTENT,Persistent Systems Limited,2022-01-10 22:26:03.266887
+PETRONET,Petronet LNG Limited,2022-01-10 22:26:06.083607
+PFC,Power Finance Corporation Limited,2022-01-10 22:26:08.954158
+PFIZER,Pfizer Limited,2022-01-10 22:26:11.749773
+PFOCUS,Prime Focus Limited,2022-01-10 22:26:29.736279
+PFS,PTC India Financial Services Limited,2022-01-10 22:26:32.550202
+PGEL,PG Electroplast Limited,2022-01-10 22:26:35.415520
+PGHH,Procter & Gamble Hygiene and Health Care Limited,2022-01-10 22:26:53.414696
+PGHL,Procter & Gamble Health Limited,2022-01-10 22:26:56.227866
+PGIL,Pearl Global Industries Limited,2022-01-10 22:26:58.972393
+PHILIPCARB,Phillips Carbon Black Limited,2022-01-10 22:27:16.980654
+PHOENIXLTD,The Phoenix Mills Limited,2022-01-10 22:27:19.751576
+PIDILITIND,Pidilite Industries Limited,2022-01-10 22:27:41.247965
+PIIND,PI Industries Limited,2022-01-10 22:27:44.081867
+PILANIINVS,Pilani Investment and Industries Corporation Limited,2022-01-10 22:27:46.795788
+PILITA,PIL ITALICA LIFESTYLE LIMITED,2022-01-10 22:28:04.768716
+PIONDIST,Pioneer Distilleries Limited,2022-01-10 22:28:07.538018
+PIONEEREMB,Pioneer Embroideries Limited,2022-01-10 22:28:10.335362
+PITTIENG,Pitti Engineering Limited,2022-01-10 22:28:28.311710
+PLASTIBLEN,Plastiblends India Limited,2022-01-10 22:28:31.146065
+PNB,Punjab National Bank,2022-01-10 22:28:33.956469
+PNBGILTS,PNB Gilts Limited,2022-01-10 22:28:51.937790
+PNBHOUSING,PNB Housing Finance Limited,2022-01-10 22:28:54.717689
+PNC,Pritish Nandy Communications Limited,2022-01-10 22:28:57.556941
+PNCINFRA,PNC Infratech Limited,2022-01-10 22:29:15.568944
+PODDARHOUS,Poddar Housing and Development Limited,2022-01-10 22:29:18.332044
+PODDARMENT,Poddar Pigments Limited,2022-01-10 22:29:21.184951
+POKARNA,Pokarna Limited,2022-01-10 22:29:39.181248
+POLICYBZR,PB Fintech Limited,2022-01-10 22:29:41.733641
+POLYCAB,Polycab India Limited,2022-01-10 22:29:44.532129
+POLYMED,Poly Medicure Limited,2022-01-10 22:29:47.312556
+POLYPLEX,Polyplex Corporation Limited,2022-01-10 22:30:05.311907
+PONNIERODE,Ponni Sugars (Erode) Limited,2022-01-10 22:30:08.173309
+POONAWALLA,Poonawalla Fincorp Limited,2022-01-10 22:30:10.998416
+POWERGRID,Power Grid Corporation of India Limited,2022-01-10 22:30:28.991989
+POWERINDIA,Hitachi Energy India Limited,2022-01-10 22:30:31.535369
+POWERMECH,Power Mech Projects Limited,2022-01-10 22:30:34.360407
+PPAP,PPAP Automotive Limited,2022-01-10 22:30:52.380992
+PPL,Prakash Pipes Limited,2022-01-10 22:30:55.005536
+PRAENG,Prajay Engineers Syndicate Limited,2022-01-10 22:30:57.922984
+PRAJIND,Praj Industries Limited,2022-01-10 22:31:15.939348
+PRAKASH,Prakash Industries Limited,2022-01-10 22:31:18.724359
+PRAKASHSTL,Prakash Steelage Limited,2022-01-10 22:31:39.737600
+PRECAM,Precision Camshafts Limited,2022-01-10 22:31:42.572342
+PRECOT,Precot Limited,2022-01-10 22:31:45.515499
+PRECWIRE,Precision Wires India Limited,2022-01-10 22:32:03.513546
+PREMEXPLN,Premier Explosives Limited,2022-01-10 22:32:06.385596
+PREMIERPOL,Premier Polyfilm Limited,2022-01-10 22:32:09.272000
+PRESSMN,Pressman Advertising Limited,2022-01-10 22:32:27.216103
+PRESTIGE,Prestige Estates Projects Limited,2022-01-10 22:32:29.993581
+PRICOLLTD,Pricol Limited,2022-01-10 22:32:32.663308
+PRIMESECU,Prime Securities Limited,2022-01-10 22:32:50.594745
+PRINCEPIPE,Prince Pipes And Fittings Limited,2022-01-10 22:32:53.271911
+PRITIKAUTO,Pritika Auto Industries Limited,2022-01-10 22:32:56.043707
+PRIVISCL,Privi Speciality Chemicals Limited,2022-01-10 22:33:14.044417
+PROZONINTU,Prozone Intu Properties Limited,2022-01-10 22:33:16.791185
+PRSMJOHNSN,Prism Johnson Limited,2022-01-10 22:33:19.621646
+PSB,Punjab & Sind Bank,2022-01-10 22:33:37.623874
+PSPPROJECT,PSP Projects Limited,2022-01-10 22:33:40.559378
+PTC,PTC India Limited,2022-01-10 22:33:43.405783
+PTL,PTL Enterprises Limited,2022-01-10 22:33:46.198086
+PUNJABCHEM,Punjab Chemicals & Crop Protection Limited,2022-01-10 22:34:04.192841
+PURVA,Puravankara Limited,2022-01-10 22:34:06.963726
+PVR,PVR Limited,2022-01-10 22:34:09.848004
+QUESS,Quess Corp Limited,2022-01-10 22:34:27.796583
+QUICKHEAL,Quick Heal Technologies Limited,2022-01-10 22:34:30.581036
+RADICO,Radico Khaitan Limited,2022-01-10 22:34:33.459064
+RADIOCITY,Music Broadcast Limited,2022-01-10 22:34:36.172003
+RAILTEL,Railtel Corporation Of India Limited,2022-01-10 22:34:53.976178
+RAIN,Rain Industries Limited,2022-01-10 22:34:56.776792
+RAJESHEXPO,Rajesh Exports Limited,2022-01-10 22:34:59.625532
+RAJMET,Rajnandini Metal Limited,2022-01-10 22:35:02.244535
+RAJTV,Raj Television Network Limited,2022-01-10 22:35:20.255024
+RALLIS,Rallis India Limited,2022-01-10 22:35:23.090681
+RAMANEWS,Shree Rama Newsprint Limited,2022-01-10 22:35:25.926730
+RAMASTEEL,Rama Steel Tubes Limited,2022-01-10 22:35:28.647909
+RAMCOCEM,The Ramco Cements Limited,2022-01-10 22:35:46.639094
+RAMCOIND,Ramco Industries Limited,2022-01-10 22:35:49.437692
+RAMCOSYS,Ramco Systems Limited,2022-01-10 22:35:52.304826
+RAMKY,Ramky Infrastructure Limited,2022-01-10 22:35:55.094669
+RANASUG,Rana Sugars Limited,2022-01-10 22:36:13.066719
+RANEENGINE,Rane Engine Valve Limited,2022-01-10 22:36:15.888246
+RANEHOLDIN,Rane Holdings Limited,2022-01-10 22:36:18.648377
+RATEGAIN,Rategain Travel Technologies Limited,2022-01-10 22:36:21.204597
+RATNAMANI,Ratnamani Metals & Tubes Limited,2022-01-10 22:36:39.203698
+RAYMOND,Raymond Limited,2022-01-10 22:36:41.996938
+RBLBANK,RBL Bank Limited,2022-01-10 22:36:44.796965
+RBL,Rane Brake Lining Limited,2022-01-10 22:37:02.818421
+RCF,Rashtriya Chemicals and Fertilizers Limited,2022-01-10 22:37:05.648504
+RCOM,Reliance Communications Limited,2022-01-10 22:37:08.454559
+RECLTD,REC Limited,2022-01-10 22:37:26.412746
+REDINGTON,Redington (India) Limited,2022-01-10 22:37:29.252254
+REFEX,Refex Industries Limited,2022-01-10 22:37:32.088277
+RELAXO,Relaxo Footwears Limited,2022-01-10 22:37:50.075839
+RELIANCE,Reliance Industries Limited,2022-01-10 22:37:52.905699
+RELIGARE,Religare Enterprises Limited,2022-01-10 22:37:55.687451
+REMSONSIND,Remsons Industries Limited,2022-01-10 22:38:13.681215
+RENUKA,Shree Renuka Sugars Limited,2022-01-10 22:38:16.540139
+REPCOHOME,Repco Home Finance Limited,2022-01-10 22:38:19.418409
+REPL,Rudrabhishek Enterprises Limited,2022-01-10 22:38:22.041666
+REPRO,Repro India Limited,2022-01-10 22:38:40.030505
+RESPONIND,Responsive Industries Limited,2022-01-10 22:38:42.834642
+REVATHI,Revathi Equipment Limited,2022-01-10 22:38:45.638196
+RGL,Renaissance Global Limited,2022-01-10 22:38:48.420692
+RHFL,Reliance Home Finance Limited,2022-01-10 22:39:06.339550
+RHIM,RHI MAGNESITA INDIA LIMITED,2022-01-10 22:39:09.161543
+RICOAUTO,Rico Auto Industries Limited,2022-01-10 22:39:11.991423
+RIIL,Reliance Industrial Infrastructure Limited,2022-01-10 22:39:29.965120
+RITES,RITES Limited,2022-01-10 22:39:32.661665
+RKEC,RKEC Projects Limited,2022-01-10 22:39:35.427375
+RKFORGE,Ramkrishna Forgings Limited,2022-01-10 22:39:38.261410
+RML,Rane (Madras) Limited,2022-01-10 22:39:56.294958
+ROLEXRINGS,Rolex Rings Limited,2022-01-10 22:39:58.907360
+ROLLT,Rollatainers Limited,2022-01-10 22:40:01.708430
+ROSSARI,Rossari Biotech Limited,2022-01-10 22:40:04.295866
+ROSSELLIND,Rossell India Limited,2022-01-10 22:40:22.302425
+ROUTE,ROUTE MOBILE LIMITED,2022-01-10 22:40:25.103608
+RPGLIFE,RPG Life Sciences Limited,2022-01-10 22:40:27.952631
+RPOWER,Reliance Power Limited,2022-01-10 22:40:45.928509
+RPPINFRA,.R..P..P.. Infra Projects Limited.,2022-01-10 22:40:48.674817
+RPPL,Rajshree Polypack Limited,2022-01-10 22:40:51.375120
+RPSGVENT,RPSG VENTURES LIMITED,2022-01-10 22:41:09.123440
+RSSOFTWARE,.R.. S.. Software (India) Limited.,2022-01-10 22:41:11.919696
+RSWM,RSWM Limited,2022-01-10 22:41:14.804093
+RSYSTEMS,R Systems International Limited,2022-01-10 22:41:32.795983
+RTNINDIA,RattanIndia Enterprises Limited,2022-01-10 22:41:35.545717
+RTNPOWER,RattanIndia Power Limited,2022-01-10 22:41:38.388604
+RUBYMILLS,The Ruby Mills Limited,2022-01-10 22:41:56.432690
+RUCHI,Ruchi Soya Industries Limited,2022-01-10 22:41:59.274455
+RUCHIRA,Ruchira Papers Limited,2022-01-10 22:42:02.147556
+RUPA,Rupa & Company Limited,2022-01-10 22:42:20.163894
+RUSHIL,Rushil Decor Limited,2022-01-10 22:42:22.975344
+RVHL,Ravinder Heights Limited,2022-01-10 22:42:25.473656
+RVNL,Rail Vikas Nigam Limited,2022-01-10 22:42:43.336751
+SADBHAV,Sadbhav Engineering Limited,2022-01-10 22:42:46.198380
+SADBHIN,Sadbhav Infrastructure Project Limited,2022-01-10 22:42:49.229952
+SAFARI,Safari Industries (India) Limited,2022-01-10 22:42:51.981549
+SAGCEM,Sagar Cements Limited,2022-01-10 22:43:09.992721
+SAIL,Steel Authority of India Limited,2022-01-10 22:43:12.811939
+SAKAR,Sakar Healthcare Limited,2022-01-10 22:43:15.669783
+SAKHTISUG,Sakthi Sugars Limited,2022-01-10 22:43:33.674785
+SAKSOFT,Saksoft Limited,2022-01-10 22:43:36.550580
+SAKUMA,Sakuma Exports Limited,2022-01-10 22:43:39.450161
+SALASAR,Salasar Techno Engineering Limited,2022-01-10 22:43:42.214861
+SALONA,Salona Cotspin Limited,2022-01-10 22:44:00.185112
+SALSTEEL,.S..A..L.. Steel Limited.,2022-01-10 22:44:03.049262
+SALZERELEC,Salzer Electronics Limited,2022-01-10 22:44:05.936687
+SANCO,Sanco Industries Limited,2022-01-10 22:44:08.658821
+SANDESH,The Sandesh Limited,2022-01-10 22:44:26.684954
+SANDHAR,Sandhar Technologies Limited,2022-01-10 22:44:29.356636
+SANGAMIND,Sangam (India) Limited,2022-01-10 22:44:32.245690
+SANGHIIND,Sanghi Industries Limited,2022-01-10 22:44:50.193743
+SANGHVIMOV,Sanghvi Movers Limited,2022-01-10 22:44:53.015000
+SANOFI,Sanofi India Limited,2022-01-10 22:44:55.929940
+SANSERA,Sansera Engineering Limited,2022-01-10 22:44:58.502711
+SAPPHIRE,Sapphire Foods India Limited,2022-01-10 22:45:16.215202
+SARDAEN,Sarda Energy & Minerals Limited,2022-01-10 22:45:19.066760
+SARLAPOLY,Sarla Performance Fibers Limited,2022-01-10 22:45:21.939024
+SASKEN,Sasken Technologies Limited,2022-01-10 22:45:39.902212
+SASTASUNDR,Sastasundar Ventures Limited,2022-01-10 22:45:42.583929
+SATIA,Satia Industries Limited,2022-01-10 22:45:45.387644
+SATIN,Satin Creditcare Network Limited,2022-01-10 22:45:48.111590
+SBCL,Shivalik Bimetal Controls Limited,2022-01-10 22:46:10.756290
+SBICARD,SBI Cards and Payment Services Limited,2022-01-10 22:46:13.436422
+SBILIFE,SBI Life Insurance Company Limited,2022-01-10 22:46:16.204479
+SBIN,State Bank of India,2022-01-10 22:46:34.169749
+SCHAEFFLER,Schaeffler India Limited,2022-01-10 22:46:37.076777
+SCHAND,S Chand And Company Limited,2022-01-10 22:46:39.846089
+SCHNEIDER,Schneider Electric Infrastructure Limited,2022-01-10 22:46:57.800519
+SCI,Shipping Corporation Of India Limited,2022-01-10 22:47:00.641801
+SDBL,Som Distilleries & Breweries Limited,2022-01-10 22:47:23.203323
+SECURKLOUD,SECUREKLOUD TECHNOLOGIES LIMITED,2022-01-10 22:47:25.985723
+SELAN,Selan Exploration Technology Limited,2022-01-10 22:47:28.812653
+SELMC,SEL Manufacturing Company Limited,2022-01-10 22:47:50.146599
+SEQUENT,Sequent Scientific Limited,2022-01-10 22:47:52.964676
+SERVOTECH,Servotech Power Systems Limited,2022-01-10 22:47:55.649689
+SESHAPAPER,Seshasayee Paper and Boards Limited,2022-01-10 22:48:13.679945
+SETCO,Setco Automotive Limited,2022-01-10 22:48:16.510795
+SEYAIND,Seya Industries Limited,2022-01-10 22:48:19.311246
+SFL,Sheela Foam Limited,2022-01-10 22:48:37.254138
+SGIL,Synergy Green Industries Limited,2022-01-10 22:48:39.956067
+SGL,STL Global Limited,2022-01-10 22:48:42.936735
+SHAKTIPUMP,Shakti Pumps (India) Limited,2022-01-10 22:49:00.894271
+SHALBY,Shalby Limited,2022-01-10 22:49:03.608294
+SHALPAINTS,Shalimar Paints Limited,2022-01-10 22:49:06.384694
+SHANKARA,Shankara Building Products Limited,2022-01-10 22:49:24.350203
+SHANTIGEAR,Shanthi Gears Limited,2022-01-10 22:49:27.144791
+SHARDACROP,Sharda Cropchem Limited,2022-01-10 22:49:29.960020
+SHARDAMOTR,Sharda Motor Industries Limited,2022-01-10 22:49:47.921726
+SHAREINDIA,Share India Securities Limited,2022-01-10 22:49:50.595028
+SHIL,Somany Home Innovation Limited,2022-01-10 22:49:53.235485
+SHILPAMED,Shilpa Medicare Limited,2022-01-10 22:50:11.256024
+SHIVALIK,Shivalik Rasayan Limited,2022-01-10 22:50:14.039200
+SHIVAMILLS,Shiva Mills Limited,2022-01-10 22:50:16.756692
+SHIVATEX,Shiva Texyarn Limited,2022-01-10 22:50:34.764950
+SHK,S H Kelkar and Company Limited,2022-01-10 22:50:37.603754
+SHOPERSTOP,Shoppers Stop Limited,2022-01-10 22:50:40.391732
+SHRADHA,Shradha Infraprojects Limited,2022-01-10 22:50:58.247312
+SHREDIGCEM,.Shree Digvijay Cement Co..Ltd.,2022-01-10 22:51:01.083314
+SHREECEM,SHREE CEMENT LIMITED,2022-01-10 22:51:03.948497
+SHREEPUSHK,Shree Pushkar Chemicals & Fertilisers Limited,2022-01-10 22:51:21.896660
+SHREERAMA,Shree Rama Multi-Tech Limited,2022-01-10 22:51:24.712418
+SHRENIK,Shrenik Limited,2022-01-10 22:51:27.541991
+SHREYANIND,Shreyans Industries Limited,2022-01-10 22:51:30.346593
+SHREYAS,Shreyas Shipping & Logistics Limited,2022-01-10 22:51:48.326468
+SHRIRAMCIT,Shriram City Union Finance Limited,2022-01-10 22:51:51.161189
+SHRIRAMEPC,Shriram EPC Limited,2022-01-10 22:51:54.035274
+SHRIRAMPPS,Shriram Properties Limited,2022-01-10 22:51:56.562524
+SHYAMCENT,Shyam Century Ferrous Limited,2022-01-10 22:52:14.432174
+SHYAMMETL,Shyam Metalics and Energy Limited,2022-01-10 22:52:17.065449
+SIEMENS,Siemens Limited,2022-01-10 22:52:19.865058
+SIGACHI,Sigachi Industries Limited,2022-01-10 22:52:37.529238
+SIGIND,Signet Industries Limited,2022-01-10 22:52:40.366975
+SIKKO,Sikko Industries Limited,2022-01-10 22:52:43.061892
+SILGO,Silgo Retail Limited,2022-01-10 22:53:00.788797
+SILINV,SIL Investments Limited,2022-01-10 22:53:03.539041
+SIMBHALS,Simbhaoli Sugars Limited,2022-01-10 22:53:06.314172
+SIMPLEXINF,Simplex Infrastructures Limited,2022-01-10 22:53:09.133442
+SINTERCOM,Sintercom India Limited,2022-01-10 22:53:26.948351
+SIRCA,Sirca Paints India Limited,2022-01-10 22:53:29.610707
+SIS,SIS LIMITED,2022-01-10 22:53:32.435129
+SIYSIL,Siyaram Silk Mills Limited,2022-01-10 22:53:50.452947
+SJS,.S..J..S.. Enterprises Limited.,2022-01-10 22:53:53.052302
+SJVN,SJVN Limited,2022-01-10 22:53:55.961455
+SKFINDIA,SKF India Limited,2022-01-10 22:54:13.942954
+SKIPPER,Skipper Limited,2022-01-10 22:54:16.708276
+SKMEGGPROD,SKM Egg Products Export (India) Limited,2022-01-10 22:54:19.558626
+SMARTLINK,Smartlink Holdings Limited,2022-01-10 22:54:37.532139
+SMCGLOBAL,SMC Global Securities Limited,2022-01-10 22:54:40.331987
+SMLISUZU,SML Isuzu Limited,2022-01-10 22:54:43.207425
+SMLT,Sarthak Metals Limited,2022-01-10 22:55:01.044238
+SMSLIFE,SMS Lifesciences India Limited,2022-01-10 22:55:03.711618
+SMSPHARMA,SMS Pharmaceuticals Limited,2022-01-10 22:55:06.532304
+SNOWMAN,Snowman Logistics Limited,2022-01-10 22:55:09.268417
+SOBHA,Sobha Limited,2022-01-10 22:55:27.276770
+SOLARA,Solara Active Pharma Sciences Limited,2022-01-10 22:55:29.865970
+SOLARINDS,Solar Industries India Limited,2022-01-10 22:55:32.770499
+SOMANYCERA,Somany Ceramics Limited,2022-01-10 22:55:35.560769
+SOMICONVEY,Somi Conveyor Beltings Limited,2022-01-10 22:55:53.550550
+SONACOMS,Sona BLW Precision Forgings Limited,2022-01-10 22:55:56.222428
+SONATSOFTW,Sonata Software Limited,2022-01-10 22:55:59.209618
+SORILINFRA,SORIL Infra Resources Limited,2022-01-10 22:56:17.136772
+SOTL,Savita Oil Technologies Limited,2022-01-10 22:56:20.013442
+SOUTHBANK,The South Indian Bank Limited,2022-01-10 22:56:22.869658
+SPAL,.S.. P.. Apparels Limited.,2022-01-10 22:56:25.643039
+SPANDANA,Spandana Sphoorty Financial Limited,2022-01-10 22:56:43.552813
+SPARC,Sun Pharma Advanced Research Company Limited,2022-01-10 22:56:46.286848
+SPECIALITY,Speciality Restaurants Limited,2022-01-10 22:56:49.098497
+SPENCERS,Spencer's Retail Limited,2022-01-10 22:57:06.878674
+SPIC,Southern Petrochemicals Industries Corporation  Limited,2022-01-10 22:57:09.647864
+SPICEJET,SPICEJET LTD,2022-01-10 22:57:12.461657
+SPLIL,SPL Industries Limited,2022-01-10 22:57:15.204647
+SPTL,Sintex Plastics Technology Limited,2022-01-10 22:57:32.983857
+SREEL,Sreeleathers Limited,2022-01-10 22:57:35.764759
+SRF,SRF Limited,2022-01-10 22:57:38.670460
+SRHHYPOLTD,Sree Rayalaseema Hi-Strength Hypo Limited,2022-01-10 22:57:56.611151
+SRIPIPES,Srikalahasthi Pipes Limited,2022-01-10 22:57:59.506413
+SRPL,Shree Ram Proteins Limited,2022-01-10 22:58:02.208298
+SRTRANSFIN,Shriram Transport Finance Company Limited,2022-01-10 22:58:20.192687
+SSWL,Steel Strips Wheels Limited,2022-01-10 22:58:23.108636
+STARCEMENT,Star Cement Limited,2022-01-10 22:58:25.898371
+STAR,Strides Pharma Science Limited,2022-01-10 22:58:28.695932
+STARHEALTH,Star Health and Allied Insurance Company Limited,2022-01-10 22:58:46.409614
+STARPAPER,Star Paper Mills Limited,2022-01-10 22:58:49.237272
+STCINDIA,The State Trading Corporation of India Limited,2022-01-10 22:58:52.036118
+STEELCAS,Steelcast Limited,2022-01-10 22:59:09.998803
+STEELCITY,Steel City Securities Limited,2022-01-10 22:59:12.740148
+STEELXIND,STEEL EXCHANGE INDIA LIMITED,2022-01-10 22:59:15.569975
+STEL,Stel Holdings Limited,2022-01-10 22:59:18.249229
+STERTOOLS,Sterling Tools Limited,2022-01-10 22:59:36.237701
+STLTECH,Sterlite Technologies Limited,2022-01-10 22:59:39.122636
+STOVEKRAFT,Stove Kraft Limited,2022-01-10 22:59:41.837453
+STYLAMIND,Stylam Industries Limited,2022-01-10 22:59:59.812085
+SUBEXLTD,Subex Limited,2022-01-10 23:00:02.614387
+SUBROS,Subros Limited,2022-01-10 23:00:05.470303
+SUDARSCHEM,Sudarshan Chemical Industries Limited,2022-01-10 23:00:08.255065
+SUMEETINDS,Sumeet Industries Limited,2022-01-10 23:00:26.264232
+SUMICHEM,Sumitomo Chemical India Limited,2022-01-10 23:00:29.048523
+SUMIT,Sumit Woods Limited,2022-01-10 23:00:31.685550
+SUMMITSEC,Summit Securities Limited,2022-01-10 23:00:49.596037
+SUNCLAYLTD,Sundaram Clayton Limited,2022-01-10 23:00:52.367166
+SUNDARMFIN,Sundaram Finance Limited,2022-01-10 23:00:55.242077
+SUNDARMHLD,Sundaram Finance Holdings Limited,2022-01-10 23:00:57.875591
+SUNDRMBRAK,Sundaram Brake Linings Limited,2022-01-10 23:01:15.891773
+SUNDRMFAST,Sundram Fasteners Limited,2022-01-10 23:01:18.800821
+SUNFLAG,Sunflag Iron And Steel Company Limited,2022-01-10 23:01:21.566033
+SUNPHARMA,Sun Pharmaceutical Industries Limited,2022-01-10 23:01:39.596536
+SUNTECK,Sunteck Realty Limited,2022-01-10 23:01:42.366006
+SUNTV,Sun TV Network Limited,2022-01-10 23:01:45.163620
+SUPERHOUSE,Superhouse Limited,2022-01-10 23:02:03.169028
+SUPERSPIN,Super Spinning Mills Limited,2022-01-10 23:02:06.016728
+SUPPETRO,Supreme Petrochem Limited,2022-01-10 23:02:08.914058
+SUPRAJIT,Suprajit Engineering Limited,2022-01-10 23:02:26.958854
+SUPREMEENG,Supreme Engineering Limited,2022-01-10 23:02:29.622740
+SUPREMEIND,Supreme Industries Limited,2022-01-10 23:02:32.634962
+SUPRIYA,Supriya Lifescience Limited,2022-01-10 23:02:50.305208
+SURANAT&P,Surana Telecom and Power Limited,2022-01-10 23:02:53.150746
+SURYALAXMI,Suryalakshmi Cotton Mills Limited,2022-01-10 23:02:56.008503
+SURYAROSNI,Surya Roshni Limited,2022-01-10 23:03:14.049988
+SURYODAY,Suryoday Small Finance Bank Limited,2022-01-10 23:03:16.740090
+SUTLEJTEX,Sutlej Textiles and Industries Limited,2022-01-10 23:03:19.619716
+SUULD,Suumaya Industries Limited,2022-01-10 23:03:37.465371
+SUVEN,Suven Life Sciences Limited,2022-01-10 23:03:40.395731
+SUVENPHAR,Suven Pharmaceuticals Limited,2022-01-10 23:03:42.990949
+SUVIDHAA,Suvidhaa Infoserve Limited,2022-01-10 23:04:00.774334
+SUZLON,Suzlon Energy Limited,2022-01-10 23:04:03.534341
+SVPGLOB,SVP Global Ventures Limited,2022-01-10 23:04:06.285089
+SWANENERGY,Swan Energy Limited,2022-01-10 23:04:09.297268
+SWARAJENG,Swaraj Engines Limited,2022-01-10 23:04:27.336283
+SWELECTES,Swelect Energy Systems Limited,2022-01-10 23:04:30.176253
+SWSOLAR,Sterling and Wilson Renewable Energy Limited,2022-01-10 23:04:32.801320
+SYMPHONY,Symphony Limited,2022-01-10 23:04:50.789420
+SYNGENE,Syngene International Limited,2022-01-10 23:04:53.543219
+TAINWALCHM,Tainwala Chemical and Plastic (I) Limited,2022-01-10 23:04:56.388884
+TAJGVK,Taj GVK Hotels & Resorts Limited,2022-01-10 23:04:59.184267
+TAKE,Take Solutions Limited,2022-01-10 23:05:17.178406
+TALBROAUTO,Talbros Automotive Components Limited,2022-01-10 23:05:20.015351
+TANLA,Tanla Platforms Limited,2022-01-10 23:05:22.857820
+TARAPUR,Tarapur Transformers Limited,2022-01-10 23:05:40.827387
+TARC,TARC Limited,2022-01-10 23:05:43.420756
+TARMAT,Tarmat Limited,2022-01-10 23:05:46.162466
+TARSONS,Tarsons Products Limited,2022-01-10 23:06:03.783825
+TASTYBITE,Tasty Bite Eatables Limited,2022-01-10 23:06:06.643756
+TATACHEM,Tata Chemicals Limited,2022-01-10 23:06:09.565373
+TATACOFFEE,Tata Coffee Limited,2022-01-10 23:06:12.344765
+TATACOMM,Tata Communications Limited,2022-01-10 23:06:30.375612
+TATACONSUM,TATA CONSUMER PRODUCTS LIMITED,2022-01-10 23:06:33.177463
+TATAELXSI,Tata Elxsi Limited,2022-01-10 23:06:36.049111
+TATAINVEST,Tata Investment Corporation Limited,2022-01-10 23:06:54.000718
+TATAMETALI,Tata Metaliks Limited,2022-01-10 23:06:56.756046
+TATAMOTORS,Tata Motors Limited,2022-01-10 23:06:59.635282
+TATAMTRDVR,Tata Motors Limited,2022-01-10 23:07:17.311014
+TATAPOWER,Tata Power Company Limited,2022-01-10 23:07:20.127800
+TATASTEEL,Tata Steel Limited,2022-01-10 23:07:23.062566
+TATASTLLP,Tata Steel Long Products Limited,2022-01-10 23:07:41.039125
+TATVA,Tatva Chintan Pharma Chem Limited,2022-01-10 23:07:43.619903
+TBZ,Tribhovandas Bhimji Zaveri Limited,2022-01-10 23:07:46.415625
+TCI,Transport Corporation of India Limited,2022-01-10 23:08:04.371932
+TCIDEVELOP,TCI Developers Limited,2022-01-10 23:08:07.150224
+TCIEXP,TCI Express Limited,2022-01-10 23:08:09.840230
+TCIFINANCE,TCI Finance Limited,2022-01-10 23:08:27.804068
+TCNSBRANDS,.TCNS Clothing Co.. Limited.,2022-01-10 23:08:30.539760
+TCPLPACK,TCPL Packaging Limited,2022-01-10 23:08:33.431278
+TCS,Tata Consultancy Services Limited,2022-01-10 23:08:36.230849
+TDPOWERSYS,TD Power Systems Limited,2022-01-10 23:08:54.250126
+TEAMLEASE,Teamlease Services Limited,2022-01-10 23:08:57.082391
+TECHM,Tech Mahindra Limited,2022-01-10 23:08:59.882716
+TECHNOE,Techno Electric & Engineering Company Limited,2022-01-10 23:09:17.721788
+TEGA,Tega Industries Limited,2022-01-10 23:09:20.416985
+TEJASNET,Tejas Networks Limited,2022-01-10 23:09:23.153667
+TERASOFT,Tera Software Limited,2022-01-10 23:09:41.129281
+TEXINFRA,Texmaco Infrastructure & Holdings Limited,2022-01-10 23:09:43.973445
+TEXMOPIPES,Texmo Pipes and Products Limited,2022-01-10 23:09:46.804100
+TEXRAIL,Texmaco Rail & Engineering Limited,2022-01-10 23:09:49.616843
+TFCILTD,Tourism Finance Corporation of India Limited,2022-01-10 23:10:07.575213
+TGBHOTELS,TGB Banquets And Hotels Limited,2022-01-10 23:10:10.407431
+THANGAMAYL,Thangamayil Jewellery Limited,2022-01-10 23:10:13.301264
+THEINVEST,The Investment Trust Of India Limited,2022-01-10 23:10:16.031989
+THEMISMED,Themis Medicare Limited,2022-01-10 23:10:34.032502
+THERMAX,Thermax Limited,2022-01-10 23:10:36.812852
+THOMASCOOK,Thomas Cook  (India)  Limited,2022-01-10 23:10:39.612146
+THYROCARE,Thyrocare Technologies Limited,2022-01-10 23:10:42.352477
+TIDEWATER,Tide Water Oil Company (India) Limited,2022-01-10 23:11:00.366025
+TIIL,Technocraft Industries (India) Limited,2022-01-10 23:11:03.184149
+TIINDIA,Tube Investments of India Limited,2022-01-10 23:11:05.848205
+TIJARIA,Tijaria Polypipes Limited,2022-01-10 23:11:23.802600
+TIL,TIL Limited,2022-01-10 23:11:26.633175
+TIMESGTY,Times Guaranty Limited,2022-01-10 23:11:29.348848
+TIMETECHNO,Time Technoplast Limited,2022-01-10 23:11:47.368339
+TIMKEN,Timken India Limited,2022-01-10 23:11:50.227709
+TINPLATE,The Tinplate Company of India Limited,2022-01-10 23:11:53.081332
+TIRUMALCHM,Thirumalai Chemicals Limited,2022-01-10 23:12:11.064045
+TITAN,Titan Company Limited,2022-01-10 23:12:13.859796
+TMRVL,The Mandhana Retail Ventures Limited,2022-01-10 23:12:16.604876
+TNPETRO,Tamilnadu PetroProducts Limited,2022-01-10 23:12:34.581317
+TNPL,Tamil Nadu Newsprint & Papers Limited,2022-01-10 23:12:37.452888
+TOKYOPLAST,Tokyo Plast International Limited,2022-01-10 23:12:40.342810
+TORNTPHARM,Torrent Pharmaceuticals Limited,2022-01-10 23:12:58.349238
+TORNTPOWER,Torrent Power Limited,2022-01-10 23:13:01.159206
+TOTAL,Total Transport Systems Limited,2022-01-10 23:13:03.828856
+TOUCHWOOD,Touchwood Entertainment Limited,2022-01-10 23:13:21.660527
+TPLPLASTEH,TPL Plastech Limited,2022-01-10 23:13:24.515805
+TREEHOUSE,Tree House Education & Accessories Limited,2022-01-10 23:13:27.295411
+TREJHARA,TREJHARA SOLUTIONS LIMITED,2022-01-10 23:13:45.079197
+TRENT,Trent Limited,2022-01-10 23:13:47.868028
+TRIDENT,Trident Limited,2022-01-10 23:13:50.955608
+TRIGYN,Trigyn Technologies Limited,2022-01-10 23:14:08.956637
+TRIL,Transformers And Rectifiers (India) Limited,2022-01-10 23:14:11.771434
+TRITURBINE,Triveni Turbine Limited,2022-01-10 23:14:14.580535
+TRIVENI,Triveni Engineering & Industries Limited,2022-01-10 23:14:32.599856
+TTKHLTCARE,TTK Healthcare Limited,2022-01-10 23:14:35.390813
+TTKPRESTIG,TTK Prestige Limited,2022-01-10 23:14:38.198105
+TTL,T T Limited,2022-01-10 23:14:56.189616
+TV18BRDCST,TV18 Broadcast Limited,2022-01-10 23:14:58.967348
+TVSELECT,TVS Electronics Limited,2022-01-10 23:15:01.744130
+TVSMOTOR,TVS Motor Company Limited,2022-01-10 23:15:19.739268
+TVSSRICHAK,TVS Srichakra Limited,2022-01-10 23:15:22.631960
+TVTODAY,TV Today Network Limited,2022-01-10 23:15:25.489852
+TWL,Titagarh Wagons Limited,2022-01-10 23:15:43.522752
+UBL,United Breweries Limited,2022-01-10 23:15:46.289510
+UCALFUEL,Ucal Fuel Systems Limited,2022-01-10 23:15:49.110734
+UCOBANK,UCO Bank,2022-01-10 23:16:07.138928
+UDAICEMENT,Udaipur Cement Works Limited,2022-01-10 23:16:09.914490
+UFLEX,UFLEX Limited,2022-01-10 23:16:12.695073
+UFO,UFO Moviez India Limited,2022-01-10 23:16:30.644032
+UGARSUGAR,The Ugar Sugar Works Limited,2022-01-10 23:16:33.417157
+UGROCAP,Ugro Capital Limited,2022-01-10 23:16:36.148797
+UJJIVAN,Ujjivan Financial Services Limited,2022-01-10 23:16:54.035493
+UJJIVANSFB,Ujjivan Small Finance Bank Limited,2022-01-10 23:16:56.643268
+ULTRACEMCO,UltraTech Cement Limited,2022-01-10 23:16:59.461608
+UMANGDAIRY,Umang Dairies Limited,2022-01-10 23:17:02.225563
+UNICHEMLAB,Unichem Laboratories Limited,2022-01-10 23:17:20.241665
+UNIDT,United Drilling Tools Limited,2022-01-10 23:17:23.044496
+UNIENTER,Uniphos Enterprises Limited,2022-01-10 23:17:25.838982
+UNIONBANK,Union Bank of India,2022-01-10 23:17:43.844743
+UNITEDTEA,The United Nilgiri Tea Estates Company Limited,2022-01-10 23:17:46.620436
+UNIVASTU,Univastu India Limited,2022-01-10 23:17:49.350168
+UNIVCABLES,Universal Cables Limited,2022-01-10 23:17:52.141467
+UNIVPHOTO,Universus Photo Imagings Limited,2022-01-10 23:18:09.972101
+UPL,UPL Limited,2022-01-10 23:18:12.847549
+URJA,Urja Global Limited,2022-01-10 23:18:15.692580
+USHAMART,Usha Martin Limited,2022-01-10 23:18:18.467826
+UTIAMC,UTI Asset Management Company Limited,2022-01-10 23:18:36.299941
+UTTAMSTL,Uttam Galva Steels Limited,2022-01-10 23:18:39.091489
+UTTAMSUGAR,Uttam Sugar Mills Limited,2022-01-10 23:18:41.892556
+VADILALIND,Vadilal Industries Limited,2022-01-10 23:18:59.876669
+VAIBHAVGBL,Vaibhav Global Limited,2022-01-10 23:19:02.648714
+VAISHALI,Vaishali Pharma Limited,2022-01-10 23:19:05.325939
+VAKRANGEE,Vakrangee Limited,2022-01-10 23:19:08.098824
+VALIANTORG,Valiant Organics Limited,2022-01-10 23:19:26.042314
+VARDHACRLC,Vardhman Acrylics Limited,2022-01-10 23:19:28.848858
+VARROC,Varroc Engineering Limited,2022-01-10 23:19:31.521472
+VASCONEQ,Vascon Engineers Limited,2022-01-10 23:19:49.555558
+VASWANI,Vaswani Industries Limited,2022-01-10 23:19:52.326022
+VBL,Varun Beverages Limited,2022-01-10 23:19:55.113926
+VEDL,Vedanta Limited,2022-01-10 23:20:13.152027
+VENKEYS,Venky's (India) Limited,2022-01-10 23:20:16.004691
+VENUSREM,Venus Remedies Limited,2022-01-10 23:20:18.781872
+VERTOZ,Vertoz Advertising Limited,2022-01-10 23:20:36.625287
+VESUVIUS,Vesuvius India Limited,2022-01-10 23:20:39.435329
+VETO,Veto Switchgears And Cables Limited,2022-01-10 23:20:42.187563
+VGUARD,V-Guard Industries Limited,2022-01-10 23:21:00.169765
+VHL,Vardhman Holdings Limited,2022-01-10 23:21:02.854244
+VIDHIING,Vidhi Specialty Food Ingredients Limited,2022-01-10 23:21:05.732824
+VIJAYA,Vijaya Diagnostic Centre Limited,2022-01-10 23:21:23.406410
+VIKASLIFE,Vikas Lifecare Limited,2022-01-10 23:21:26.075494
+VIKASPROP,Vikas Proppant & Granite Limited,2022-01-10 23:21:28.829417
+VIKASWSP,Vikas WSP Limited,2022-01-10 23:21:31.545024
+VIMTALABS,Vimta Labs Limited,2022-01-10 23:21:49.545554
+VINATIORGA,Vinati Organics Limited,2022-01-10 23:21:52.352350
+VINDHYATEL,Vindhya Telelinks Limited,2022-01-10 23:21:55.146925
+VINEETLAB,Vineet Laboratories Limited,2022-01-10 23:22:12.872464
+VINYLINDIA,Vinyl Chemicals (India) Limited,2022-01-10 23:22:15.659136
+VIPCLOTHNG,VIP Clothing Limited,2022-01-10 23:22:18.512095
+VIPIND,VIP Industries Limited,2022-01-10 23:22:36.511336
+VIPULLTD,Vipul Limited,2022-01-10 23:22:39.310800
+VISAKAIND,Visaka Industries Limited,2022-01-10 23:22:42.158876
+VISHAL,Vishal Fabrics Limited,2022-01-10 23:23:00.119410
+VISHWARAJ,Vishwaraj Sugar Industries Limited,2022-01-10 23:23:02.837813
+VIVIMEDLAB,Vivimed Labs Limited,2022-01-10 23:23:05.593788
+VLSFINANCE,VLS Finance Limited,2022-01-10 23:23:23.686806
+VMART,V-Mart Retail Limited,2022-01-10 23:23:26.490523
+VOLTAMP,Voltamp Transformers Limited,2022-01-10 23:23:29.260219
+VOLTAS,Voltas Limited,2022-01-10 23:23:47.281047
+VRLLOG,VRL Logistics Limited,2022-01-10 23:23:50.037301
+VSSL,Vardhman Special Steels Limited,2022-01-10 23:23:52.896055
+VSTIND,VST Industries Limited,2022-01-10 23:24:10.866970
+VSTTILLERS,.V..S..T Tillers Tractors Limited.,2022-01-10 23:24:13.643801
+VTL,Vardhman Textiles Limited,2022-01-10 23:24:16.492175
+WABAG,VA Tech Wabag Limited,2022-01-10 23:24:19.303917
+WABCOINDIA,WABCO India Limited,2022-01-10 23:24:37.347753
+WALCHANNAG,Walchandnagar Industries Limited,2022-01-10 23:24:40.193998
+WATERBASE,Waterbase Limited,2022-01-10 23:24:43.049156
+WEBELSOLAR,Websol Energy System Limited,2022-01-10 23:25:01.028807
+WEIZMANIND,Weizmann Limited,2022-01-10 23:25:03.797163
+WELCORP,Welspun Corp Limited,2022-01-10 23:25:06.597599
+WELENT,Welspun Enterprises Limited,2022-01-10 23:25:09.398103
+WELINV,Welspun Investments and Commercials Limited,2022-01-10 23:25:27.293409
+WELSPUNIND,Welspun India Limited,2022-01-10 23:25:30.059194
+WENDT,Wendt (India) Limited,2022-01-10 23:25:32.824147
+WESTLIFE,Westlife Development Ltd,2022-01-10 23:25:50.948752
+WHEELS,Wheels India Limited,2022-01-10 23:25:54.187841
+WHIRLPOOL,Whirlpool of India Limited,2022-01-10 23:25:57.423922
+WINDLAS,Windlas Biotech Limited,2022-01-10 23:26:00.408673
+WINDMACHIN,Windsor Machines Limited,2022-01-10 23:26:18.645527
+WINPRO,WinPro Industries Limited,2022-01-10 23:26:21.767408
+WIPRO,Wipro Limited,2022-01-10 23:26:24.992234
+WOCKPHARMA,Wockhardt Limited,2022-01-10 23:26:28.108504
+WONDERLA,Wonderla Holidays Limited,2022-01-10 23:26:46.508104
+WORTH,Worth Peripherals Limited,2022-01-10 23:26:49.666813
+WSTCSTPAPR,West Coast Paper Mills Limited,2022-01-10 23:26:52.908968
+XCHANGING,Xchanging Solutions Limited,2022-01-10 23:26:56.012737
+XELPMOC,Xelpmoc Design And Tech Limited,2022-01-10 23:27:13.834607
+YESBANK,Yes Bank Limited,2022-01-10 23:27:36.395774
+YUKEN,Yuken India Limited,2022-01-10 23:27:39.312262
+ZEEL,Zee Entertainment Enterprises Limited,2022-01-10 23:27:42.094522
+ZEELEARN,Zee Learn Limited,2022-01-10 23:27:44.917750
+ZENITHEXPO,Zenith Exports Limited,2022-01-10 23:28:02.868086
+ZENSARTECH,Zensar Technologies Limited,2022-01-10 23:28:05.667790
+ZENTEC,Zen Technologies Limited,2022-01-10 23:28:08.525089
+ZODIAC,Zodiac Energy Limited,2022-01-10 23:28:26.292385
+ZODIACLOTH,Zodiac Clothing Company Limited,2022-01-10 23:28:29.106788
+ZOMATO,Zomato Limited,2022-01-10 23:28:31.646301
+ZOTA,Zota Health Care LImited,2022-01-10 23:28:34.362966
+ZUARI,Zuari Agro Chemicals Limited,2022-01-10 23:28:52.325621
+ZUARIGLOB,Zuari Global Limited,2022-01-10 23:28:55.090306
+ZYDUSWELL,Zydus Wellness Limited,2022-01-10 23:28:57.893823

@@ -1,0 +1,10 @@
+Report Date,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,2020-06-30 00:00:00,2020-09-30 00:00:00,2021-03-31 00:00:00,2021-06-30 00:00:00,2021-09-30 00:00:00,Company_Name
+Sales,,,,,,112.87,140.25,133.88,146.31,153.16,CLEAN
+Expenses,,,,,,56.76,70.0,63.78,74.97,84.42,CLEAN
+Other Income,,,,,,5.27,7.55,5.73,6.53,8.61,CLEAN
+Depreciation,,,,,,4.15,4.04,4.34,5.79,6.11,CLEAN
+Interest,,,,,,,,,0.01,0.01,CLEAN
+Profit before tax,,,,,,57.23,73.76,71.49,72.07,71.23,CLEAN
+Tax,,,,,,15.31,19.48,18.36,17.46,17.71,CLEAN
+Net profit,,,,,,41.92,54.27,53.12,54.61,53.52,CLEAN
+Operating Profit,,,,,,56.11,70.25,70.1,71.34,68.74,CLEAN
